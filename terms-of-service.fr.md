@@ -1,3 +1,9 @@
+# 
+
+****
+
+---
+
 ## 1. Portée de ces conditions
 
 Detour Post (ci-après dénommé « l'Application ») est exploité par Yong Wang (ci-après dénommé « nous », « notre » ou « notre »). En téléchargeant, en installant ou en utilisant l'application, vous reconnaissez que vous avez lu, compris et accepté d'être lié par les présentes conditions d'utilisation et notre [Politique de confidentialité] (privacy-policy.en.md).
@@ -13,7 +19,9 @@ L'application vous permet d'envoyer des lettres à des personnes que vous connai
 L'application sert exclusivement aux communications entre connaissances établies :
 
 - Pas de correspondance étrangère, pas de communauté publique, pas de flux de découverte et pas de recommandations de contenu algorithmiques ;
+
 - Les destinataires sont spécifiquement désignés par vous, et les destinataires doivent également utiliser l'Application pour recevoir des lettres ;
+
 - Pas de messagerie de masse, de chaînes de diffusion ou de diffusion publique.
 
 Ces limitations font partie intégrante de notre produit, et nous ne le transformerons pas en un réseau social étranger dans les prochaines versions.
@@ -41,12 +49,19 @@ Vous êtes seul responsable du contenu que vous envoyez. Veuillez ne pas envoyer
 Lorsque vous utilisez l'Application, vous ne pouvez pas :
 
 1. Harceler, menacer, insulter ou discriminer autrui, ou envoyer de manière répétée des lettres à des personnes qui ne souhaitent pas les recevoir ;
+
 2. Envoyer du spam, des publicités non sollicitées, du contenu frauduleux ou des liens promotionnels ;
+
 3. Usurper l'identité d'un individu ou d'une entité, y compris nous ;
+
 4. Transmettre du contenu interdit par les lois applicables, y compris du matériel d'abus sexuel sur des enfants, du contenu violent ou du contenu violant la vie privée d'autrui ;
+
 5. Recueillir ou divulguer les informations personnelles d'autrui sans autorisation ;
+
 6. Utiliser des scripts automatisés, des robots, des clients modifiés ou des outils non autorisés pour accéder à l'application ou interférer avec nos services ;
+
 7. Contourner les mécanismes de paiement pour obtenir des objets virtuels payants ou des droits d'adhésion ;
+
 8. Effectuer une ingénierie inverse ou altérer le cryptage des lettres ou tenter d'obtenir les clés de déchiffrement d'autrui.
 
 Pour les comptes violant ces règles, nous pouvons émettre des avertissements, restreindre les fonctionnalités ou suspendre/résilier les comptes. Tout contenu illégal présumé peut être signalé aux autorités compétentes comme l'exige la loi.
@@ -80,14 +95,23 @@ Pour les comptes violant ces règles, nous pouvons émettre des avertissements, 
 L'abonnement mensuel individuel est un abonnement à renouvellement automatique. Veuillez confirmer les détails suivants avant l'achat :
 
 - **Titre de l'abonnement :** Adhésion mensuelle à Detour Post
+
 - **Période d'abonnement :** 1 mois de renouvellement automatique.
+
 - **Avantages :** Accès complet à tous les services de papeterie, timbres, décorations et chronométrage.
+
 - **Prix :** Tel qu'indiqué sur la fiche d'achat de l'App Store local.
+
 - **Paiement :** Facturé sur votre compte Apple ID lors de la confirmation de l'achat.
+
 - **Renouvellement automatique :** Les abonnements se renouvellent automatiquement sauf annulation au moins 24 heures avant la fin du cycle de facturation en cours.
+
 - **Frais de renouvellement :** Votre compte sera facturé pour le renouvellement dans les 24 heures précédant la fin de la période en cours.
+
 - **Gestion des abonnements :** Vous pouvez gérer et annuler vos abonnements dans les paramètres de votre compte Apple ID.
+
 - **Essai gratuit :** Toute partie inutilisée d'un essai gratuit, si elle est proposée, sera perdue lors de l'achat d'un abonnement.
+
 - **Conditions pertinentes :** [Politique de confidentialité](privacy-policy.en.md) ｜ [CLUF standard Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## 9. Modifications et résiliation du service
@@ -127,10 +151,13 @@ Nous pouvons mettre à jour ces conditions de temps à autre. Les modifications 
 ## 14. Contactez-nous
 
 - **Opérateur :** Yong Wang
+
 - **E-mail de contact :** detourpost@aivolo.studio
 
 Le service client et les réclamations sont traités via l'e-mail ci-dessus. Pour les demandes de renseignements sur les données personnelles, veuillez consulter notre [Politique de confidentialité] (privacy-policy.en.md).
 
+© 2026 Yong Wang. Tous droits réservés.
+
 ---
 
-© 2026 Yong Wang. Tous droits réservés.
+© 2026 Yong Wang. All rights reserved.

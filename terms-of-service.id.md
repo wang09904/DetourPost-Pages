@@ -1,3 +1,9 @@
+# 
+
+****
+
+---
+
 ## 1. Ruang Lingkup Ketentuan Ini
 
 Detour Post (selanjutnya disebut sebagai "Aplikasi") dioperasikan oleh Yong Wang (selanjutnya disebut sebagai "kami", "kita", atau "milik kami"). Dengan mengunduh, menginstal, atau menggunakan Aplikasi, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat oleh Ketentuan Layanan ini dan [Kebijakan Privasi] kami (privacy-policy.en.md).
@@ -13,7 +19,9 @@ Aplikasi ini memungkinkan Anda mengirim surat kepada orang yang Anda kenal di ke
 Aplikasi ini secara eksklusif melayani komunikasi antara kenalan yang sudah ada:
 
 - Tidak ada orang asing yang cocok, tidak ada komunitas publik, tidak ada feed penemuan, dan tidak ada rekomendasi konten algoritmik;
+
 - Penerima secara khusus ditunjuk oleh Anda, dan penerima juga harus menggunakan Aplikasi untuk menerima surat;
+
 - Tidak ada pesan massal, saluran siaran, atau sosialisasi publik.
 
 Keterbatasan ini merupakan bagian integral dari produk kami, dan kami tidak akan mengubahnya menjadi jaringan sosial yang asing pada rilis mendatang.
@@ -41,12 +49,19 @@ Anda sepenuhnya bertanggung jawab atas konten yang Anda kirim. Harap jangan meng
 Saat menggunakan Aplikasi, Anda tidak boleh:
 
 1. Melecehkan, mengancam, menghina, atau mendiskriminasi orang lain, atau berulang kali mengirimkan surat kepada orang yang tidak mau menerimanya;
+
 2. Mengirim spam, iklan yang tidak diminta, konten palsu, atau link promosi;
+
 3. Meniru identitas individu atau entitas mana pun, termasuk kami;
+
 4. Mengirimkan konten yang dilarang oleh undang-undang yang berlaku, termasuk materi pelecehan seksual terhadap anak-anak, konten kekerasan, atau konten yang melanggar privasi orang lain;
+
 5. Mengumpulkan atau mengungkapkan informasi pribadi orang lain tanpa izin;
+
 6. Menggunakan skrip otomatis, bot, klien yang dimodifikasi, atau alat tidak sah untuk mengakses Aplikasi atau mengganggu layanan kami;
+
 7. Melewati mekanisme pembayaran untuk mendapatkan barang virtual berbayar atau hak keanggotaan;
+
 8. Merekayasa balik atau merusak enkripsi surat atau mencoba mendapatkan kunci dekripsi orang lain.
 
 Untuk akun yang melanggar aturan ini, kami dapat mengeluarkan peringatan, membatasi fitur, atau menangguhkan/menghentikan akun. Dugaan konten ilegal dapat dilaporkan kepada pihak berwenang sebagaimana diwajibkan oleh hukum.
@@ -69,7 +84,7 @@ Untuk akun yang melanggar aturan ini, kami dapat mengeluarkan peringatan, membat
 
 **Barang Permanen.** Alat tulis, prangko dekoratif, dan kurir, setelah ditukarkan, menjadi milik permanen akun Anda dan dapat digunakan kembali untuk surat di masa mendatang.
 
-**Keanggotaan Bulanan.** Keanggotaan memberikan akses ke semua prangko, alat tulis, dekorasi, dan layanan pengaturan waktu selama periode penagihan aktif. Setelah habis masa berlakunya, barang yang belum dibeli tidak lagi tersedia untuk surat baru; surat keberangkatan dan komitmen dalam penerbangan dihormati sepenuhnya.
+**Keanggotaan Bulanan.** Keanggotaan memberikan akses ke semua prangko, kertas surat dan dekorasi, dekorasi, dan layanan pengaturan waktu selama periode penagihan aktif. Setelah habis masa berlakunya, barang yang belum dibeli tidak lagi tersedia untuk surat baru; surat keberangkatan dan komitmen dalam penerbangan dihormati sepenuhnya.
 
 **Pengembalian Dana dan Pemulihan.** Pembelian diproses oleh Apple. Silakan kirimkan permintaan pengembalian dana langsung ke Apple. Setelah disetujui, hak terkait akan dicabut tanpa memengaruhi pembelian sah yang tidak terkait.
 
@@ -80,14 +95,23 @@ Untuk akun yang melanggar aturan ini, kami dapat mengeluarkan peringatan, membat
 Keanggotaan Bulanan Perorangan adalah langganan yang diperpanjang secara otomatis. Harap konfirmasi detail berikut sebelum membeli:
 
 - **Judul Langganan:** Memutar Posting Keanggotaan Bulanan
+
 - **Periode Berlangganan:** 1 bulan perpanjangan otomatis.
-- **Manfaat:** Akses penuh ke semua alat tulis, perangko, dekorasi, dan layanan pengaturan waktu.
+
+- **Manfaat:** Akses penuh ke semua kertas surat dan dekorasi, perangko, dekorasi, dan layanan pengaturan waktu.
+
 - **Harga:** Seperti yang ditampilkan pada lembar pembelian App Store lokal.
+
 - **Pembayaran:** Dibebankan ke akun ID Apple Anda setelah konfirmasi pembelian.
+
 - **Perpanjangan Otomatis:** Langganan diperpanjang secara otomatis kecuali dibatalkan setidaknya 24 jam sebelum akhir siklus penagihan saat ini.
+
 - **Biaya Perpanjangan:** Akun Anda akan dikenakan biaya perpanjangan dalam waktu 24 jam sebelum akhir periode berjalan.
+
 - **Mengelola Langganan:** Anda dapat mengelola dan membatalkan langganan di Pengaturan Akun ID Apple Anda.
+
 - **Uji Coba Gratis:** Bagian uji coba gratis yang tidak terpakai, jika ditawarkan, akan hangus saat membeli langganan.
+
 - **Ketentuan Terkait:** [Kebijakan Privasi](privacy-policy.en.md) ｜ [EULA Standar Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## 9. Perubahan dan Penghentian Layanan
@@ -106,7 +130,7 @@ Tidak ada ketentuan dalam bagian ini yang mengecualikan tanggung jawab yang tida
 
 ## 11. Kekayaan Intelektual
 
-Perangkat lunak, antarmuka, aset visual, alat tulis, stempel, desain karakter, merek dagang, dan teks dalam Aplikasi adalah milik kami atau pemberi lisensi kami. Ketentuan ini memberi Anda lisensi pribadi, non-eksklusif, dan tidak dapat dipindahtangankan untuk menggunakan Aplikasi.
+Perangkat lunak, antarmuka, aset visual, kertas surat dan dekorasi, stempel, desain karakter, merek dagang, dan teks dalam Aplikasi adalah milik kami atau pemberi lisensi kami. Ketentuan ini memberi Anda lisensi pribadi, non-eksklusif, dan tidak dapat dipindahtangankan untuk menggunakan Aplikasi.
 
 Anda boleh menyimpan dan membagikan isi surat yang diterima untuk tujuan pribadi dan non-komersial. Eksploitasi komersial, penyalinan tanpa izin, atau pendistribusian ulang sangat dilarang.
 
@@ -127,10 +151,13 @@ Kami dapat memperbarui Ketentuan ini dari waktu ke waktu. Perubahan material aka
 ## 14. Hubungi Kami
 
 - **Operator:** Yong Wang
+
 - **Email Kontak:** detourpost@aivolo.studio
 
 Layanan pelanggan dan keluhan ditangani melalui email di atas. Untuk pertanyaan tentang data pribadi, silakan baca [Kebijakan Privasi] kami (privacy-policy.en.md).
 
+© 2026 Yong Wang. Semua hak dilindungi undang-undang.
+
 ---
 
-© 2026 Yong Wang. Semua hak dilindungi undang-undang.
+© 2026 Yong Wang. All rights reserved.

@@ -1,3 +1,9 @@
+# 
+
+****
+
+---
+
 ## 1. Alcance de estos términos
 
 Detour Post (en adelante, "la Aplicación") es operada por Yong Wang (en adelante, "nosotros", "nos" o "nuestro"). Al descargar, instalar o utilizar la aplicación, usted reconoce que ha leído, comprendido y aceptado regirse por estos Términos de servicio y nuestra [Política de privacidad] (privacy-policy.en.md).
@@ -13,7 +19,9 @@ La aplicación te permite enviar cartas a personas que conoces en la vida real. 
 La aplicación sirve exclusivamente para comunicaciones entre conocidos establecidos:
 
 - Sin coincidencias de extraños, sin comunidad pública, sin feeds de descubrimiento y sin recomendaciones algorítmicas de contenido;
+
 - Los destinatarios son designados específicamente por usted y los destinatarios también deben utilizar la Aplicación para recibir cartas;
+
 - No se permiten mensajes masivos, canales de difusión o difusión pública.
 
 Estas limitaciones son parte integral de nuestro producto y no lo transformaremos en una red social extraña en futuras versiones.
@@ -41,12 +49,19 @@ Usted es el único responsable del contenido que envía. No envíe mensajes de t
 Al utilizar la aplicación, no podrá:
 
 1. Acosar, amenazar, insultar o discriminar a otros, o enviar repetidamente cartas a personas que no deseen recibirlas;
+
 2. Enviar spam, anuncios no solicitados, contenido fraudulento o enlaces promocionales;
+
 3. Hacerse pasar por cualquier individuo o entidad, incluidos nosotros;
+
 4. Transmitir contenido prohibido por las leyes aplicables, incluido material de abuso sexual infantil, contenido violento o contenido que viole la privacidad de otros;
+
 5. Recopilar o divulgar información personal de otros sin autorización;
+
 6. Usar scripts automatizados, bots, clientes modificados o herramientas no autorizadas para acceder a la Aplicación o interferir con nuestros servicios;
+
 7. Evitar los mecanismos de pago para obtener artículos virtuales pagados o derechos de membresía;
+
 8. Realizar ingeniería inversa o alterar el cifrado de cartas o intentar obtener las claves de descifrado de otras personas.
 
 Para las cuentas que violen estas reglas, podemos emitir advertencias, restringir funciones o suspender o cancelar cuentas. El contenido ilegal sospechoso puede denunciarse a las autoridades competentes según lo exige la ley.
@@ -67,9 +82,9 @@ Para las cuentas que violen estas reglas, podemos emitir advertencias, restringi
 
 **Monedas.** Las monedas se compran mediante compras dentro de la aplicación (StoreKit) y se utilizan para canjear bienes virtuales permanentes y servicios de cronometraje. Las monedas no son moneda y no se pueden transferir, cobrar ni mover entre cuentas.
 
-**Artículos permanentes.** Los artículos de papelería, los sellos decorativos y los correos, una vez canjeados, pertenecen permanentemente a su cuenta y pueden reutilizarse para cartas futuras.
+**Artículos permanentes.** Los artículos de papel de carta, los sellos decorativos y los correos, una vez canjeados, pertenecen permanentemente a su cuenta y pueden reutilizarse para cartas futuras.
 
-**Membresía mensual.** La membresía otorga acceso a todas las estampillas, artículos de papelería, decoraciones y servicios de cronometraje durante el período de facturación activo. Al vencimiento, los artículos no comprados dejan de estar disponibles para nuevas cartas; Las cartas enviadas y los compromisos en vuelo se cumplen plenamente.
+**Membresía mensual.** La membresía otorga acceso a todas las estampillas, artículos de papel de carta, decoraciones y servicios de cronometraje durante el período de facturación activo. Al vencimiento, los artículos no comprados dejan de estar disponibles para nuevas cartas; Las cartas enviadas y los compromisos en vuelo se cumplen plenamente.
 
 **Reembolsos y restauraciones.** Las compras son procesadas por Apple. Envíe las solicitudes de reembolso directamente a Apple. Una vez aprobados, los derechos asociados se revocan sin afectar las compras válidas no relacionadas.
 
@@ -80,14 +95,23 @@ Para las cuentas que violen estas reglas, podemos emitir advertencias, restringi
 La Membresía Mensual Individual es una suscripción que se renueva automáticamente. Confirme los siguientes detalles antes de realizar la compra:
 
 - **Título de la suscripción:** Membresía mensual de Detour Post
+
 - **Período de suscripción:** 1 mes de renovación automática.
-- **Beneficios:** Acceso completo a todos los servicios de papelería, sellos, decoraciones y cronometraje.
+
+- **Beneficios:** Acceso completo a todos los servicios de papel de carta, sellos, decoraciones y cronometraje.
+
 - **Precio:** Como se muestra en la hoja de compra de la App Store local.
+
 - **Pago:** Se carga a su cuenta de ID de Apple al confirmar la compra.
+
 - **Renovación automática:** Las suscripciones se renuevan automáticamente a menos que se cancelen al menos 24 horas antes del final del ciclo de facturación actual.
+
 - **Cargo de renovación:** Se le cobrará a su cuenta la renovación dentro de las 24 horas anteriores al final del período actual.
+
 - **Administración de suscripciones:** Puede administrar y cancelar sus suscripciones en la configuración de su cuenta de ID de Apple.
+
 - **Prueba gratuita:** Cualquier parte no utilizada de una prueba gratuita, si se ofrece, se perderá al comprar una suscripción.
+
 - **Términos relevantes:** [Política de privacidad](privacy-policy.en.md) ｜ [CLUF estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## 9. Modificaciones y Terminación del Servicio
@@ -106,7 +130,7 @@ Nada en esta sección excluye responsabilidad que no pueda excluirse según las 
 
 ## 11. Propiedad intelectual
 
-El software, las interfaces, los recursos visuales, los artículos de papelería, los sellos, los diseños de personajes, las marcas comerciales y el texto dentro de la Aplicación son de nuestra propiedad o de nuestros licenciantes. Estos Términos le otorgan una licencia personal, no exclusiva e intransferible para utilizar la Aplicación.
+El software, las interfaces, los recursos visuales, los artículos de papel de carta, los sellos, los diseños de personajes, las marcas comerciales y el texto dentro de la Aplicación son de nuestra propiedad o de nuestros licenciantes. Estos Términos le otorgan una licencia personal, no exclusiva e intransferible para utilizar la Aplicación.
 
 Puede conservar y compartir el contenido de las cartas recibidas para fines personales y no comerciales. La explotación comercial, la copia no autorizada o la redistribución están estrictamente prohibidas.
 
@@ -127,10 +151,13 @@ Podemos actualizar estos Términos de vez en cuando. Los cambios materiales se n
 ## 14. Contáctenos
 
 - **Operador:** Yong Wang
+
 - **Correo electrónico de contacto:** detourpost@aivolo.studio
 
 El servicio al cliente y las quejas se manejan a través del correo electrónico anterior. Para consultas sobre datos personales, consulte nuestra [Política de Privacidad] (privacy-policy.en.md).
 
+© 2026 Yong Wang. Reservados todos los derechos.
+
 ---
 
-© 2026 Yong Wang. Reservados todos los derechos.
+© 2026 Yong Wang. All rights reserved.

@@ -19,7 +19,9 @@ The App allows you to send letters to people you know in real life. Letters are 
 The App exclusively serves communications between established acquaintances:
 
 - No stranger matching, no public community, no discovery feeds, and no algorithmic content recommendations;
+
 - Recipients are specifically designated by you, and recipients must also use the App to receive letters;
+
 - No mass messaging, broadcast channels, or public dissemination.
 
 These limitations are integral to our product, and we will not transform this into a stranger social network in future releases.
@@ -47,12 +49,19 @@ You are solely responsible for the content you send. Please do not send text or 
 When using the App, you may not:
 
 1. Harass, threaten, insult, or discriminate against others, or repeatedly send letters to individuals who do not wish to receive them;
+
 2. Send spam, unsolicited advertisements, fraudulent content, or promotional links;
+
 3. Impersonate any individual or entity, including us;
+
 4. Transmit content prohibited by applicable laws, including child sexual abuse material, violent content, or content violating others' privacy;
+
 5. Collect or disclose personal information of others without authorization;
+
 6. Use automated scripts, bots, modified clients, or unauthorized tools to access the App or interfere with our services;
+
 7. Bypass payment mechanisms to obtain paid virtual items or membership entitlements;
+
 8. Reverse engineer or tamper with letter encryption or attempt to obtain others' decryption keys.
 
 For accounts violating these rules, we may issue warnings, restrict features, or suspend/terminate accounts. Suspected illegal content may be reported to competent authorities as required by law.
@@ -86,14 +95,23 @@ For accounts violating these rules, we may issue warnings, restrict features, or
 The Individual Monthly Membership is an auto-renewing subscription. Please confirm the following details prior to purchase:
 
 - **Subscription Title:** Detour Post Monthly Membership
+
 - **Subscription Period:** 1 month auto-renewing.
+
 - **Benefits:** Full access to all stationery, stamps, decorations, and timing services.
+
 - **Price:** As displayed on the local App Store purchase sheet.
+
 - **Payment:** Charged to your Apple ID account upon confirmation of purchase.
+
 - **Auto-Renewal:** Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing cycle.
+
 - **Renewal Charge:** Your account will be charged for renewal within 24 hours prior to the end of the current period.
+
 - **Managing Subscriptions:** You can manage and cancel your subscriptions in your Apple ID Account Settings.
+
 - **Free Trial:** Any unused portion of a free trial, if offered, will be forfeited upon purchasing a subscription.
+
 - **Relevant Terms:** [Privacy Policy](privacy-policy.en.md) ｜ [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## 9. Service Modifications and Termination
@@ -133,9 +151,12 @@ We may update these Terms from time to time. Material changes will be prominentl
 ## 14. Contact Us
 
 - **Operator:** Yong Wang
+
 - **Contact Email:** detourpost@aivolo.studio
 
 Customer service and complaints are handled via the email above. For personal data inquiries, please consult our [Privacy Policy](privacy-policy.en.md).
+
+© 2026 Yong Wang. All rights reserved.
 
 ---
 
