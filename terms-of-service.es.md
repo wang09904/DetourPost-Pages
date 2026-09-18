@@ -1,0 +1,136 @@
+## 1. Alcance de estos términos
+
+Detour Post (en adelante, "la Aplicación") es operada por Yong Wang (en adelante, "nosotros", "nos" o "nuestro"). Al descargar, instalar o utilizar la aplicación, usted reconoce que ha leído, comprendido y aceptado regirse por estos Términos de servicio y nuestra [Política de privacidad] (privacy-policy.en.md).
+
+La aplicación se distribuye a través de la App Store de Apple. El Acuerdo de licencia de usuario final estándar de Apple (EULA estándar) también se aplica a usted con respecto a la licencia de software. Estos Términos rigen los servicios de entrega postal, las cuentas, los artículos virtuales y las membresías que proporcionamos. En caso de conflicto entre ambos, el CLUF estándar de Apple prevalecerá con respecto a la licencia de software, y estos Términos prevalecerán con respecto a los servicios de entrega postal.
+
+Si no está de acuerdo con alguna parte de estos Términos, no utilice la Aplicación.
+
+## 2. Qué hace la aplicación
+
+La aplicación te permite enviar cartas a personas que conoces en la vida real. Las cartas son entregadas por mensajeros virtuales basados ​​en la distancia de viaje en el mundo real, mensajeros y vehículos de transporte entre ciudades, y tardan un tiempo realista en llegar.
+
+La aplicación sirve exclusivamente para comunicaciones entre conocidos establecidos:
+
+- Sin coincidencias de extraños, sin comunidad pública, sin feeds de descubrimiento y sin recomendaciones algorítmicas de contenido;
+- Los destinatarios son designados específicamente por usted y los destinatarios también deben utilizar la Aplicación para recibir cartas;
+- No se permiten mensajes masivos, canales de difusión o difusión pública.
+
+Estas limitaciones son parte integral de nuestro producto y no lo transformaremos en una red social extraña en futuras versiones.
+
+## 3. Cuentas y elegibilidad
+
+Debes iniciar sesión con una cuenta de Apple o Google. Utilice una cuenta que esté autorizado a utilizar y asuma la responsabilidad de todas las actividades realizadas en esa cuenta. Notifíquenos de inmediato si sospecha de un acceso no autorizado a su cuenta.
+
+Debes tener al menos 13 años para utilizar la aplicación. Ciertas jurisdicciones imponen umbrales de edad mínima más altos para el procesamiento de datos personales; La edad mínima de registro para dichas jurisdicciones se determina dinámicamente mediante las reglas del servidor. Si no cumple con el requisito de edad para su jurisdicción, no podrá completar el registro.
+
+Proporcione información veraz sobre su fecha de nacimiento y región al registrarse. Las cuentas que intenten eludir las restricciones de edad con información falsa pueden cancelarse.
+
+Una cuenta es estrictamente para uso personal del individuo registrado. Está prohibido vender, prestar, compartir o acceder a cuentas entre varias personas.
+
+## 4. Tu contenido te pertenece
+
+Usted conserva todos los derechos de autor y la propiedad de todos los textos y fotografías que redacte o cargue en la aplicación. No reclamamos ningún derecho de propiedad sobre sus cartas, ni leemos su contenido para ningún propósito.
+
+El contenido de la carta y las fotografías adjuntas se cifran de extremo a extremo en su dispositivo antes de su transmisión. Sólo usted y su destinatario designado tienen las claves de descifrado. Nuestros servidores almacenan sólo texto cifrado. Los operadores, el personal de atención al cliente y los algoritmos automatizados no tienen un canal de descifrado, sin excepciones. Para obtener detalles técnicos, consulte nuestra [Política de privacidad] (privacy-policy.en.md).
+
+Usted es el único responsable del contenido que envía. No envíe mensajes de texto ni fotografías sobre los cuales no tenga derechos legítimos.
+
+## 5. Conducta prohibida
+
+Al utilizar la aplicación, no podrá:
+
+1. Acosar, amenazar, insultar o discriminar a otros, o enviar repetidamente cartas a personas que no deseen recibirlas;
+2. Enviar spam, anuncios no solicitados, contenido fraudulento o enlaces promocionales;
+3. Hacerse pasar por cualquier individuo o entidad, incluidos nosotros;
+4. Transmitir contenido prohibido por las leyes aplicables, incluido material de abuso sexual infantil, contenido violento o contenido que viole la privacidad de otros;
+5. Recopilar o divulgar información personal de otros sin autorización;
+6. Usar scripts automatizados, bots, clientes modificados o herramientas no autorizadas para acceder a la Aplicación o interferir con nuestros servicios;
+7. Evitar los mecanismos de pago para obtener artículos virtuales pagados o derechos de membresía;
+8. Realizar ingeniería inversa o alterar el cifrado de cartas o intentar obtener las claves de descifrado de otras personas.
+
+Para las cuentas que violen estas reglas, podemos emitir advertencias, restringir funciones o suspender o cancelar cuentas. El contenido ilegal sospechoso puede denunciarse a las autoridades competentes según lo exige la ley.
+
+**Puedes protegerte.** Puedes bloquear cualquier conexión en cualquier momento. El bloqueo es recíproco: ninguna de las partes puede enviar cartas a la otra, lo que evita el acoso inverso. El bloqueo también cancela irreversiblemente las cartas en vuelo enviadas por la otra parte que aún no han sido entregadas; Las cartas ya entregadas no se ven afectadas y el desbloqueo no resucita las cartas canceladas. También puede informar una conexión o una carta específica. Los informes requieren seleccionar una categoría de motivo y no incluyen el contenido de las cartas, porque no podemos verlos. Al enviar un informe, se bloquea automáticamente al denunciado de forma simultánea y revisaremos manualmente el incidente en un plazo de 48 horas.
+
+## 6. ¿Qué sucede después de enviar una carta?
+
+**Retirar.** Antes de que salga una carta, puedes retirarla sin cargo. Una vez enviada, la carta no se puede recuperar y se entregará según lo programado. Los créditos de entrega consumidos no son reembolsables al momento de la retirada.
+
+**Entrega.** A su llegada, la carta se vuelve visible para el destinatario. El destinatario podrá conservar la carta en su buzón local. No puedes revocar unilateralmente el contenido ya entregado.
+
+**Eliminación de cuenta.** Tras la eliminación de la cuenta, las cartas no enviadas se cancelan; Las cartas enviadas continúan a su destino según lo programado. La eliminación de la cuenta es permanente e irreversible.
+
+**Eliminación de conexión.** Si se corta una conexión, las cartas ya recibidas permanecen conservadas en los buzones respectivos, mientras que las cartas no enviadas siguen las reglas de recuperación.
+
+## 7. Monedas, artículos permanentes y membresías
+
+**Monedas.** Las monedas se compran mediante compras dentro de la aplicación (StoreKit) y se utilizan para canjear bienes virtuales permanentes y servicios de cronometraje. Las monedas no son moneda y no se pueden transferir, cobrar ni mover entre cuentas.
+
+**Artículos permanentes.** Los artículos de papelería, los sellos decorativos y los correos, una vez canjeados, pertenecen permanentemente a su cuenta y pueden reutilizarse para cartas futuras.
+
+**Membresía mensual.** La membresía otorga acceso a todas las estampillas, artículos de papelería, decoraciones y servicios de cronometraje durante el período de facturación activo. Al vencimiento, los artículos no comprados dejan de estar disponibles para nuevas cartas; Las cartas enviadas y los compromisos en vuelo se cumplen plenamente.
+
+**Reembolsos y restauraciones.** Las compras son procesadas por Apple. Envíe las solicitudes de reembolso directamente a Apple. Una vez aprobados, los derechos asociados se revocan sin afectar las compras válidas no relacionadas.
+
+**Precios.** Prevalecen los precios que se muestran en la interfaz de compra local de StoreKit. Nos reservamos el derecho de ajustar los precios, lo que no afectará las transacciones completadas previamente.
+
+## 8. Suscripciones de renovación automática
+
+La Membresía Mensual Individual es una suscripción que se renueva automáticamente. Confirme los siguientes detalles antes de realizar la compra:
+
+- **Título de la suscripción:** Membresía mensual de Detour Post
+- **Período de suscripción:** 1 mes de renovación automática.
+- **Beneficios:** Acceso completo a todos los servicios de papelería, sellos, decoraciones y cronometraje.
+- **Precio:** Como se muestra en la hoja de compra de la App Store local.
+- **Pago:** Se carga a su cuenta de ID de Apple al confirmar la compra.
+- **Renovación automática:** Las suscripciones se renuevan automáticamente a menos que se cancelen al menos 24 horas antes del final del ciclo de facturación actual.
+- **Cargo de renovación:** Se le cobrará a su cuenta la renovación dentro de las 24 horas anteriores al final del período actual.
+- **Administración de suscripciones:** Puede administrar y cancelar sus suscripciones en la configuración de su cuenta de ID de Apple.
+- **Prueba gratuita:** Cualquier parte no utilizada de una prueba gratuita, si se ofrece, se perderá al comprar una suscripción.
+- **Términos relevantes:** [Política de privacidad](privacy-policy.en.md) ｜ [CLUF estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+## 9. Modificaciones y Terminación del Servicio
+
+Mejoramos continuamente la aplicación y podemos modificar, agregar o eliminar funciones. No disminuiremos derechos específicos que ya haya adquirido.
+
+Puede dejar de usar la Aplicación en cualquier momento y eliminar su cuenta directamente dentro de la Aplicación. Podemos suspender o cancelar su acceso por violaciones graves o repetidas de estos Términos, actividad fraudulenta o coacción legal.
+
+## 10. Descargo de responsabilidad y limitación de responsabilidad
+
+La Aplicación se proporciona "TAL CUAL" y "SEGÚN DISPONIBILIDAD". Si bien nos esforzamos por lograr la estabilidad, no garantizamos que los servicios sean ininterrumpidos o libres de errores, ni garantizamos que cada carta llegue exactamente en el tiempo estimado debido a variaciones de red o dispositivo. Los encuentros con mensajeros en tránsito y los desvíos de la historia son características diseñadas del producto y no constituyen una violación del servicio.
+
+En la medida máxima permitida por la ley aplicable, no seremos responsables de daños indirectos, incidentales, especiales o consecuentes. Nuestra responsabilidad total por los servicios de entrega postal no excederá el monto total realmente pagado por usted por la Aplicación en los doce meses anteriores al reclamo.
+
+Nada en esta sección excluye responsabilidad que no pueda excluirse según las leyes de protección al consumidor aplicables.
+
+## 11. Propiedad intelectual
+
+El software, las interfaces, los recursos visuales, los artículos de papelería, los sellos, los diseños de personajes, las marcas comerciales y el texto dentro de la Aplicación son de nuestra propiedad o de nuestros licenciantes. Estos Términos le otorgan una licencia personal, no exclusiva e intransferible para utilizar la Aplicación.
+
+Puede conservar y compartir el contenido de las cartas recibidas para fines personales y no comerciales. La explotación comercial, la copia no autorizada o la redistribución están estrictamente prohibidas.
+
+"Detour Post" y los logotipos asociados son nuestras marcas comerciales. Apple, App Store y MapKit son marcas comerciales de Apple Inc.
+
+## 12. Ley aplicable y resolución de disputas
+
+Estos Términos se regirán por las leyes aplicables a la ubicación del desarrollador, sin tener en cuenta los principios de conflicto de leyes.
+
+Esto no le priva de los derechos obligatorios de protección al consumidor según las leyes de su residencia habitual. Podrá iniciar actuaciones ante los tribunales competentes de su residencia habitual.
+
+En caso de cualquier disputa, primero contáctenos en detourpost@aivolo.studio. Haremos esfuerzos razonables para responder y buscar una resolución amistosa dentro de las 48 horas.
+
+## 13. Cambios a estos términos
+
+Podemos actualizar estos Términos de vez en cuando. Los cambios materiales se notificarán de forma destacada dentro de la aplicación. El uso continuado de la Aplicación significa la aceptación de los Términos modificados.
+
+## 14. Contáctenos
+
+- **Operador:** Yong Wang
+- **Correo electrónico de contacto:** detourpost@aivolo.studio
+
+El servicio al cliente y las quejas se manejan a través del correo electrónico anterior. Para consultas sobre datos personales, consulte nuestra [Política de Privacidad] (privacy-policy.en.md).
+
+---
+
+© 2026 Yong Wang. Reservados todos los derechos.

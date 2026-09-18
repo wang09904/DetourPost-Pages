@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-Detour Post (in Chinese: 锦书谁寄, hereinafter referred to as "the App") is operated by Yong Wang (hereinafter referred to as "we", "us", or "our"). We act as the data controller for your personal information.
+Detour Post (hereinafter referred to as "the App") is operated by Yong Wang (hereinafter referred to as "we", "us", or "our"). We act as the data controller for your personal information.
 
 This Privacy Policy explains what information we collect, why we process it, how it is handled and stored, retention periods, and how you can exercise your privacy rights.
 

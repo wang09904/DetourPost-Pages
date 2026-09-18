@@ -6,7 +6,7 @@
 
 ## 1. Scope of These Terms
 
-Detour Post (in Chinese: 锦书谁寄, hereinafter referred to as "the App") is operated by Yong Wang (hereinafter referred to as "we", "us", or "our"). By downloading, installing, or using the App, you acknowledge that you have read, understood, and agreed to be bound by these Terms of Service and our [Privacy Policy](privacy-policy.en.md).
+Detour Post (hereinafter referred to as "the App") is operated by Yong Wang (hereinafter referred to as "we", "us", or "our"). By downloading, installing, or using the App, you acknowledge that you have read, understood, and agreed to be bound by these Terms of Service and our [Privacy Policy](privacy-policy.en.md).
 
 The App is distributed through the Apple App Store. Apple's Standard End User License Agreement (Standard EULA) also applies to you regarding software licensing. These Terms govern the postal delivery services, accounts, virtual items, and memberships provided by us. In the event of any conflict between the two, the Apple Standard EULA shall prevail regarding software licensing, and these Terms shall prevail regarding postal delivery services.
 
@@ -116,7 +116,7 @@ Software, interfaces, visual assets, stationery, stamps, character designs, trad
 
 You may preserve and share letter contents received for personal, non-commercial purposes. Commercial exploitation, unauthorized copying, or redistribution is strictly prohibited.
 
-"Detour Post", "锦书谁寄", and associated logos are our trademarks. Apple, App Store, and MapKit are trademarks of Apple Inc.
+"Detour Post" and associated logos are our trademarks. Apple, App Store, and MapKit are trademarks of Apple Inc.
 
 ## 12. Governing Law and Dispute Resolution
 
