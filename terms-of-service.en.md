@@ -6,7 +6,7 @@
 
 ## 1. Scope of These Terms
 
-Detour Post (in Chinese: 锦书谁寄, hereinafter referred to as "the App") is operated by Yong Wang (hereinafter referred to as "we", "us", or "our"). By downloading, installing, or using the App, you acknowledge that you have read, understood, and agreed to be bound by these Terms of Service and our [Privacy Policy](privacy.html).
+Detour Post (in Chinese: 锦书谁寄, hereinafter referred to as "the App") is operated by Yong Wang (hereinafter referred to as "we", "us", or "our"). By downloading, installing, or using the App, you acknowledge that you have read, understood, and agreed to be bound by these Terms of Service and our [Privacy Policy](privacy-policy.en.md).
 
 The App is distributed through the Apple App Store. Apple's Standard End User License Agreement (Standard EULA) also applies to you regarding software licensing. These Terms govern the postal delivery services, accounts, virtual items, and memberships provided by us. In the event of any conflict between the two, the Apple Standard EULA shall prevail regarding software licensing, and these Terms shall prevail regarding postal delivery services.
 
@@ -38,7 +38,7 @@ An account is strictly for personal use by the registered individual. Account se
 
 You retain full copyright and ownership of all text and photos you compose or upload in the App. We do not claim any ownership rights over your letters, nor do we read your content for any purpose.
 
-Letter contents and attached photos are end-to-end encrypted on your device before transmission. Only you and your designated recipient hold the decryption keys. Our servers store only ciphertext. Operators, customer support staff, and automated algorithms have no decryption channel, with zero exceptions. For technical details, please refer to our [Privacy Policy](privacy.html).
+Letter contents and attached photos are end-to-end encrypted on your device before transmission. Only you and your designated recipient hold the decryption keys. Our servers store only ciphertext. Operators, customer support staff, and automated algorithms have no decryption channel, with zero exceptions. For technical details, please refer to our [Privacy Policy](privacy-policy.en.md).
 
 You are solely responsible for the content you send. Please do not send text or photos for which you do not hold legitimate rights.
 
@@ -94,7 +94,7 @@ The Individual Monthly Membership is an auto-renewing subscription. Please confi
 - **Renewal Charge:** Your account will be charged for renewal within 24 hours prior to the end of the current period.
 - **Managing Subscriptions:** You can manage and cancel your subscriptions in your Apple ID Account Settings.
 - **Free Trial:** Any unused portion of a free trial, if offered, will be forfeited upon purchasing a subscription.
-- **Relevant Terms:** [Privacy Policy](privacy.html) ｜ [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+- **Relevant Terms:** [Privacy Policy](privacy-policy.en.md) ｜ [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## 9. Service Modifications and Termination
 
@@ -135,7 +135,7 @@ We may update these Terms from time to time. Material changes will be prominentl
 - **Operator:** Yong Wang
 - **Contact Email:** detourpost@aivolo.studio
 
-Customer service and complaints are handled via the email above. For personal data inquiries, please consult our [Privacy Policy](privacy.html).
+Customer service and complaints are handled via the email above. For personal data inquiries, please consult our [Privacy Policy](privacy-policy.en.md).
 
 ---
 

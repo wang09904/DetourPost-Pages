@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -174,17 +173,28 @@ footer.site-footer {
     text-align: right;
     margin-bottom: 4px;
 }
-
-.lang-switcher {
-    margin-top: 16px;
+.lang-bar-container {
+    margin-top: 18px;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.lang-label {
+    font-size: 0.85rem;
+    color: #5C646B;
+    margin-right: 6px;
+    font-weight: 500;
+}
+.lang-switcher {
+    display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    justify-content: center;
+    gap: 6px;
 }
 .lang-btn {
     font-size: 0.82rem;
-    padding: 4px 12px;
+    padding: 5px 12px;
     border-radius: 6px;
     background: #FAF6EE;
     border: 1px solid #E2DBD0;
@@ -196,4 +206,26 @@ footer.site-footer {
     background: #146363;
     color: #FFFFFF;
     border-color: #146363;
+}
+.custom-select {
+    padding: 6px 14px;
+    border-radius: 8px;
+    border: 1px solid #E2DBD0;
+    background: #FAF6EE;
+    color: #23272A;
+    font-size: 0.85rem;
+    cursor: pointer;
+    outline: none;
+}
+.custom-select:focus {
+    border-color: #146363;
+}
+.translation-note {
+    background: #F4EFEB;
+    border-left: 4px solid #146363;
+    padding: 12px 16px;
+    border-radius: 0 8px 8px 0;
+    font-size: 0.88rem;
+    color: #5C646B;
+    margin-bottom: 24px;
 }
