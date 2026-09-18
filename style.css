@@ -174,3 +174,26 @@ footer.site-footer {
     text-align: right;
     margin-bottom: 4px;
 }
+
+.lang-switcher {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.lang-btn {
+    font-size: 0.82rem;
+    padding: 4px 12px;
+    border-radius: 6px;
+    background: #FAF6EE;
+    border: 1px solid #E2DBD0;
+    color: #5C646B;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+.lang-btn.active, .lang-btn:hover {
+    background: #146363;
+    color: #FFFFFF;
+    border-color: #146363;
+}

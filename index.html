@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-Hans">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>法律条款与隐私政策 - 锦书谁寄 (Detour Post)</title>
+    <title>Legal & Privacy - Detour Post (锦书谁寄)</title>
     <link rel="stylesheet" href="style.css">
     <style>
         .portal-grid {
@@ -49,43 +49,93 @@
             align-items: center;
             gap: 4px;
         }
+        .locales-list {
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .loc-chip {
+            display: inline-block;
+            padding: 4px 10px;
+            background: #FAF6EE;
+            border: 1px solid #E2DBD0;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            color: #5C646B;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <header class="site-header">
             <div class="app-badge">✉</div>
-            <h1>锦书谁寄 ｜ Detour Post</h1>
-            <p style="color: #5C646B; margin-top: 8px;">熟人之间的慢通信 iOS 应用 · 端到端加密 · 真实邮路</p>
-            <div class="meta-info" style="margin-top: 14px;">版本 1.0 ｜ 生效日期：2026-09-18</div>
+            <h1>Detour Post ｜ 锦书谁寄</h1>
+            <p style="color: #5C646B; margin-top: 8px;">A Slow Postal Messenger for Real-world Connections · End-to-End Encrypted</p>
+            <div class="meta-info" style="margin-top: 14px;">Version 1.0 ｜ Effective Date: 2026-09-18</div>
         </header>
 
         <main class="document-card">
-            <h2 style="border: none; margin-bottom: 8px;">法律文件与合规公示</h2>
-            <p>欢迎查阅「锦书谁寄」（Detour Post）的使用条款与隐私保护政策。我们致力于守护熟人之间的私密书信往来，全流程采用端到端加密，不持有解密私钥，也不建立任何公共广场与算法推荐。</p>
+            <h2 style="border: none; margin-bottom: 8px;">Legal Documents & Compliance</h2>
+            <p>Welcome to the legal terms and privacy notices for Detour Post. We are committed to protecting private correspondence between real-world acquaintances with client-side end-to-end encryption, zero server decryption access, and no stranger discovery feeds.</p>
             
             <div class="portal-grid">
+                <a href="terms-en.html" class="portal-card">
+                    <div>
+                        <h3>Terms of Service (English)</h3>
+                        <p>Governs postal delivery services, eligibility, virtual items, monthly auto-renewing subscriptions, dispute resolution, and intellectual property.</p>
+                    </div>
+                    <span class="cta">Read Terms of Service (EN) →</span>
+                </a>
+
+                <a href="privacy-en.html" class="portal-card">
+                    <div>
+                        <h3>Privacy Policy (English)</h3>
+                        <p>Explains our end-to-end encryption architecture, minimal data collection, zero tracking / ad SDK policy, and 48-hour privacy rights response SLA.</p>
+                    </div>
+                    <span class="cta">Read Privacy Policy (EN) →</span>
+                </a>
+
                 <a href="terms.html" class="portal-card">
                     <div>
-                        <h3>使用条款 ｜ Terms of Service</h3>
-                        <p>涵盖本应用的寄信服务范围、账号使用资格、虚拟物品与月会员权益、自动续费订阅细则、服务争议解决与知识产权声明。</p>
+                        <h3>使用条款 (简体中文)</h3>
+                        <p>涵盖本应用的寄信服务范围、账号使用资格、金币与月会员权益、自动续费订阅细则、服务争议解决与知识产权声明。</p>
                     </div>
-                    <span class="cta">查阅使用条款全文 →</span>
+                    <span class="cta">查阅使用条款 (中文) →</span>
                 </a>
 
                 <a href="privacy.html" class="portal-card">
                     <div>
-                        <h3>隐私政策 ｜ Privacy Policy</h3>
+                        <h3>隐私政策 (简体中文)</h3>
                         <p>详细说明信件端到端加密机制、我们处理的最小必要数据（如账号标识与中转密文）、不收集的权限列表以及 48 小时权利请求保障。</p>
                     </div>
-                    <span class="cta">查阅隐私政策全文 →</span>
+                    <span class="cta">查阅隐私政策 (中文) →</span>
                 </a>
+            </div>
+
+            <div style="margin-top: 36px; padding-top: 24px; border-top: 1px solid #EAE3D5;">
+                <h3 style="margin-top: 0; color: #146363; font-size: 1rem;">Supported App Locales (12 Languages)</h3>
+                <p style="font-size: 0.88rem; color: #5C646B;">Detour Post client UI supports 12 official locales. Legal terms are governed globally by the official English and Chinese versions:</p>
+                <div class="locales-list">
+                    <span class="loc-chip">English (en)</span>
+                    <span class="loc-chip">简体中文 (zh-Hans)</span>
+                    <span class="loc-chip">繁體中文 (zh-Hant)</span>
+                    <span class="loc-chip">日本語 (ja)</span>
+                    <span class="loc-chip">한국어 (ko)</span>
+                    <span class="loc-chip">Français (fr)</span>
+                    <span class="loc-chip">Deutsch (de)</span>
+                    <span class="loc-chip">Español (es)</span>
+                    <span class="loc-chip">Português - Brasil (pt-BR)</span>
+                    <span class="loc-chip">Русский (ru)</span>
+                    <span class="loc-chip">ไทย (th)</span>
+                    <span class="loc-chip">Bahasa Indonesia (id)</span>
+                </div>
             </div>
         </main>
 
         <footer class="site-footer">
-            <p>© 2026 Yong Wang (Detour Post)　保留所有权利</p>
-            <p>联系邮箱：<a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></p>
+            <p>© 2026 Yong Wang (Detour Post). All rights reserved.</p>
+            <p>Contact: <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></p>
         </footer>
     </div>
 </body>
