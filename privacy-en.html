@@ -11,7 +11,7 @@
         <header class="site-header">
             <div class="app-badge">✉</div>
             <h1>Detour Post</h1>
-            <div class="meta-info">Version 1.0 ｜ Effective: 2026-09-18 ｜ Updated: 2026-09-18</div>
+            <div class="meta-info">Local review draft · updated 6 October 2026 · Not published or in effect · Legal and language review pending.</div>
             <nav class="nav-pills">
                 <a href="terms-en.html" class="">Terms of Service</a>
                 <a href="privacy-en.html" class=" active">Privacy Policy</a>
@@ -28,43 +28,48 @@
         <main class="document-card">
 <section class="legal-section">
 <h2>1. Introduction</h2>
-<p>Detour Post (hereinafter referred to as &quot;the App&quot;) is operated by Yong Wang (hereinafter referred to as &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;). We act as the data controller for your personal information.</p>
+<p>Detour Post is operated by Yong Wang, an individual. In this Policy, “we” means Yong Wang, who decides how personal information is handled for the service.</p>
 <p>This Privacy Policy explains what information we collect, why we process it, how it is handled and stored, retention periods, and how you can exercise your privacy rights.</p>
 <p>Our fundamental principle is straightforward: <strong>Your letters are private between you and your recipient. We cannot read them, and we have no intention of reading them.</strong></p>
 </section>
 <section class="legal-section">
 <h2>2. Information We Process</h2>
+<section id="21-information-you-actively-provide" class="level3">
 <h3>2.1 Information You Actively Provide</h3>
-<div class="scroll-hint">↔ Scroll horizontally to view full table</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Information</th>
 <th>Details</th>
 <th>Necessity</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Account Identifier</td>
-<td>Unique identifier obtained via Sign in with Apple or Google</td>
-<td>Required for account creation</td>
+<td>Account and Login Identity</td>
+<td>The account identifier, sign-in provider identifier, and verified email returned by Apple or Google</td>
+<td>Required to create and authenticate your account</td>
 </tr>
 <tr>
 <td>Login Credentials</td>
-<td>Session authentication tokens</td>
+<td>Session authentication tokens; the service stores a hash of each token</td>
 <td>Required for secure access</td>
 </tr>
 <tr>
-<td>Date of Birth &amp; Region</td>
-<td>Used at registration solely to determine age eligibility</td>
-<td>Required for registration. <strong>Date of birth is used only at the moment of evaluation and immediately discarded; we never store it.</strong> Only the rule version and selected region are retained</td>
+<td>Birth month and year, and selected region</td>
+<td>The App uses the birth month and year you enter during registration to check age eligibility on your device; eligibility rules also depend on your selected region</td>
+<td>Required for registration. The App keeps your birth month and year in account-specific data on your device so you can view and edit them in your profile. They are not sent to or stored on our servers; the service retains the applicable policy version and sign-in region</td>
 </tr>
 <tr>
 <td>Display Name</td>
-<td>Custom name set in your profile, visible to your recipients</td>
-<td>Optional</td>
+<td>The name shown to people you correspond with</td>
+<td>Required to complete registration; you can later change it in your profile</td>
 </tr>
 <tr>
 <td>City</td>
-<td>City selected as departure/arrival point</td>
-<td>Optional, but required to send letters</td>
+<td>The city you select for sending letters, including the saved place details used by the app</td>
+<td>Required to complete registration and send letters</td>
 </tr>
 <tr>
 <td>Connection Info</td>
@@ -73,32 +78,40 @@
 </tr>
 <tr>
 <td>Letter Contents</td>
-<td>Letter text, stationery choice, attached photos, courier, arrival time</td>
+<td>Letter text, stationery and decoration choices, attached photos, courier, and chosen or scheduled delivery time</td>
 <td>Created only when you choose to send</td>
 </tr>
 <tr>
 <td>Report Details</td>
-<td>Selected violation category (Harassment, Spam, Safety) and target ID. <strong>Contains NO letter text, photos, freeform text, or coordinates</strong>; automatically blocks the party simultaneously</td>
+<td>Reporter and reported-account IDs; target type, source and ID; selected reason; audit correlation ID; status and creation time. <strong>Contains no letter text, photos, freeform text, or coordinates.</strong> Filing a report also blocks the reported account and terminates letters that person sent to you which have not yet been delivered</td>
 <td>Created only when you file a report</td>
 </tr>
 <tr>
 <td>Private Notes</td>
-<td>Private notes you assign to a contact</td>
-<td>Optional. <strong>Stored strictly on your local device, never uploaded</strong></td>
+<td>Notes you write for a contact</td>
+<td>Optional. Stored on your device and included in your personal iCloud backup only if you enable that backup; not uploaded to our service</td>
 </tr>
-</tbody></table></div>
-<p><strong>End-to-End Encryption of Letters and Photos.</strong> Letter text and photos are encrypted directly on your local device before transmission. We hold only ciphertext and possess no decryption keys. Consequently, <strong>we cannot read, inspect, or provide your letter text or photos to anyone</strong>—including law enforcement inquiries, where only ciphertext can be provided. See Section 4.</p>
+</tbody>
+</table>
+</div>
+<p><strong>End-to-End Encryption of Letters and Photos.</strong> Letter text and photos are encrypted directly on your device before they are sent to our service. For those letter contents, we hold ciphertext and no decryption keys. Other account and service records described in this Policy are separate. See Section 4.</p>
+</section>
+<section id="22-information-automatically-generated-during-use" class="level3">
 <h3>2.2 Information Automatically Generated During Use</h3>
-<div class="scroll-hint">↔ Scroll horizontally to view full table</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Information</th>
 <th>Details</th>
 <th>Purpose</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>Delivery Status</td>
 <td>Departure, journey milestones, arrival, recall, termination status</td>
-<td>Powering the postal delivery pipeline</td>
+<td>Sending and delivering letters</td>
 </tr>
 <tr>
 <td>Account &amp; Safety State</td>
@@ -107,8 +120,8 @@
 </tr>
 <tr>
 <td>Commerce Ledger</td>
-<td>Order records, Coin balances, permanent item ownership, active subscriptions</td>
-<td>Billing, fulfillment, and refund handling</td>
+<td>Orders and coin ledger/balances, stamp and timing-service inventory, permanent item ownership, subscriptions, and purchase-restoration state</td>
+<td>Billing, fulfillment, restoration, and refund handling</td>
 </tr>
 <tr>
 <td>Push &amp; Device Tokens</td>
@@ -120,234 +133,271 @@
 <td>API operational logs, error traces, and performance diagnostics</td>
 <td>Security, stability, and troubleshooting</td>
 </tr>
-</tbody></table></div>
-<p><strong>No Secrets in Logs or Push Notifications.</strong> Operational logs never contain letter text, photos, invitation codes, or exact coordinates. Push notifications carry only generic status phrases (e.g., &quot;A letter has arrived&quot;) without personal identifiers, message text, or cities.</p>
+</tbody>
+</table>
+</div>
+</section>
+<section id="23-what-we-never-do" class="level3">
 <h3>2.3 What We NEVER Do</h3>
 <ul>
-<li>We do NOT access your full photo library, contacts, or precise GPS location;</li>
-<li>We do NOT collect tracking identifiers (IDFA/IDFV), embed ad SDKs, or engage in cross-app tracking;</li>
-<li>We do NOT feed letter data into AI training models—we have no access to plaintext;</li>
-<li>We NEVER sell your personal information to third parties.</li>
+<li><p>We do NOT access your full photo library, contacts, or precise GPS location;</p></li>
+<li><p>The App does not use advertising identifiers for ad targeting or cross-app tracking and does not include an advertising SDK;</p></li>
+<li><p>We do NOT feed letter data into AI training models—we have no access to plaintext;</p></li>
+<li><p>We NEVER sell your personal information to third parties.</p></li>
 </ul>
+</section>
 </section>
 <section class="legal-section">
 <h2>3. Why We Process Information</h2>
-<div class="scroll-hint">↔ Scroll horizontally to view full table</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Purpose</th>
 <th>Information Involved</th>
-<th>Legal Basis</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>Postal delivery and receipt</td>
 <td>Account ID, display name, city, connection info, encrypted letter, delivery status</td>
-<td>Performance of service contract</td>
 </tr>
 <tr>
 <td>In-App Purchases and refunds</td>
 <td>Purchase ledger, subscription validity</td>
-<td>Performance of service contract</td>
 </tr>
 <tr>
 <td>Delivery push notifications</td>
 <td>Push token, delivery state</td>
-<td>Your consent (revocable anytime)</td>
 </tr>
 <tr>
 <td>Safety, abuse prevention, and reports</td>
 <td>Safety state, report details, operational logs</td>
-<td>Legitimate interest &amp; legal obligation</td>
 </tr>
 <tr>
 <td>Diagnostics and service stability</td>
 <td>Operational logs</td>
-<td>Legitimate interest</td>
 </tr>
 <tr>
 <td>Handling user rights and inquiries</td>
 <td>Information provided by you</td>
-<td>Legal obligation</td>
 </tr>
-</tbody></table></div>
+</tbody>
+</table>
+</div>
+<p>The legal basis for each processing purpose depends on the law that applies to you and the facts of that processing. This draft does not yet assign a basis to each purpose; that review must be completed before publication. We will not rely on a basis that does not apply under the relevant law.</p>
 </section>
 <section class="legal-section">
 <h2>4. End-to-End Encryption</h2>
 <p>This is the most critical technical safeguard of Detour Post:</p>
-<p><strong>Encryption Occurs Locally on Your Device.</strong> When you tap &quot;Seal this letter&quot;, all text and photos are encrypted on your device prior to transmission. Decryption keys are held exclusively by you and your designated recipient.</p>
-<p><strong>We Hold Only Ciphertext.</strong> Our servers store only encrypted blobs. We do not retain decryption keys in any form, nor do we provide manual key recovery.</p>
+<p><strong>Encryption Occurs Locally on Your Device.</strong> When you tap "Seal this letter", all text and photos are encrypted on your device prior to transmission. Decryption keys are held exclusively by you and your designated recipient.</p>
+<p><strong>We Hold Only Ciphertext for Letter Text and Photos.</strong> Our service stores letter text and photos in encrypted form and does not hold their decryption keys. We do not provide manual key recovery. We also process the account and service records described in this Policy.</p>
 <p><strong>No Exceptions.</strong> We maintain no administrative backdoors, content inspection channels, or customer service overrides. Because we cannot view plaintext, we cannot perform automated keyword filtering or content recommendation.</p>
 <p><strong>Implications:</strong></p>
 <ul>
-<li>Only you can see the content prior to delivery;</li>
-<li>Only you and your recipient can see the content after delivery;</li>
-<li>If you lose your device and lack a personal iCloud backup, we cannot recover your letters—we do not have the keys;</li>
-<li>Safety reports trigger relationship blocks and account penalties, without human operators reading letter content.</li>
+<li><p>Only you can see the content prior to delivery;</p></li>
+<li><p>Only you and your recipient can see the content after delivery;</p></li>
+<li><p>If you lose your device and lack a personal iCloud backup, we cannot recover your letters—we do not have the keys;</p></li>
+<li><p>A safety report records its selected reason and associated account or letter identifiers, triggers a two-way block, and terminates letters sent by the reported person to you that have not yet been delivered. The report does not expose letter content. If Yong Wang becomes aware of a report, he will make reasonable efforts to review it and take appropriate action where warranted. No specific review or response time is promised; any further account action depends on review.</p></li>
 </ul>
-<p><strong>Personal Backup.</strong> Letter data backups occur exclusively through your personal iCloud if enabled. Backups reside entirely within your Apple ID ecosystem. We have no access to your iCloud backup or Keychain keys.</p>
+<p><strong>Personal Backup.</strong> If you enable it, selected vault data—including private contact notes, drafts, pending invitation material, and saved letter data—is encrypted on your device and backed up to your personal iCloud through CloudKit. The backup is encrypted with a key kept in your device's Keychain. After a backup is verified, a recovery key is stored in iCloud Keychain so it can be available on your other Apple devices. We do not receive either key and cannot decrypt the backup.</p>
 </section>
 <section class="legal-section">
 <h2>5. System Permissions</h2>
-<p>The App requests only one system permission:</p>
-<div class="scroll-hint">↔ Scroll horizontally to view full table</div>
-<div class="table-responsive"><table><thead><tr>
+<p>The App may request notification permission after you first send or receive a letter, and you can also request it in Settings. It requests add-only Photos permission if you choose to save a generated traveler card to your photo library.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Permission</th>
 <th>When Requested</th>
 <th>Purpose</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>Notifications</td>
-<td>When you opt in to letter alerts</td>
-<td>Alerts you when letters depart or arrive. Payloads contain only generic phrases</td>
+<td>After your first sent or received letter, or when you choose to enable alerts in Settings</td>
+<td>The visible alert uses generic wording. The payload also contains a notification category and an opaque event identifier used to open the relevant app screen; it excludes letter text and location</td>
 </tr>
-</tbody></table></div>
-<p>Disabling notifications does not affect sending or receiving letters.</p>
-<p><strong>Permissions We Do NOT Request:</strong></p>
+<tr>
+<td>Photos (add-only)</td>
+<td>When you choose to save a generated traveler card</td>
+<td>Saves that image to your photo library; it does not grant access to browse your library</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>The App syncs your in-app notification preferences to the service, which uses them when deciding whether to send the corresponding alerts. Turning off iOS notification permission controls whether alerts can appear on that device. Neither action by itself deletes or deactivates the device-token record on our service. Refusing an optional system permission does not by itself prevent basic sending or receiving.</p>
+<p><strong>Other permission behavior:</strong></p>
 <ul>
-<li><strong>Photos:</strong> Photo selection uses the native system photo picker. Only the single selected image is passed to the App; full photo library access is neither requested nor required.</li>
-<li><strong>Location:</strong> Cities are selected manually from a list. We never track your device coordinates.</li>
-<li><strong>Contacts, Camera, Microphone, App Tracking (ATT):</strong> Not requested and no corresponding code exists.</li>
+<li><p><strong>Photos:</strong> When you attach a photo to a letter, the system photo picker gives the App access only to the image you select; the App does not browse your full library. Saving a generated traveler card to Photos uses the separate add-only Photos access and its system permission prompt.</p></li>
+<li><p><strong>Location:</strong> You choose the city for each letter. We do not collect device location or track movement. The app includes a built-in set of country and city names and coordinates for some local search suggestions, limited offline fallback results, and map labels. City search checks this catalog first and uses a catalog match without sending that search term to MapKit. If there is no catalog match, the app requests place-search results from Apple MapKit. When the built-in catalog has no center for a selected country or region, the app may send that country or region name to Apple through Core Location geocoding to set the map view. Reverse-geocoding a map point also uses Core Location; if Apple's result is unavailable, the app may use a nearby catalog city as a limited fallback. These Apple services receive the search text, country or region name, or map-point coordinates involved in the request. These features do not require location permission.</p></li>
+<li><p><strong>Contacts, Camera, Microphone, App Tracking (ATT):</strong> Not requested and no corresponding code exists.</p></li>
 </ul>
 </section>
 <section class="legal-section">
 <h2>6. Third Parties</h2>
-<p>We never sell personal data. Information is shared strictly with necessary infrastructure providers:</p>
-<div class="scroll-hint">↔ Scroll horizontally to view full table</div>
-<div class="table-responsive"><table><thead><tr>
+<p>We do not sell personal information. Information is processed by the service providers needed to provide the features you use. For letter text and photos handled through our service’s server-side storage and processing, these providers receive ciphertext, and we do not provide them with decryption keys:</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Third Party</th>
 <th>Data Processed</th>
 <th>Purpose</th>
 <th>Notes</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>Apple</td>
-<td>Account ID, StoreKit purchases, push dispatch, MapKit geocoding</td>
-<td>Authentication, in-app billing, notifications, map display</td>
+<td>Sign-in identifier and verified email, in-app purchases and subscriptions, push token and notification delivery, encrypted personal-vault backups and recovery keys if enabled, search terms sent with MapKit place-search requests, country or region names sent for map positioning when the built-in catalog has no center, and map-point coordinates sent with Core Location reverse-geocoding requests</td>
+<td>Authentication, billing, notifications, backup, and map/search features</td>
 <td>Subject to <a href="https://www.apple.com/legal/privacy/">Apple Privacy Policy</a></td>
 </tr>
 <tr>
 <td>Google</td>
-<td>Account ID</td>
+<td>Sign-in provider identifier and verified email, when supplied</td>
 <td>Optional authentication</td>
 <td>Subject to <a href="https://policies.google.com/privacy">Google Privacy Policy</a></td>
 </tr>
 <tr>
 <td>Apple Push Notification service (APNs)</td>
-<td>Push token, generic alert payload</td>
+<td>Push token, generic alert text, notification category, and opaque event identifier</td>
 <td>Notification dispatch</td>
-<td>Payloads contain no letter text or recipient identities</td>
+<td>The alert text is generic; the payload contains no letter text, photos, or precise location</td>
 </tr>
 <tr>
-<td>Cloud Infrastructure Providers</td>
-<td>Encrypted letter blobs, account ledger</td>
-<td>Cloud compute and secure storage</td>
-<td>Processed strictly under our instruction</td>
+<td>Cloudflare</td>
+<td>Encrypted letter data, account/login records, selected city data, purchase and delivery records, push tokens, and service logs</td>
+<td>Cloud compute, database, and object storage</td>
+<td>Subject to <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy Policy</a></td>
 </tr>
-</tbody></table></div>
-<p>The iOS App contains zero third-party tracking, advertising, or analytics SDKs.</p>
+</tbody>
+</table>
+</div>
+<p>The iOS App does not include third-party SDKs for tracking, advertising, or usage analytics.</p>
 </section>
 <section class="legal-section">
 <h2>7. Data Storage and International Transfers</h2>
 <ul>
-<li><strong>On Your Device:</strong> Local letters, drafts, and preferences.</li>
-<li><strong>In Your Personal iCloud:</strong> Encrypted database backups within your private Apple account.</li>
-<li><strong>On Our Servers:</strong> Account IDs, display names, encrypted letter payloads, and transaction ledgers stored in secure overseas cloud infrastructure. Data may be transferred and processed internationally under strict contractual safeguards.</li>
+<li><p><strong>On Your Device:</strong> Local letters, drafts, private contact notes, and preferences.</p></li>
+<li><p><strong>In Your Personal iCloud:</strong> If enabled, an encrypted backup of selected vault data, including private contact notes, drafts, pending invitation material, and saved letter data.</p></li>
+<li><p><strong>On Our Servers:</strong> Account and login identifiers, verified email, display names, selected city snapshots, relationship and delivery records, encrypted letter payloads, purchase records, push tokens, and service logs. Our cloud infrastructure is operated outside some users’ countries or regions, so this information may be processed internationally.</p></li>
 </ul>
 </section>
 <section class="legal-section">
 <h2>8. Data Retention Periods</h2>
-<div class="scroll-hint">↔ Scroll horizontally to view full table</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Information</th>
 <th>Retention Period</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Date of Birth</td>
-<td>Not stored. Evaluated once at registration and immediately discarded</td>
+<td>Birth month and year</td>
+<td>Kept in account-specific app data on your device; you can view and edit them in your profile. They are not sent to or stored on our servers</td>
 </tr>
 <tr>
-<td>Account ID, Display Name, City, Connections</td>
-<td>Duration of account lifecycle; deleted or irreversibly anonymized upon account deletion</td>
+<td>Account and login identity</td>
+<td>Account deletion disables the account, revokes its sessions, and removes profile and notification data. The deleted-account record and sign-in provider identity remain in the current service design; a fixed deletion deadline for those records has not been defined.</td>
 </tr>
 <tr>
 <td>Letter Ciphertext</td>
-<td>Deleted immediately upon delivery confirmation by recipient; unclaimed letters cleaned up after 90 days</td>
+<td>A complete recipient-device save acknowledgement starts server-side ciphertext cleanup. If no complete save occurs, the letter becomes unavailable 90 days after it becomes available to the recipient (for a scheduled letter, from its scheduled delivery time) and enters the server-side ciphertext cleanup process. A deleted sender account is not restored when this period expires.</td>
 </tr>
 <tr>
-<td>Purchase Ledger</td>
-<td>Retained as required by financial, tax, and consumer protection laws</td>
+<td>Purchase and fulfillment records</td>
+<td>Retained to administer purchases, refunds, and delivery obligations. The applicable retention period has not yet been specified in the current product rules.</td>
 </tr>
 <tr>
 <td>Push Tokens</td>
-<td>Removed from servers immediately upon notification opt-out or account deletion</td>
+<td>In-app notification preferences control which alerts are sent. Turning off iOS notification permission controls display on that device. Account deletion removes its device-token record; tokens reported invalid by APNs are deactivated</td>
+</tr>
+<tr>
+<td>Safety Reports</td>
+<td>Selected reason, associated account or letter identifiers, status, and creation time. A fixed retention period and deletion trigger have not been defined</td>
 </tr>
 <tr>
 <td>Service Logs</td>
-<td>Retained for a short diagnostic window and automatically deleted. Contains no private secrets</td>
+<td>May be created for security, reliability, and troubleshooting. They may include technical request or error details. A fixed retention period is not specified in the current product rules.</td>
 </tr>
-</tbody></table></div>
+</tbody>
+</table>
+</div>
 </section>
 <section class="legal-section">
 <h2>9. Your Privacy Rights</h2>
-<p>You may exercise the following rights regarding your personal information:</p>
-<div class="scroll-hint">↔ Scroll horizontally to view full table</div>
-<div class="table-responsive"><table><thead><tr>
+<p>Depending on where you live, applicable law may give you rights to access, correct, delete, or obtain a copy of personal information, object to or restrict some processing, or withdraw consent. Nothing in this Policy limits rights that apply to you under law. Contact us at <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a> to make a request; we may ask for information needed to verify your identity.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Right</th>
 <th>How to Exercise</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Access &amp; Portability</td>
-<td>View profile, purchases, and assets in &quot;My Profile&quot;; request export via detourpost@aivolo.studio</td>
+<td>Access or copy</td>
+<td>Open "Me" to view account details, purchases, and assets; contact us about a request that is not available in the App</td>
 </tr>
 <tr>
-<td>Rectification</td>
-<td>Edit display name and city in Profile Settings; contact us for other records</td>
+<td>Correction</td>
+<td>Open "Me" → "Profile" to edit your display name and city; contact us about other information</td>
 </tr>
 <tr>
 <td>Deletion</td>
-<td>Use the in-app &quot;Delete Account&quot; feature, or contact us for specific data requests</td>
+<td>Use the in-app "Delete Account" feature, or contact us for specific data requests</td>
 </tr>
 <tr>
-<td>Withdraw Consent</td>
-<td>Toggle off notifications in App Settings or iOS System Settings</td>
+<td>Withdraw consent</td>
+<td>Contact us at <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a> if you want to withdraw consent for processing that relies on your consent; applicable law determines the effect on prior processing</td>
 </tr>
 <tr>
 <td>Account Deletion</td>
-<td>Navigate to &quot;My Profile&quot; → &quot;Account Deletion &amp; Isolation&quot; → &quot;Delete Account&quot;</td>
+<td>Open "Me" → "Delete Account" → "Delete account"</td>
 </tr>
 <tr>
-<td>Questions &amp; Inquiries</td>
-<td>Contact detourpost@aivolo.studio</td>
+<td>Questions and requests</td>
+<td>Contact <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></td>
 </tr>
-</tbody></table></div>
-<p><strong>What Happens on Account Deletion:</strong> Undeparted letters are terminated; departed letters continue to their destination; profile records, block relations, and device tokens are immediately and permanently erased.</p>
-<p>We respond to all privacy requests within <strong>48 hours</strong>.</p>
+</tbody>
+</table>
+</div>
+<p><strong>What Happens on Account Deletion:</strong> The account is disabled, its sessions are revoked, and profile and notification data are removed. Letters that have not yet departed are terminated; departed letters continue under their existing delivery plan. Deleting your App account does not cancel an Apple-billed membership; manage or cancel it in your Apple account subscription settings. The current service design retains a deleted-account record and sign-in provider identity; see the retention table above.</p>
+<p>To submit a privacy request, email <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>. Response timing depends on the nature of the request and applicable law; no general response time is promised here.</p>
 </section>
 <section class="legal-section">
 <h2>10. Minors</h2>
-<p>The App is intended for users aged 13 and older (or higher depending on local jurisdiction requirements). We do not knowingly collect personal data from minors below the applicable registration age. If you believe a minor has registered without authorization, contact detourpost@aivolo.studio and we will promptly delete the account.</p>
+<p>The App is intended for users who meet the minimum age that applies to them, which is at least 13 and may be higher in some jurisdictions. If you believe someone may have registered below the applicable minimum age, contact <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>. If Yong Wang becomes aware of the concern, he will make reasonable efforts to review it and take steps required by applicable law. No fixed review or response time is promised.</p>
 </section>
 <section class="legal-section">
 <h2>11. Security Measures</h2>
 <ul>
-<li>End-to-end encryption for letter text and photos;</li>
-<li>Encrypted transport channels (TLS/HTTPS);</li>
-<li>Credentials and keys stored in secure system storage (iOS Keychain);</li>
-<li>Principle of least privilege for server infrastructure;</li>
-<li>Continuous vulnerability scanning and configuration audits.</li>
+<li><p>End-to-end encryption for letter text and photos;</p></li>
+<li><p>Encrypted transport channels (TLS/HTTPS);</p></li>
+<li><p>Credentials and keys stored in secure system storage (iOS Keychain);</p></li>
+<li><p>The App uses device-protected storage for local credentials and encryption keys.</p></li>
 </ul>
+<p>No security measure can guarantee absolute security. If a data security incident occurs, we will provide notices and take steps as required by applicable law.</p>
 </section>
 <section class="legal-section">
 <h2>12. Policy Updates</h2>
-<p>We may update this Privacy Policy periodically. Significant changes will be notified prominently within the App. If you disagree with modified terms, you may delete your account.</p>
+<p>We may update this Privacy Policy. The current text and update date will appear on this page. We will not use personal information for a purpose incompatible with those described here. Where applicable law requires notice of a material change or a new use of information, we will provide that notice using an appropriate method.</p>
 </section>
 <section class="legal-section">
 <h2>13. Contact Us &amp; Complaints</h2>
 <ul>
-<li><strong>Operator:</strong> Yong Wang</li>
-<li><strong>Email:</strong> detourpost@aivolo.studio</li>
+<li><p><strong>Operator:</strong> Yong Wang, an individual</p></li>
+<li><p><strong>Email:</strong> <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></p></li>
 </ul>
-<p>We respond to inquiries within <strong>48 hours</strong>. You also have the right to lodge a complaint with your local data protection supervisory authority.</p>
-<p>© 2026 Yong Wang. All rights reserved.</p>
+<p>For questions or complaints, you may email Yong Wang at <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>. Response times are not guaranteed. You may also lodge a complaint with a supervisory authority that has jurisdiction over your matter.</p>
+<p>A final retention schedule for deleted-account records and provider identities, purchase and fulfillment records, safety reports, and service logs has not been established. This draft is not ready for publication until the retention rules and the legal basis for each processing purpose are reviewed and finalized.</p>
 </section>
         </main>
 

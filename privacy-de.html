@@ -11,14 +11,14 @@
         <header class="site-header">
             <div class="app-badge">✉</div>
             <h1>Detour Post</h1>
-            <div class="meta-info">Version 1.0 ｜ Gültig ab: 2026-09-18 ｜ Zuletzt aktualisiert: 2026-09-18</div>
+            <div class="meta-info">Interner Prüfentwurf · aktualisiert am 6. Oktober 2026 · nicht veröffentlicht und nicht wirksam · rechtliche und sprachliche Prüfung läuft.</div>
             <nav class="nav-pills">
                 <a href="terms-de.html" class="">Nutzungsbedingungen</a>
                 <a href="privacy-de.html" class=" active">Datenschutzerklärung</a>
             </nav>
             <div class="lang-bar-container">
                 <div class="lang-select-box">
-                    <select onchange="location = this.value;" class="custom-select" aria-label="Select Language">
+                    <select onchange="location = this.value;" class="custom-select" aria-label="Sprache auswählen">
                         <option value="privacy-en.html">English (en)</option> <option value="privacy-zh-Hans.html">简体中文 (zh-Hans)</option> <option value="privacy-zh-Hant.html">繁體中文 (zh-Hant)</option> <option value="privacy-ja.html">日本語 (ja)</option> <option value="privacy-ko.html">한국어 (ko)</option> <option value="privacy-fr.html">Français (fr)</option> <option value="privacy-de.html" selected>Deutsch (de)</option> <option value="privacy-es.html">Español (es)</option> <option value="privacy-pt-BR.html">Português (pt-BR)</option> <option value="privacy-ru.html">Русский (ru)</option> <option value="privacy-th.html">ไทย (th)</option> <option value="privacy-id.html">Bahasa Indonesia (id)</option>
                     </select>
                 </div>
@@ -28,43 +28,48 @@
         <main class="document-card">
 <section class="legal-section">
 <h2>1. Einführung</h2>
-<p>Detour Post (im Folgenden als „die App“ bezeichnet) wird von Yong Wang (im Folgenden als „wir“, „uns“ oder „unser“ bezeichnet) betrieben. Wir fungieren als Datenverantwortlicher für Ihre personenbezogenen Daten.</p>
+<p>Detour Post wird von Yong Wang als Einzelperson betrieben. Yong Wang bestimmt als Verantwortlicher, wie personenbezogene Daten für den Dienst verarbeitet werden.</p>
 <p>In dieser Datenschutzrichtlinie wird erklärt, welche Informationen wir sammeln, warum wir sie verarbeiten, wie sie gehandhabt und gespeichert werden, welche Aufbewahrungsfristen es gibt und wie Sie Ihre Datenschutzrechte ausüben können.</p>
 <p>Unser Grundprinzip ist einfach: <strong>Ihre Briefe sind zwischen Ihnen und Ihrem Empfänger privat. Wir können sie nicht lesen und haben auch nicht die Absicht, sie zu lesen.</strong></p>
 </section>
 <section class="legal-section">
 <h2>2. Informationen, die wir verarbeiten</h2>
+<section id="21-informationen-die-sie-aktiv-bereitstellen" class="level3">
 <h3>2.1 Informationen, die Sie aktiv bereitstellen</h3>
-<div class="scroll-hint">↔ Horizontal scrollen, um die vollständige Tabelle anzuzeigen</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Informationen</th>
 <th>Einzelheiten</th>
 <th>Notwendigkeit</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Konto-ID</td>
-<td>Eindeutige Kennung, die Sie über „Mit Apple anmelden“ oder „Google</td>
-<td>“ erhalten Erforderlich für die Kontoerstellung</td>
+<td>Konto und Anmeldeidentität</td>
+<td>Konto-ID, Kennung des Anmeldedienstes und bestätigte E-Mail-Adresse von Apple oder Google</td>
+<td>Für die Erstellung und Authentifizierung des Kontos erforderlich</td>
 </tr>
 <tr>
 <td>Anmeldedaten</td>
-<td>Sitzungsauthentifizierungstoken</td>
-<td>Erforderlich für sicheren Zugriff</td>
+<td>Sitzungstoken; der Dienst speichert einen Hashwert jedes Tokens</td>
+<td>Für sicheren Zugriff erforderlich</td>
 </tr>
 <tr>
-<td>Geburtsdatum und Region</td>
-<td>Wird bei der Registrierung ausschließlich zur Feststellung der Altersberechtigung verwendet</td>
-<td>Erforderlich für die Registrierung. <strong>Das Geburtsdatum wird nur zum Zeitpunkt der Auswertung verwendet und sofort verworfen. Wir speichern es nie.</strong> Nur die Regelversion und die ausgewählte Region bleiben erhalten</td>
+<td>Monat und Jahr der Geburt sowie ausgewählte Region</td>
+<td>Die App prüft die Altersberechtigung auf Ihrem Gerät anhand des von Ihnen eingegebenen Geburtsmonats und -jahrs sowie der ausgewählten Region</td>
+<td>Für die Registrierung erforderlich. Monat und Jahr bleiben in den kontobezogenen App-Daten auf Ihrem Gerät und können im Profil eingesehen und geändert werden; sie werden nicht an unsere Server gesendet oder dort gespeichert. Der Dienst speichert die angewandte Regelversion und die Anmelderegion</td>
 </tr>
 <tr>
 <td>Anzeigename</td>
-<td>Benutzerdefinierter Name in Ihrem Profil festgelegt, sichtbar für Ihre Empfänger</td>
-<td>Optional</td>
+<td>Name, den Personen sehen, mit denen Sie Briefe austauschen</td>
+<td>Für die Registrierung erforderlich; später im Profil änderbar</td>
 </tr>
 <tr>
 <td>Stadt</td>
-<td>Stadt als Abfahrts-/Ankunftsort ausgewählt</td>
-<td>Optional, aber zum Versenden von Briefen erforderlich</td>
+<td>Die zum Versenden gewählte Stadt einschließlich der von der App gespeicherten Ortsangaben</td>
+<td>Für die Registrierung und das Versenden erforderlich</td>
 </tr>
 <tr>
 <td>Verbindungsinformationen</td>
@@ -73,32 +78,40 @@
 </tr>
 <tr>
 <td>Briefinhalt</td>
-<td>Brieftext, Briefpapierauswahl, beigefügte Fotos, Kurier, Ankunftszeit</td>
-<td>Wird nur erstellt, wenn Sie sich für das Senden entscheiden</td>
+<td>Brieftext, gewähltes Briefpapier und Dekorationen, beigefügte Fotos, Kurier und gewählte oder geplante Zustellzeit</td>
+<td>Entsteht nur, wenn Sie einen Brief versenden</td>
 </tr>
 <tr>
-<td>Berichtsdetails</td>
-<td>Ausgewählte Verstoßkategorie (Belästigung, Spam, Sicherheit) und Ziel-ID. <strong>Enthält KEINEN Buchstabentext, Fotos, Freiformtext oder Koordinaten</strong>; blockiert automatisch die Party gleichzeitig</td>
-<td>Wird nur erstellt, wenn Sie einen Bericht einreichen</td>
+<td>Meldungsdaten</td>
+<td>IDs des meldenden und des gemeldeten Kontos; Art, Quelle und ID des Ziels; gewählter Grund; Zuordnungs-ID für die Protokollierung; Status und Erstellungszeit. <strong>Enthält keinen Brieftext, keine Fotos, keinen Freitext und keine Koordinaten.</strong> Eine Meldung blockiert zugleich die gemeldete Person und beendet deren noch nicht zugestellte Briefe an Sie</td>
+<td>Entsteht nur, wenn Sie eine Meldung einreichen</td>
 </tr>
 <tr>
 <td>Private Notizen</td>
-<td>Private Notizen, die Sie einem Kontakt zuweisen</td>
-<td>Optional. <strong>Wird ausschließlich auf Ihrem lokalen Gerät gespeichert und niemals hochgeladen</strong></td>
+<td>Notizen, die Sie zu einem Kontakt schreiben</td>
+<td>Optional. Auf Ihrem Gerät gespeichert und nur bei aktivierter persönlicher iCloud-Sicherung in dieser enthalten; nicht an unseren Dienst hochgeladen</td>
 </tr>
-</tbody></table></div>
-<p><strong>End-to-End-Verschlüsselung von Briefen und Fotos.</strong> Brieftexte und Fotos werden vor der Übertragung direkt auf Ihrem lokalen Gerät verschlüsselt. Wir verfügen nur über Chiffretext und über keine Entschlüsselungsschlüssel. Folglich <strong>können wir Ihren Brieftext oder Ihre Fotos nicht lesen, prüfen oder an Dritte weitergeben</strong> – auch nicht bei Ermittlungen der Strafverfolgungsbehörden, bei denen nur Chiffretext bereitgestellt werden kann. Siehe Abschnitt 4.</p>
+</tbody>
+</table>
+</div>
+<p><strong>Ende-zu-Ende-Verschlüsselung von Briefen und Fotos.</strong> Brieftext und Fotos werden auf Ihrem Gerät verschlüsselt, bevor sie an unseren Dienst gesendet werden. Für diese Inhalte halten wir nur Chiffretext und keine Entschlüsselungsschlüssel. Die in dieser Erklärung genannten Konto- und Dienstdaten werden gesondert verarbeitet. Siehe Abschnitt 4.</p>
+</section>
+<section id="22-informationen-die-während-der-nutzung-automatisch-generiert-werden" class="level3">
 <h3>2.2 Informationen, die während der Nutzung automatisch generiert werden</h3>
-<div class="scroll-hint">↔ Horizontal scrollen, um die vollständige Tabelle anzuzeigen</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Informationen</th>
 <th>Einzelheiten</th>
 <th>Zweck</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Lieferstatus</td>
-<td>Abfahrt, Reisemeilensteine, Ankunft, Rückruf, Beendigungsstatus</td>
-<td>Stromversorgung der Postzustellungspipeline</td>
+<td>Zustellstatus</td>
+<td>Start, Reiseereignisse, Ankunft, Rückruf und Beendigung</td>
+<td>Briefe versenden und zustellen</td>
 </tr>
 <tr>
 <td>Konto- und Sicherheitsstatus</td>
@@ -106,9 +119,9 @@
 <td>Kontoverwaltung und Missbrauchsprävention</td>
 </tr>
 <tr>
-<td>Handelsbuch</td>
-<td>Bestelldaten, Münzguthaben, dauerhafter Besitz von Gegenständen, aktive Abonnements</td>
-<td>Abrechnung, Erfüllung und Rückerstattungsabwicklung</td>
+<td>Kauf- und Bestandsdaten</td>
+<td>Bestellungen, Coin-Buchungen und -Guthaben, Bestände an Briefmarken und Einheiten zur Planung der Zustellzeit, dauerhafter Artikelbesitz, Mitgliedschaften und Status der Kaufwiederherstellung</td>
+<td>Abrechnung, Erfüllung, Wiederherstellung und Rückerstattung</td>
 </tr>
 <tr>
 <td>Push- und Gerätetoken</td>
@@ -120,186 +133,223 @@
 <td>API-Betriebsprotokolle, Fehlerverfolgungen und Leistungsdiagnosen</td>
 <td>Sicherheit, Stabilität und Fehlerbehebung</td>
 </tr>
-</tbody></table></div>
-<p><strong>Keine Geheimnisse in Protokollen oder Push-Benachrichtigungen.</strong> Betriebsprotokolle enthalten niemals Brieftexte, Fotos, Einladungscodes oder genaue Koordinaten. Push-Benachrichtigungen enthalten nur generische Statusphrasen (z. B. „Ein Brief ist angekommen“) ohne persönliche Kennungen, Nachrichtentext oder Städte.</p>
+</tbody>
+</table>
+</div>
+<p><strong>Push-Benachrichtigungen.</strong> Der sichtbare Hinweis verwendet allgemeine Formulierungen. Die Nutzlast enthält außerdem eine Benachrichtigungskategorie und eine undurchsichtige Ereignis-ID zum Öffnen der passenden App-Seite; sie enthält keinen Brieftext, keine Fotos und keine Ortsangaben. Betriebsprotokolle können technische Anfrage- oder Fehlerdetails enthalten; siehe Abschnitt 8.</p>
+</section>
+<section id="23-was-wir-niemals-tun" class="level3">
 <h3>2.3 Was wir NIEMALS tun</h3>
 <ul>
-<li>Wir greifen NICHT auf Ihre vollständige Fotobibliothek, Ihre Kontakte oder Ihren genauen GPS-Standort zu.</li>
-<li>Wir sammeln KEINE Tracking-Identifikatoren (IDFA/IDFV), betten KEINE Anzeigen-SDKs ein und betreiben KEINE App-übergreifende Nachverfolgung.</li>
-<li>Wir speisen KEINE Buchstabendaten in KI-Trainingsmodelle ein – wir haben keinen Zugriff auf Klartext;</li>
-<li>Wir verkaufen Ihre persönlichen Daten NIEMALS an Dritte.</li>
+<li><p>Wir greifen NICHT auf Ihre vollständige Fotobibliothek, Ihre Kontakte oder Ihren genauen GPS-Standort zu.</p></li>
+<li><p>Wir verwenden Werbe-IDs (IDFA/IDFV) weder für gezielte Werbung noch für App-übergreifendes Tracking und binden kein Werbe-SDK ein.</p></li>
+<li><p>Wir verwenden keine Briefdaten zum Training von KI-Modellen – wir haben keinen Zugriff auf Klartext;</p></li>
+<li><p>Wir verkaufen Ihre persönlichen Daten NIEMALS an Dritte.</p></li>
 </ul>
+</section>
 </section>
 <section class="legal-section">
 <h2>3. Warum wir Informationen verarbeiten</h2>
-<div class="scroll-hint">↔ Horizontal scrollen, um die vollständige Tabelle anzuzeigen</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Zweck</th>
-<th>Beteiligte Informationen</th>
-<th>Rechtsgrundlage</th>
-</tr></thead><tbody>
+<th>Verarbeitete Informationen</th>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Postzustellung und Empfang</td>
-<td>Konto-ID, Anzeigename, Stadt, Verbindungsinformationen, verschlüsselter Brief, Lieferstatus</td>
-<td>Erfüllung des Dienstleistungsvertrages</td>
+<td>Briefe senden und empfangen</td>
+<td>Konto-ID, Anzeigename, Stadt, Verbindungsdaten, verschlüsselte Briefe und Zustellstatus</td>
 </tr>
 <tr>
-<td>In-App-Käufe und Rückerstattungen</td>
-<td>Kaufbuch, Abonnementgültigkeit</td>
-<td>Erfüllung des Dienstleistungsvertrages</td>
+<td>In-App-Käufe, Erfüllung und Rückerstattungen</td>
+<td>Kauf- und Vermögensbuchungen sowie Mitgliedschaftsstatus</td>
 </tr>
 <tr>
-<td>Zustellungs-Push-Benachrichtigungen</td>
-<td>Push-Token, Auslieferungszustand</td>
-<td>Ihre Einwilligung (jederzeit widerrufbar)</td>
+<td>Zustellbenachrichtigungen</td>
+<td>Push-Token und Zustellstatus</td>
 </tr>
 <tr>
-<td>Sicherheit, Missbrauchsprävention und Meldungen</td>
-<td>Sicherheitsstatus, Berichtsdetails, Betriebsprotokolle</td>
-<td>Berechtigtes Interesse und rechtliche Verpflichtung</td>
+<td>Sicherheit, Meldungen und Missbrauchsprävention</td>
+<td>Sicherheits- und Kontostatus, Meldungsdaten und Betriebsprotokolle</td>
 </tr>
 <tr>
-<td>Diagnose und Servicestabilität</td>
+<td>Fehlerbehebung und Stabilität</td>
 <td>Betriebsprotokolle</td>
-<td>Berechtigtes Interesse</td>
 </tr>
 <tr>
-<td>Umgang mit Benutzerrechten und Anfragen</td>
-<td>Von Ihnen bereitgestellte Informationen</td>
-<td>Gesetzliche Verpflichtung</td>
+<td>Anfragen zu Rechten und Beschwerden</td>
+<td>Informationen, die Sie uns übermitteln</td>
 </tr>
-</tbody></table></div>
+</tbody>
+</table>
+</div>
+<p>Die Rechtsgrundlage für jede Verarbeitung hängt vom anwendbaren Recht und den Umständen der jeweiligen Verarbeitung ab. In diesem Entwurf ist noch keine Rechtsgrundlage jedem Zweck zugeordnet. Diese Prüfung muss vor der Veröffentlichung abgeschlossen werden; wir stützen uns nicht auf eine Rechtsgrundlage, die nach dem einschlägigen Recht nicht anwendbar ist.</p>
 </section>
 <section class="legal-section">
 <h2>4. Ende-zu-Ende-Verschlüsselung</h2>
 <p>Dies ist die wichtigste technische Schutzmaßnahme von Detour Post:</p>
 <p><strong>Die Verschlüsselung erfolgt lokal auf Ihrem Gerät.</strong> Wenn Sie auf „Diesen Brief versiegeln“ tippen, werden alle Texte und Fotos vor der Übertragung auf Ihrem Gerät verschlüsselt. Die Entschlüsselungsschlüssel liegen ausschließlich bei Ihnen und dem von Ihnen benannten Empfänger.</p>
-<p><strong>Wir speichern nur Chiffretext.</strong> Unsere Server speichern nur verschlüsselte Blobs. Wir bewahren keine Entschlüsselungsschlüssel in irgendeiner Form auf und bieten auch keine manuelle Schlüsselwiederherstellung an.</p>
-<p><strong>Keine Ausnahmen.</strong> Wir unterhalten keine administrativen Hintertüren, Kanäle zur Inhaltsüberprüfung oder Außerkraftsetzungen des Kundendienstes. Da wir keinen Klartext anzeigen können, können wir keine automatische Schlüsselwortfilterung oder Inhaltsempfehlung durchführen.</p>
+<p><strong>Brieftexte und Fotos speichern wir nur verschlüsselt.</strong> Wir besitzen keine Entschlüsselungsschlüssel für diese Inhalte und bieten keine manuelle Schlüsselwiederherstellung an. Daneben verarbeiten wir die in dieser Erklärung beschriebenen Konto- und Dienstdaten.</p>
+<p><strong>Keine Ausnahmen.</strong> Wir unterhalten keine administrativen Hintertüren, Kanäle zur Inhaltsüberprüfung oder Ausnahmen, die dem Kundendienst Zugriff auf Briefinhalte ermöglichen. Da wir keinen Klartext anzeigen können, können wir keine automatische Schlüsselwortfilterung oder Inhaltsempfehlung durchführen.</p>
 <ul>
-<li>Nur Sie können den Inhalt vor der Lieferung sehen;</li>
-<li>Nur Sie und Ihr Empfänger können den Inhalt nach der Zustellung sehen;</li>
-<li>Wenn Sie Ihr Gerät verlieren und kein persönliches iCloud-Backup haben, können wir Ihre Briefe nicht wiederherstellen – wir haben nicht die Schlüssel;</li>
-<li>Sicherheitsberichte lösen Beziehungssperren und Kontostrafen aus, ohne dass menschliche Mitarbeiter den Inhalt der Briefe lesen.</li>
+<li><p>Nur Sie können den Inhalt vor der Lieferung sehen;</p></li>
+<li><p>Nur Sie und Ihr Empfänger können den Inhalt nach der Zustellung sehen;</p></li>
+<li><p>Wenn Sie Ihr Gerät verlieren und kein persönliches iCloud-Backup haben, können wir Ihre Briefe nicht wiederherstellen – wir haben nicht die Schlüssel;</p></li>
+<li><p>Eine Sicherheitsmeldung erfasst den gewählten Grund und zugehörige Konto- oder Brief-IDs, bewirkt eine gegenseitige Blockierung und beendet noch nicht zugestellte Briefe der gemeldeten Person an Sie. Sie legt keinen Briefinhalt offen. Wenn Yong Wang von der Meldung Kenntnis erhält, bemüht er sich in angemessenem Umfang um eine Prüfung und gegebenenfalls geeignete Maßnahmen. Eine feste Prüfungs- oder Antwortfrist wird nicht zugesagt; weitere Kontomaßnahmen setzen eine Prüfung voraus.</p></li>
 </ul>
-<p><strong>Persönliches Backup.</strong> Briefdatensicherungen erfolgen ausschließlich über Ihre persönliche iCloud, sofern diese aktiviert ist. Backups befinden sich vollständig in Ihrem Apple-ID-Ökosystem. Wir haben keinen Zugriff auf Ihr iCloud-Backup oder Ihre Schlüsselbundschlüssel.</p>
+<p><strong>Persönliche Sicherung.</strong> Wenn Sie sie aktivieren, werden ausgewählte Posttaschendaten – einschließlich privater Kontaktnotizen, Entwürfe, noch ausstehender Einladungsdaten und gespeicherter Briefe – auf Ihrem Gerät verschlüsselt und über CloudKit in Ihrer persönlichen iCloud gesichert. Der Sicherungsschlüssel liegt im Schlüsselbund Ihres Geräts. Nach Überprüfung einer Sicherung wird ein Wiederherstellungsschlüssel im iCloud-Schlüsselbund gespeichert, damit er auf Ihren anderen Apple-Geräten verfügbar sein kann. Wir erhalten keinen der beiden Schlüssel und können die Sicherung nicht entschlüsseln.</p>
 </section>
 <section class="legal-section">
 <h2>5. Systemberechtigungen</h2>
-<p>Die App fordert nur eine Systemberechtigung an:</p>
-<div class="scroll-hint">↔ Horizontal scrollen, um die vollständige Tabelle anzuzeigen</div>
-<div class="table-responsive"><table><thead><tr>
+<p>Die App kann nach dem ersten versendeten oder empfangenen Brief um die Benachrichtigungsberechtigung bitten; Sie können sie auch in den Einstellungen anfordern. Wenn Sie eine erzeugte Reisendenkarte in der Fotomediathek speichern möchten, fordert die App eine Berechtigung ausschließlich zum Hinzufügen von Fotos an.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Erlaubnis</th>
 <th>Auf Anfrage</th>
 <th>Zweck</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>Benachrichtigungen</td>
-<td>Wenn Sie sich für Briefbenachrichtigungen entscheiden</td>
-<td>Benachrichtigt Sie, wenn Briefe abgehen oder ankommen. Nutzlasten enthalten nur generische Phrasen</td>
+<td>Nach dem ersten versendeten oder empfangenen Brief oder beim Aktivieren in den Einstellungen</td>
+<td>Allgemeiner sichtbarer Hinweis; die Nutzlast enthält zusätzlich eine Kategorie und eine undurchsichtige Ereignis-ID zum Öffnen der passenden App-Seite, aber keinen Brieftext und keine Ortsangaben</td>
 </tr>
-</tbody></table></div>
-<p>Das Deaktivieren von Benachrichtigungen hat keinen Einfluss auf das Senden oder Empfangen von Briefen.</p>
-<p><strong>Berechtigungen, die wir NICHT anfordern:</strong></p>
+<tr>
+<td>Fotos (nur hinzufügen)</td>
+<td>Wenn Sie eine erzeugte Reisendenkarte speichern möchten</td>
+<td>Speichert dieses Bild; erlaubt kein Durchsuchen Ihrer Fotomediathek</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Die App synchronisiert Ihre Benachrichtigungseinstellungen mit dem Dienst, der damit entscheidet, welche Hinweise gesendet werden. Die iOS-Berechtigung steuert, ob Hinweise auf dem Gerät erscheinen können. Keine dieser Einstellungen löscht oder deaktiviert für sich allein den Gerätetoken beim Dienst. Das Ablehnen einer optionalen Berechtigung verhindert für sich allein nicht das grundlegende Senden oder Empfangen.</p>
+<p><strong>Weitere Hinweise zu Berechtigungen:</strong></p>
 <ul>
-<li><strong>Fotos:</strong> Die Fotoauswahl verwendet die systemeigene Fotoauswahl. Nur das einzelne ausgewählte Bild wird an die App übergeben; Ein vollständiger Zugriff auf die Fotobibliothek ist weder erforderlich noch erforderlich.</li>
-<li><strong>Standort:</strong> Städte werden manuell aus einer Liste ausgewählt. Wir verfolgen niemals Ihre Gerätekoordinaten.</li>
-<li><strong>Kontakte, Kamera, Mikrofon, App-Tracking (ATT):</strong> Nicht angefordert und kein entsprechender Code vorhanden.</li>
+<li><p><strong>Fotos:</strong> Beim Anhängen eines Fotos gibt die systemeigene Auswahl nur das von Ihnen gewählte Bild an die App weiter. Die App durchsucht nicht Ihre gesamte Fotomediathek. Zum Speichern einer erzeugten Reisendenkarte verwendet sie die separate Berechtigung zum Hinzufügen von Fotos und den dazugehörigen Systemdialog.</p></li>
+<li><p><strong>Standort:</strong> Sie wählen die Stadt für jeden Brief. Wir erfassen nicht den Gerätestandort und verfolgen keine Bewegungen. Die App enthält einen begrenzten Katalog mit Länder- und Städtenamen sowie Koordinaten für lokale Suchvorschläge, begrenzte Offline-Ergebnisse und Kartenbeschriftungen. Zuerst wird dieser Katalog durchsucht; ein Treffer wird lokal verwendet und der Suchbegriff nicht an MapKit gesendet. Ohne Treffer fragt die App Apple MapKit nach Orten. Fehlt im Katalog ein Mittelpunkt für das ausgewählte Land oder Gebiet, kann die App dessen Namen über Core Location an Apple senden, um die Karte auszurichten. Ein Kartenpunkt wird ebenfalls mit Core Location umgekehrt geocodiert. Ist Apples Ergebnis nicht verfügbar, kann eine nahegelegene Katalogstadt als begrenzte Ersatzlösung dienen. Apple erhält dabei den Suchtext, den Länder- oder Gebietsnamen oder die Koordinaten des Kartenpunkts. Dafür ist keine Standortberechtigung erforderlich.</p></li>
+<li><p><strong>Kontakte, Kamera, Mikrofon, App-Tracking (ATT):</strong> Nicht angefordert und kein entsprechender Code vorhanden.</p></li>
 </ul>
 </section>
 <section class="legal-section">
 <h2>6. Dritte</h2>
-<p>Wir verkaufen niemals personenbezogene Daten. Die Informationen werden ausschließlich an die erforderlichen Infrastrukturanbieter weitergegeben:</p>
-<div class="scroll-hint">↔ Horizontal scrollen, um die vollständige Tabelle anzuzeigen</div>
-<div class="table-responsive"><table><thead><tr>
+<p>Wir verkaufen keine personenbezogenen Daten. Die für die genutzten Funktionen erforderlichen Dienstanbieter verarbeiten entsprechende Daten. Bei serverseitiger Speicherung und Verarbeitung von Brieftexten und Fotos erhalten sie Chiffretext; wir stellen ihnen keine Entschlüsselungsschlüssel bereit.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Drittanbieter</th>
 <th>Verarbeitete Daten</th>
 <th>Zweck</th>
 <th>Notizen</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Apfel</td>
-<td>Konto-ID, StoreKit-Käufe, Push-Versand, MapKit-Geokodierung</td>
-<td>Authentifizierung, In-App-Abrechnung, Benachrichtigungen, Kartenanzeige</td>
-<td>Vorbehaltlich der <a href="https://www.apple.com/legal/privacy/">Datenschutzrichtlinie von Apple</a></td>
+<td>Apple</td>
+<td>Anmeldekennung und bestätigte E-Mail-Adresse, In-App-Käufe und Abonnements, Push-Token und Benachrichtigungszustellung, verschlüsselte persönliche iCloud-Backups und Wiederherstellungsschlüssel (falls aktiviert), Suchbegriffe für MapKit-Ortssuchen, Länder- oder Gebietsnamen zur Kartenausrichtung, wenn dem Katalog ein Mittelpunkt fehlt, sowie Kartenkoordinaten für die Core-Location-Geocodierung</td>
+<td>Anmeldung, Abrechnung, Benachrichtigungen, Backup und Karten-/Suchfunktionen</td>
+<td>Es gilt die <a href="https://www.apple.com/legal/privacy/">Datenschutzerklärung von Apple</a></td>
 </tr>
 <tr>
 <td>Google</td>
-<td>Konto-ID</td>
-<td>Optionale Authentifizierung</td>
-<td>Es gelten die <a href="https://policies.google.com/privacy">Datenschutzbestimmungen von Google</a></td>
+<td>Kennung des Anmeldedienstes und bestätigte E-Mail-Adresse, sofern bereitgestellt</td>
+<td>Anmeldung, wenn Sie Google wählen</td>
+<td>Es gilt die <a href="https://policies.google.com/privacy">Datenschutzerklärung von Google</a></td>
 </tr>
 <tr>
-<td>Apple Push Notification Service (APNs)</td>
-<td>Push-Token, generische Warnungsnutzlast</td>
-<td>Benachrichtigungsversand</td>
-<td>Payloads enthalten keinen Brieftext oder Empfängeridentitäten</td>
+<td>Apple Push Notification service (APNs)</td>
+<td>Push-Token, allgemeiner Hinweistext, Benachrichtigungskategorie und undurchsichtige Ereignis-ID</td>
+<td>Zustellung von Benachrichtigungen</td>
+<td>Kein Brieftext, keine Fotos und kein genauer Standort in der Nutzlast</td>
 </tr>
 <tr>
-<td>Cloud-Infrastrukturanbieter</td>
-<td>Verschlüsselte Brief-Blobs, Kontobuch</td>
-<td>Cloud-Computing und sichere Speicherung</td>
-<td>Die Verarbeitung erfolgt streng nach unserer Weisung</td>
+<td>Cloudflare</td>
+<td>Verschlüsselte Briefdaten, Konto- und Anmeldedaten, gewählte Stadtdaten, Kauf- und Zustellaufzeichnungen, Push-Token und Dienstprotokolle</td>
+<td>Cloud-Berechnung, Datenbank und Objektspeicherung</td>
+<td>Es gilt die <a href="https://www.cloudflare.com/privacypolicy/">Datenschutzerklärung von Cloudflare</a></td>
 </tr>
-</tbody></table></div>
+</tbody>
+</table>
+</div>
 <p>Die iOS-App enthält keine Tracking-, Werbe- oder Analyse-SDKs von Drittanbietern.</p>
 </section>
 <section class="legal-section">
 <h2>7. Datenspeicherung und internationale Übermittlungen</h2>
 <ul>
-<li><strong>Auf Ihrem Gerät:</strong> Lokale Briefe, Entwürfe und Einstellungen.</li>
-<li><strong>In Ihrer persönlichen iCloud:</strong> Verschlüsselte Datenbanksicherungen in Ihrem privaten Apple-Konto.</li>
-<li><strong>Auf unseren Servern:</strong> Konto-IDs, Anzeigenamen, verschlüsselte Briefnutzdaten und Transaktionsbücher, die in einer sicheren Cloud-Infrastruktur im Ausland gespeichert sind. Daten können im Rahmen strenger vertraglicher Garantien international übertragen und verarbeitet werden.</li>
+<li><p><strong>Auf Ihrem Gerät:</strong> Briefe, Entwürfe, private Kontaktnotizen und Einstellungen.</p></li>
+<li><p><strong>In Ihrer persönlichen iCloud:</strong> Wenn aktiviert, eine verschlüsselte Sicherung ausgewählter Posttaschendaten, darunter private Kontaktnotizen, Entwürfe, ausstehende Einladungsdaten und gespeicherte Briefe.</p></li>
+<li><p><strong>Auf unseren Servern:</strong> Konto- und Anmeldekennungen, bestätigte E-Mail-Adresse, Anzeigenamen, gespeicherte Angaben zur gewählten Stadt, Beziehungs- und Zustellaufzeichnungen, verschlüsselte Briefinhalte, Kaufaufzeichnungen, Push-Token und Dienstprotokolle. Unsere Cloud-Infrastruktur befindet sich außerhalb der Länder oder Regionen mancher Nutzer; diese Daten können daher international verarbeitet werden.</p></li>
 </ul>
 </section>
 <section class="legal-section">
 <h2>8. Datenaufbewahrungsfristen</h2>
-<div class="scroll-hint">↔ Horizontal scrollen, um die vollständige Tabelle anzuzeigen</div>
-<div class="table-responsive"><table><thead><tr>
-<th>Informationen</th>
-<th>Aufbewahrungsfrist</th>
-</tr></thead><tbody>
+<div class="table-responsive">
+<table>
+<thead>
 <tr>
-<td>Geburtsdatum</td>
-<td>Nicht gespeichert. Einmal bei der Registrierung ausgewertet und sofort entsorgt</td>
+<th>Information</th>
+<th>Speicherdauer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Geburtsmonat und -jahr</td>
+<td>In kontobezogenen App-Daten auf Ihrem Gerät gespeichert und im Profil einsehbar und änderbar; nicht an unsere Server übermittelt oder dort gespeichert</td>
 </tr>
 <tr>
-<td>Konto-ID, Anzeigename, Stadt, Verbindungen</td>
-<td>Dauer des Kontolebenszyklus; bei Löschung des Kontos gelöscht oder unwiderruflich anonymisiert</td>
+<td>Konto und Anmeldeidentität</td>
+<td>Bei Kontolöschung werden das Konto deaktiviert, Sitzungen widerrufen sowie Profil- und Benachrichtigungsdaten entfernt. Der aktuelle Dienstentwurf behält den Datensatz des gelöschten Kontos und die Anmeldeanbieter-ID; eine feste Löschfrist ist noch nicht festgelegt.</td>
 </tr>
 <tr>
-<td>Buchstaben-Chiffretext</td>
-<td>Wird sofort nach Bestätigung der Zustellung durch den Empfänger gelöscht; nicht abgeholte Briefe nach 90 Tagen bereinigt</td>
+<td>Verschlüsselte Briefinhalte</td>
+<td>Nach vollständiger Speicherbestätigung durch das Gerät des Empfängers beginnt die serverseitige Bereinigung der verschlüsselten Briefinhalte. Ohne diese Bestätigung wird der Brief 90 Tage nach dem Zeitpunkt, zu dem er für den Empfänger verfügbar wird, unzugänglich und zur Bereinigung vorgemerkt. Bei terminierten Briefen beginnt diese Frist mit der festgelegten Zustellzeit. Auch nach Ablauf dieser Frist wird ein gelöschtes Absenderkonto nicht wiederhergestellt.</td>
 </tr>
 <tr>
-<td>Einkaufsbuch</td>
-<td>Wird gemäß den Finanz-, Steuer- und Verbraucherschutzgesetzen aufbewahrt</td>
+<td>Kauf- und Erfüllungsdaten</td>
+<td>Zur Abwicklung von Käufen, Rückerstattungen und bereits begonnenen Zustellungen. Eine feste Aufbewahrungsfrist ist noch nicht festgelegt.</td>
 </tr>
 <tr>
 <td>Push-Token</td>
-<td>Wird sofort nach der Abmeldebenachrichtigung oder der Löschung des Kontos von den Servern entfernt</td>
+<td>In-App-Benachrichtigungseinstellungen steuern, welche Hinweise gesendet werden; die iOS-Berechtigung steuert ihre Anzeige auf dem Gerät. Bei Kontolöschung wird der Geräte-Token entfernt; von APNs als ungültig gemeldete Token werden deaktiviert.</td>
 </tr>
 <tr>
-<td>Serviceprotokolle</td>
-<td>Wird für ein kurzes Diagnosefenster aufbewahrt und automatisch gelöscht. Enthält keine privaten Geheimnisse</td>
+<td>Sicherheitsmeldungen</td>
+<td>Grund, verknüpfte Konto- oder Brief-ID, Status und Erstellungszeit. Feste Aufbewahrungsfrist und Löschkriterium sind noch nicht festgelegt.</td>
 </tr>
-</tbody></table></div>
+<tr>
+<td>Betriebsprotokolle</td>
+<td>Können für Sicherheit, Zuverlässigkeit und Fehlerbehebung erstellt werden und technische Anfragen oder Fehlerdetails enthalten. Eine feste Frist ist noch nicht festgelegt.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Die Aufbewahrungsfristen oder Löschkriterien für gelöschte Konten und Anbieter-IDs, Kauf- und Erfüllungsdaten, Sicherheitsmeldungen sowie Betriebsprotokolle sind noch nicht abschließend festgelegt. Diese Regeln und die Rechtsgrundlage je Verarbeitungszweck müssen vor Veröffentlichung geklärt werden.</p>
 </section>
 <section class="legal-section">
 <h2>9. Ihre Datenschutzrechte</h2>
-<p>Sie können die folgenden Rechte in Bezug auf Ihre personenbezogenen Daten ausüben:</p>
-<div class="scroll-hint">↔ Horizontal scrollen, um die vollständige Tabelle anzuzeigen</div>
-<div class="table-responsive"><table><thead><tr>
-<th>Richtig</th>
-<th>So trainieren Sie</th>
-</tr></thead><tbody>
+<p>Je nach Ihrem Wohnort kann Ihnen das anwendbare Recht Rechte auf Auskunft, Berichtigung, Löschung oder eine Kopie personenbezogener Daten, auf Widerspruch oder Einschränkung bestimmter Verarbeitungen sowie auf Widerruf einer Einwilligung gewähren. Diese Erklärung beschränkt keine Ihnen gesetzlich zustehenden Rechte. Richten Sie Anfragen an <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>; wir können Angaben benötigen, um Ihre Identität zu prüfen.</p>
+<div class="table-responsive">
+<table>
+<thead>
 <tr>
-<td>Zugriff und Portabilität</td>
-<td>Profil, Käufe und Vermögenswerte unter „Mein Profil“ anzeigen; Export anfordern über detourpost@aivolo.studio</td>
+<th>Recht</th>
+<th>So üben Sie es aus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Auskunft oder Kopie</td>
+<td>Unter „Ich“ können Sie Kontodaten, Käufe und Bestände einsehen; für Anfragen, die die App nicht unterstützt, kontaktieren Sie uns</td>
 </tr>
 <tr>
 <td>Berichtigung</td>
-<td>Bearbeiten Sie den Anzeigenamen und die Stadt in den Profileinstellungen. Kontaktieren Sie uns für weitere Unterlagen</td>
+<td>Unter „Ich“ → „Profil“ können Sie Anzeigename und Stadt ändern; für andere Daten kontaktieren Sie uns</td>
 </tr>
 <tr>
 <td>Löschung</td>
@@ -307,51 +357,53 @@
 </tr>
 <tr>
 <td>Einwilligung widerrufen</td>
-<td>Deaktivieren Sie Benachrichtigungen in den App-Einstellungen oder iOS-Systemeinstellungen</td>
+<td>Schreiben Sie an <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>, wenn Sie eine Einwilligung für eine darauf beruhende Verarbeitung widerrufen möchten; die Wirkung auf frühere Verarbeitungen richtet sich nach dem anwendbaren Recht</td>
 </tr>
 <tr>
 <td>Kontolöschung</td>
-<td>Navigieren Sie zu „Mein Profil“ → „Kontolöschung und -isolierung“ → „Konto löschen“</td>
+<td>„Ich“ → „Konto löschen“ → „Konto löschen“</td>
 </tr>
 <tr>
 <td>Fragen &amp; Anfragen</td>
-<td>Kontaktieren Sie detourpost@aivolo.studio</td>
+<td>Kontaktieren Sie <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></td>
 </tr>
-</tbody></table></div>
-<p><strong>Was passiert bei der Löschung des Kontos:</strong> Nicht ausgeschiedene Briefe werden beendet; abgegangene Briefe gelangen weiter an ihren Bestimmungsort; Profildatensätze, Blockbeziehungen und Gerätetokens werden sofort und dauerhaft gelöscht.</p>
-<p>Wir antworten auf alle Datenschutzanfragen innerhalb von <strong>48 Stunden</strong>.</p>
+</tbody>
+</table>
+</div>
+<p><strong>Bei einer Kontolöschung:</strong> Das Konto wird deaktiviert, seine Sitzungen werden widerrufen und Profil- sowie Benachrichtigungsdaten werden entfernt. Noch nicht gestartete Sendungen enden; bereits gestartete Briefe werden nach dem bestehenden Plan weiter zugestellt. Die Löschung des App-Kontos beendet keine über Apple abgerechnete Mitgliedschaft; verwalten oder kündigen Sie diese in den Abonnementeinstellungen Ihres Apple-Accounts. Der aktuelle Dienst behält einen Datensatz des gelöschten Kontos und die Anmeldeanbieter-ID; siehe Abschnitt 8.</p>
+<p>Wir bearbeiten Anfragen nach Maßgabe des anwendbaren Rechts. Die Bearbeitungsdauer hängt von Art und Umfang der Anfrage ab; eine allgemeine Frist sagen wir nicht zu.</p>
 </section>
 <section class="legal-section">
 <h2>10. Minderjährige</h2>
-<p>Die App ist für Benutzer ab 13 Jahren gedacht (oder älter, abhängig von den Anforderungen der örtlichen Rechtsprechung). Wir erfassen wissentlich keine personenbezogenen Daten von Minderjährigen unter dem geltenden Registrierungsalter. Wenn Sie glauben, dass sich ein Minderjähriger ohne Genehmigung registriert hat, wenden Sie sich an detourpost@aivolo.studio und wir werden das Konto umgehend löschen.</p>
+<p>Die App richtet sich an Personen, die mindestens 13 Jahre alt sind; in manchen Regionen gilt ein höheres Mindestalter. Bei der Registrierung prüft die App auf Ihrem Gerät anhand Ihres Geburtsmonats und -jahrs sowie der ausgewählten Region, ob Sie die dort geltenden Altersvoraussetzungen erfüllen. Der Geburtsmonat und das Geburtsjahr bleiben in den App-Daten auf Ihrem Gerät und werden nicht an unsere Server gesendet oder dort gespeichert.</p>
+<p>Wenn Sie vermuten, dass jemand das geltende Mindestalter nicht erreicht, schreiben Sie an <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>. Wenn Yong Wang davon Kenntnis erhält, wird er sich in angemessenem Umfang bemühen, den Hinweis zu prüfen und die nach anwendbarem Recht erforderlichen Schritte zu ergreifen. Eine feste Prüf- oder Antwortfrist wird nicht zugesagt. Erziehungsberechtigte können sich ebenfalls an diese Adresse wenden.</p>
 </section>
 <section class="legal-section">
 <h2>11. Sicherheitsmaßnahmen</h2>
 <ul>
-<li>Ende-zu-Ende-Verschlüsselung für Brieftexte und Fotos;</li>
-<li>Verschlüsselte Transportkanäle (TLS/HTTPS);</li>
-<li>Anmeldeinformationen und Schlüssel, die im sicheren Systemspeicher (iOS-Schlüsselbund) gespeichert sind;</li>
-<li>Prinzip der geringsten Rechte für die Serverinfrastruktur;</li>
-<li>Kontinuierliche Schwachstellenprüfung und Konfigurationsprüfungen.</li>
+<li><p>Ende-zu-Ende-Verschlüsselung für Brieftexte und Fotos;</p></li>
+<li><p>Verschlüsselte Transportkanäle (TLS/HTTPS);</p></li>
+<li><p>Anmeldeinformationen und Schlüssel, die im sicheren Systemspeicher (iOS-Schlüsselbund) gespeichert sind;</p></li>
+<li><p>Geräteschutz für lokal gespeicherte Zugangsdaten und Verschlüsselungsschlüssel.</p></li>
 </ul>
+<p>Keine Sicherheitsmaßnahme kann absolute Sicherheit garantieren. Bei einem Datensicherheitsvorfall informieren wir und ergreifen Maßnahmen, soweit dies nach anwendbarem Recht erforderlich ist.</p>
 </section>
 <section class="legal-section">
 <h2>12. Richtlinienaktualisierungen</h2>
-<p>Wir können diese Datenschutzrichtlinie regelmäßig aktualisieren. Wesentliche Änderungen werden deutlich sichtbar in der App angezeigt. Wenn Sie mit den geänderten Bedingungen nicht einverstanden sind, können Sie Ihr Konto löschen.</p>
+<p>Wir können diese Datenschutzerklärung aktualisieren. Der aktuelle Text und das Aktualisierungsdatum stehen auf dieser Seite. Wir verwenden personenbezogene Daten nicht für Zwecke, die mit den hier beschriebenen unvereinbar sind. Soweit das anwendbare Recht eine Mitteilung über wesentliche Änderungen oder eine neue Datennutzung verlangt, informieren wir auf geeignete Weise.</p>
 </section>
 <section class="legal-section">
 <h2>13. Kontaktieren Sie uns und Beschwerden</h2>
 <ul>
-<li><strong>Betreiber:</strong> Yong Wang</li>
-<li><strong>E-Mail:</strong> detourpost@aivolo.studio</li>
+<li><p><strong>Betreiber:</strong> Yong Wang</p></li>
+<li><p><strong>E-Mail:</strong> <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></p></li>
 </ul>
-<p>Wir beantworten Anfragen innerhalb von <strong>48 Stunden</strong>. Sie haben außerdem das Recht, eine Beschwerde bei Ihrer örtlichen Datenschutzaufsichtsbehörde einzureichen.</p>
-<p>© 2026 Yong Wang. Alle Rechte vorbehalten.</p>
+<p>Bei Fragen oder Beschwerden schreiben Sie an <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>. Wenn Yong Wang von Ihrer Nachricht Kenntnis erhält, bemüht er sich in angemessenem Umfang um eine Prüfung und gegebenenfalls eine Antwort. Eine bestimmte Antwortfrist wird nicht zugesagt. Sie können sich auch an eine für Ihre Angelegenheit zuständige Datenschutzaufsichtsbehörde wenden.</p>
 </section>
         </main>
 
         <footer class="site-footer">
-            <p>© 2026 Yong Wang. All rights reserved.</p>
+            <p>© 2026 Yong Wang. Alle Rechte vorbehalten.</p>
             <p>Kontakt: <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></p>
         </footer>
     </div>

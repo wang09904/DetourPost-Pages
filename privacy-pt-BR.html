@@ -11,14 +11,14 @@
         <header class="site-header">
             <div class="app-badge">✉</div>
             <h1>Detour Post</h1>
-            <div class="meta-info">Versão 1.0 ｜ Data de vigência: 2026-09-18 ｜ Última atualização: 2026-09-18</div>
+            <div class="meta-info">Rascunho para revisão interna · atualizado em 6 de outubro de 2026 · não publicado nem vigente · revisões jurídica e linguística em andamento.</div>
             <nav class="nav-pills">
                 <a href="terms-pt-BR.html" class="">Termos de Serviço</a>
                 <a href="privacy-pt-BR.html" class=" active">Política de Privacidade</a>
             </nav>
             <div class="lang-bar-container">
                 <div class="lang-select-box">
-                    <select onchange="location = this.value;" class="custom-select" aria-label="Select Language">
+                    <select onchange="location = this.value;" class="custom-select" aria-label="Selecionar idioma">
                         <option value="privacy-en.html">English (en)</option> <option value="privacy-zh-Hans.html">简体中文 (zh-Hans)</option> <option value="privacy-zh-Hant.html">繁體中文 (zh-Hant)</option> <option value="privacy-ja.html">日本語 (ja)</option> <option value="privacy-ko.html">한국어 (ko)</option> <option value="privacy-fr.html">Français (fr)</option> <option value="privacy-de.html">Deutsch (de)</option> <option value="privacy-es.html">Español (es)</option> <option value="privacy-pt-BR.html" selected>Português (pt-BR)</option> <option value="privacy-ru.html">Русский (ru)</option> <option value="privacy-th.html">ไทย (th)</option> <option value="privacy-id.html">Bahasa Indonesia (id)</option>
                     </select>
                 </div>
@@ -28,87 +28,100 @@
         <main class="document-card">
 <section class="legal-section">
 <h2>1. Introdução</h2>
-<p>Detour Post (doravante denominado &quot;o Aplicativo&quot;) é operado por Yong Wang (doravante denominado &quot;nós&quot;, &quot;nos&quot; ou &quot;nosso&quot;). Atuamos como controlador de dados de suas informações pessoais.</p>
+<p>O Detour Post é operado por Yong Wang, uma pessoa física. Nesta política, “nós” se refere a Yong Wang, que determina como os dados pessoais são tratados para o serviço.</p>
 <p>Esta Política de Privacidade explica quais informações coletamos, por que as processamos, como são tratadas e armazenadas, períodos de retenção e como você pode exercer seus direitos de privacidade.</p>
-<p>Nosso princípio fundamental é direto: <strong>Suas cartas são privadas entre você e seu destinatário. Não podemos lê-los e não temos intenção de lê-los.</strong></p>
+<p>Nosso princípio fundamental é simples: <strong>Suas cartas são privadas entre você e o destinatário. Não podemos lê-las e não temos intenção de lê-las.</strong></p>
 </section>
 <section class="legal-section">
 <h2>2. Informações que processamos</h2>
+<section id="21-informações-que-você-fornece-ativamente" class="level3">
 <h3>2.1 Informações que você fornece ativamente</h3>
-<div class="scroll-hint">↔ Role horizontalmente para ver a tabela completa</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Informação</th>
 <th>Detalhes</th>
 <th>Necessidade</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Identificador de conta</td>
-<td>Identificador único obtido por meio de Login com Apple ou Google</td>
-<td>Necessário para criação de conta</td>
+<td>Conta e identidade de login</td>
+<td>Identificador da conta, identificador do provedor de login e e-mail verificado fornecidos pela Apple ou pelo Google</td>
+<td>Necessários para criar e autenticar a conta</td>
 </tr>
 <tr>
 <td>Credenciais de login</td>
-<td>Tokens de autenticação de sessão</td>
-<td>Necessário para acesso seguro</td>
+<td>Tokens de autenticação da sessão; o serviço armazena um hash de cada token</td>
+<td>Necessárias para acesso seguro</td>
 </tr>
 <tr>
-<td>Data de nascimento e região</td>
-<td>Utilizado no registo apenas para determinar a idade de elegibilidade</td>
-<td>Obrigatório para registro. <strong>A data de nascimento é utilizada apenas no momento da avaliação e imediatamente descartada; nunca a armazenamos.</strong> Apenas a versão da regra e a região selecionada são retidas</td>
+<td>Mês e ano de nascimento e região selecionada</td>
+<td>O app verifica no seu dispositivo o requisito de idade com base no mês e ano informados e na região escolhida</td>
+<td>Necessários para o cadastro. O mês e o ano de nascimento ficam nos dados do app associados à sua conta no dispositivo, onde podem ser consultados e alterados; o mês e o ano de nascimento não são enviados nem armazenados em nossos servidores. O serviço mantém separadamente a versão da regra aplicada e a região de login</td>
 </tr>
 <tr>
 <td>Nome de exibição</td>
-<td>Nome personalizado definido em seu perfil, visível para seus destinatários</td>
-<td>Opcional</td>
+<td>Nome visível para as pessoas com quem você troca cartas</td>
+<td>Obrigatório para concluir o cadastro; pode ser alterado depois no perfil</td>
 </tr>
 <tr>
 <td>Cidade</td>
-<td>Cidade selecionada como ponto de partida/chegada</td>
-<td>Opcional, mas obrigatório para envio de cartas</td>
+<td>Cidade escolhida para enviar cartas, incluindo os dados do local salvos pelo app</td>
+<td>Obrigatória para concluir o cadastro e enviar cartas</td>
 </tr>
 <tr>
 <td>Informações de conexão</td>
-<td>Status de relacionamento, códigos de convite e códigos secretos de resgate de cartas</td>
+<td>Status de relacionamento, códigos de convite e códigos secretos para receber cartas</td>
 <td>Necessário para troca de cartas</td>
 </tr>
 <tr>
 <td>Conteúdo da carta</td>
-<td>Texto da carta, escolha de papel de carta e decorações, fotos anexadas, correio, hora de chegada</td>
-<td>Criado somente quando você escolhe enviar</td>
+<td>Texto, papel de carta e decorações escolhidos, fotos anexadas, mensageiro e horário de entrega escolhido ou programado</td>
+<td>Criado somente quando você escolhe enviar uma carta</td>
 </tr>
 <tr>
-<td>Detalhes do relatório</td>
-<td>Categoria de violação selecionada (Assédio, Spam, Segurança) e ID do alvo. <strong>NÃO contém texto de carta, fotos, texto de formato livre ou coordenadas</strong>; bloqueia automaticamente a festa simultaneamente</td>
-<td>Criado somente quando você registra um relatório</td>
+<td>Dados de denúncias</td>
+<td>IDs de quem denuncia e da conta denunciada; tipo, origem e ID do alvo; motivo selecionado; ID de correlação para auditoria; status e data de criação. <strong>Não incluem texto de cartas, fotos, texto livre ou coordenadas.</strong> A denúncia também bloqueia a conta denunciada e encerra as cartas que essa pessoa enviou a você e que ainda não foram entregues</td>
+<td>Criados somente quando você faz uma denúncia</td>
 </tr>
 <tr>
 <td>Notas privadas</td>
-<td>Notas privadas que você atribui a um contato</td>
-<td>Opcional. <strong>Armazenado estritamente no seu dispositivo local, nunca carregado</strong></td>
+<td>Notas que você escreve sobre um contato</td>
+<td>Opcionais. Ficam no seu dispositivo e só são incluídas no backup pessoal do iCloud se você o ativar; não são enviadas ao nosso serviço</td>
 </tr>
-</tbody></table></div>
-<p><strong>Criptografia ponta a ponta de cartas e fotos.</strong> O texto das cartas e as fotos são criptografados diretamente no seu dispositivo local antes da transmissão. Mantemos apenas texto cifrado e não possuímos chaves de descriptografia. Conseqüentemente, <strong>não podemos ler, inspecionar ou fornecer o texto ou as fotos da sua carta a ninguém</strong> — incluindo consultas policiais, onde apenas o texto cifrado pode ser fornecido. Consulte a Seção 4.</p>
+</tbody>
+</table>
+</div>
+<p><strong>Criptografia de ponta a ponta de cartas e fotos.</strong> O texto e as fotos das cartas são criptografados no seu dispositivo antes de serem enviados ao serviço. Para esse conteúdo, mantemos apenas dados criptografados, sem as chaves de descriptografia. Os demais dados de conta e do serviço descritos nesta Política são tratados separadamente. Veja a Seção 4.</p>
+</section>
+<section id="22-informações-geradas-automaticamente-durante-o-uso" class="level3">
 <h3>2.2 Informações geradas automaticamente durante o uso</h3>
-<div class="scroll-hint">↔ Role horizontalmente para ver a tabela completa</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Informação</th>
 <th>Detalhes</th>
 <th>Finalidade</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Status de entrega</td>
-<td>Partida, marcos da viagem, chegada, recall, status de término</td>
-<td>Alimentando o pipeline de entrega postal</td>
+<td>Status da entrega</td>
+<td>Partida, etapas da viagem, chegada, retirada e encerramento</td>
+<td>Envio e entrega de cartas</td>
 </tr>
 <tr>
 <td>Estado da conta e segurança</td>
-<td>Situação da conta, listas de bloqueios recíprocos, situação de tratamento de relatórios</td>
+<td>Situação da conta, listas de bloqueios recíprocos e status do tratamento de denúncias</td>
 <td>Administração de contas e prevenção de abusos</td>
 </tr>
 <tr>
-<td>Livro de comércio</td>
-<td>Registros de pedidos, saldos de moedas, propriedade permanente de itens, assinaturas ativas</td>
-<td>Faturamento, atendimento e tratamento de reembolso</td>
+<td>Registros de compras e ativos</td>
+<td>Pedidos, movimentações e saldos de moedas, estoque de selos e de unidades do serviço de agendamento de entrega, propriedade permanente de itens, assinaturas e estado da restauração de compras</td>
+<td>Cobrança, prestação do serviço, restauração e reembolsos</td>
 </tr>
 <tr>
 <td>Tokens push e de dispositivo</td>
@@ -120,238 +133,277 @@
 <td>Logs operacionais de API, rastreamentos de erros e diagnósticos de desempenho</td>
 <td>Segurança, estabilidade e solução de problemas</td>
 </tr>
-</tbody></table></div>
-<p><strong>Sem segredos em registros ou notificações push.</strong> Os registros operacionais nunca contêm texto de carta, fotos, códigos de convite ou coordenadas exatas. As notificações push carregam apenas frases de status genéricas (por exemplo, &quot;Chegou uma carta&quot;) sem identificadores pessoais, texto de mensagem ou cidades.</p>
+</tbody>
+</table>
+</div>
+<p><strong>Notificações push.</strong> O aviso visível usa um texto genérico. Os dados enviados também incluem uma categoria de notificação e um identificador de evento opaco para abrir a tela correspondente; não incluem texto de cartas, fotos ou localização. Os registros operacionais podem conter detalhes técnicos de solicitações ou erros; veja a Seção 8.</p>
+</section>
+<section id="23-o-que-nunca-fazemos" class="level3">
 <h3>2.3 O que NUNCA fazemos</h3>
 <ul>
-<li>NÃO acessamos sua biblioteca completa de fotos, contatos ou localização GPS precisa;</li>
-<li>NÃO coletamos identificadores de rastreamento (IDFA/IDFV), incorporamos SDKs de anúncios nem realizamos rastreamento entre aplicativos;</li>
-<li>NÃO alimentamos dados de cartas em modelos de treinamento de IA – não temos acesso a texto simples;</li>
-<li>NUNCA vendemos suas informações pessoais a terceiros.</li>
+<li><p>NÃO acessamos sua biblioteca completa de fotos, contatos ou localização GPS precisa;</p></li>
+<li><p>O app não usa identificadores de publicidade (IDFA/IDFV) para direcionamento de anúncios nem para rastreamento entre apps e não inclui SDK de publicidade.</p></li>
+<li><p>NÃO usamos dados de cartas para treinar modelos de IA — não temos acesso ao conteúdo sem criptografia;</p></li>
+<li><p>NUNCA vendemos suas informações pessoais a terceiros.</p></li>
 </ul>
+</section>
 </section>
 <section class="legal-section">
 <h2>3. Por que processamos informações</h2>
-<div class="scroll-hint">↔ Role horizontalmente para ver a tabela completa</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Finalidade</th>
-<th>Informações Envolvidas</th>
-<th>Base Jurídica</th>
-</tr></thead><tbody>
+<th>Informações envolvidas</th>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Entrega e recepção postal</td>
-<td>ID da conta, nome de exibição, cidade, informações de conexão, carta criptografada, status de entrega</td>
-<td>Execução do contrato de serviço</td>
+<td>Envio e recebimento de cartas</td>
+<td>ID da conta, nome de exibição, cidade, informações de relacionamento, carta criptografada e status de entrega</td>
 </tr>
 <tr>
-<td>Compras e reembolsos no aplicativo</td>
-<td>Livro de compras, validade da assinatura</td>
-<td>Execução do contrato de serviço</td>
+<td>Compras no app, cumprimento e reembolsos</td>
+<td>Registros de compras e ativos, status da assinatura</td>
 </tr>
 <tr>
-<td>Notificações push de entrega</td>
-<td>Token push, estado de entrega</td>
-<td>O seu consentimento (revogável a qualquer momento)</td>
+<td>Notificações de entrega</td>
+<td>Token push e status de entrega</td>
 </tr>
 <tr>
-<td>Segurança, prevenção de abusos e denúncias</td>
-<td>Estado de segurança, detalhes do relatório, registros operacionais</td>
-<td>Interesse legítimo e obrigação legal</td>
+<td>Segurança, denúncias e prevenção de abuso</td>
+<td>Status da conta e de segurança, dados de denúncias e registros operacionais</td>
 </tr>
 <tr>
-<td>Diagnóstico e estabilidade de serviço</td>
-<td>Registos operacionais</td>
-<td>Interesse legítimo</td>
+<td>Diagnóstico e estabilidade do serviço</td>
+<td>Registros operacionais</td>
 </tr>
 <tr>
-<td>Tratamento de direitos e dúvidas do usuário</td>
-<td>Informações fornecidas por você</td>
-<td>Obrigação legal</td>
+<td>Solicitações de direitos e reclamações</td>
+<td>Informações que você nos fornece</td>
 </tr>
-</tbody></table></div>
+</tbody>
+</table>
+</div>
+<p>A base legal de cada tratamento depende da legislação aplicável e das circunstâncias de cada operação. Este rascunho ainda não atribui uma base legal a cada finalidade. Essa análise deve ser concluída antes da publicação; não utilizaremos uma base que não seja aplicável conforme a legislação pertinente.</p>
 </section>
 <section class="legal-section">
 <h2>4. Criptografia ponta a ponta</h2>
 <p>Esta é a salvaguarda técnica mais crítica do Detour Post:</p>
-<p><strong>A criptografia ocorre localmente no seu dispositivo.</strong> Quando você toca em &quot;Selar esta carta&quot;, todos os textos e fotos são criptografados no seu dispositivo antes da transmissão. As chaves de descriptografia são mantidas exclusivamente por você e pelo destinatário designado.</p>
-<p><strong>Retemos apenas texto cifrado.</strong> Nossos servidores armazenam apenas blobs criptografados. Não retemos chaves de descriptografia de nenhuma forma, nem fornecemos recuperação manual de chaves.</p>
-<p><strong>Sem exceções.</strong> Não mantemos backdoors administrativos, canais de inspeção de conteúdo ou substituições de atendimento ao cliente. Como não podemos visualizar texto simples, não podemos realizar filtragem automatizada de palavras-chave ou recomendação de conteúdo.</p>
+<p><strong>A criptografia ocorre localmente no seu dispositivo.</strong> Quando você toca em "Selar esta carta", todos os textos e fotos são criptografados no seu dispositivo antes da transmissão. As chaves de descriptografia são mantidas exclusivamente por você e pelo destinatário designado.</p>
+<p><strong>Texto e fotos das cartas são mantidos apenas em formato criptografado.</strong> Não possuímos suas chaves de descriptografia nem oferecemos recuperação manual de chaves. Também processamos os dados de conta e do serviço descritos nesta Política.</p>
+<p><strong>Sem exceções.</strong> Não mantemos backdoors administrativos, canais de inspeção de conteúdo ou exceções que permitam ao atendimento ao cliente acessar o conteúdo. Como não podemos visualizar texto simples, não podemos realizar filtragem automatizada de palavras-chave ou recomendação de conteúdo.</p>
 <ul>
-<li>Somente você poderá ver o conteúdo antes da entrega;</li>
-<li>Somente você e seu destinatário poderão ver o conteúdo após a entrega;</li>
-<li>Se você perder seu dispositivo e não tiver um backup pessoal do iCloud, não poderemos recuperar suas cartas – não temos as chaves;</li>
-<li>Os relatórios de segurança desencadeiam bloqueios de relacionamento e penalidades de conta, sem que operadores humanos leiam o conteúdo da carta.</li>
+<li><p>Somente você poderá ver o conteúdo antes da entrega;</p></li>
+<li><p>Somente você e seu destinatário poderão ver o conteúdo após a entrega;</p></li>
+<li><p>Se você perder seu dispositivo e não tiver um backup pessoal do iCloud, não poderemos recuperar suas cartas – não temos as chaves;</p></li>
+<li><p>Uma denúncia de segurança registra o motivo selecionado e os identificadores de conta ou carta relacionados, aplica um bloqueio recíproco e encerra as cartas ainda não entregues que a pessoa denunciada enviou a você. A denúncia não revela o conteúdo das cartas. Se Yong Wang tomar conhecimento dela, fará esforços razoáveis para analisá-la e adotar medidas apropriadas quando necessário. Não há prazo específico de análise ou resposta prometido; outras medidas sobre a conta dependem de análise.</p></li>
 </ul>
-<p><strong>Backup pessoal.</strong> Os backups de dados de cartas ocorrem exclusivamente através do seu iCloud pessoal, se ativado. Os backups residem inteiramente no ecossistema do seu ID Apple. Não temos acesso ao seu backup do iCloud ou às chaves do Keychain.</p>
+<p><strong>Backup pessoal.</strong> Se você o ativar, dados selecionados da sua bolsa postal — incluindo notas privadas de contatos, rascunhos, dados de convites pendentes e cartas salvas — são criptografados no dispositivo e copiados para seu iCloud pessoal pelo CloudKit. A chave do backup fica no Keychain do dispositivo. Após a verificação de um backup, uma chave de recuperação é armazenada no Keychain do iCloud para que possa estar disponível nos seus outros dispositivos Apple. Não recebemos nenhuma dessas chaves e não podemos descriptografar o backup.</p>
 </section>
 <section class="legal-section">
 <h2>5. Permissões do sistema</h2>
-<p>O App solicita apenas uma permissão do sistema:</p>
-<div class="scroll-hint">↔ Role horizontalmente para ver a tabela completa</div>
-<div class="table-responsive"><table><thead><tr>
+<p>O app pode solicitar permissão para notificações depois da primeira carta enviada ou recebida; você também pode solicitá-la nos Ajustes. Ao escolher salvar uma imagem gerada do cartão de viajante na biblioteca de fotos, o app solicita permissão apenas para adicionar fotos.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Permissão</th>
 <th>Quando solicitado</th>
 <th>Finalidade</th>
-</tr></thead><tbody>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>Notificações</td>
-<td>Quando você opta por receber alertas de cartas</td>
-<td>Alerta você quando cartas partem ou chegam. As cargas contêm apenas frases genéricas</td>
+<td>Após a primeira carta enviada ou recebida, ou ao ativar os avisos nos Ajustes</td>
+<td>O aviso visível é genérico. Os dados enviados também incluem uma categoria e um identificador de evento opaco para abrir a tela correspondente, sem texto de cartas ou localização</td>
 </tr>
-</tbody></table></div>
-<p>Desativar notificações não afeta o envio ou recebimento de cartas.</p>
-<p><strong>Permissões que NÃO solicitamos:</strong></p>
+<tr>
+<td>Fotos (somente adicionar)</td>
+<td>Ao escolher salvar um cartão de viajante gerado</td>
+<td>Salva essa imagem na biblioteca sem permitir que o app navegue pelas suas fotos</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>O app sincroniza suas preferências de notificação com o serviço, que as usa para decidir quais avisos enviar. A permissão de notificações do iOS controla a exibição dos avisos no dispositivo. Nenhuma dessas ações, por si só, exclui ou desativa o registro do token do dispositivo no serviço. Recusar uma permissão opcional não impede, por si só, o envio ou recebimento básico de cartas.</p>
+<p><strong>Outros detalhes sobre permissões:</strong></p>
 <ul>
-<li><strong>Fotos:</strong> A seleção de fotos usa o seletor de fotos do sistema nativo. Apenas a única imagem selecionada é passada para o App; o acesso completo à biblioteca de fotos não é solicitado nem obrigatório.</li>
-<li><strong>Localização:</strong> As cidades são selecionadas manualmente em uma lista. Nunca rastreamos as coordenadas do seu dispositivo.</li>
-<li><strong>Contatos, Câmera, Microfone, Rastreamento de Aplicativo (ATT):</strong> Não solicitado e não existe código correspondente.</li>
+<li><p><strong>Fotos:</strong> Ao anexar uma foto à carta, o seletor de fotos do sistema dá ao app acesso apenas à imagem escolhida; o app não navega pela biblioteca completa. Salvar um cartão de viajante gerado usa a permissão separada de adicionar fotos e a solicitação correspondente do sistema.</p></li>
+<li><p><strong>Localização:</strong> Você escolhe a cidade de cada carta. Não coletamos a localização do dispositivo nem rastreamos deslocamentos. O app inclui um catálogo limitado de nomes e coordenadas de países e cidades para sugestões de busca local, resultados offline limitados e rótulos no mapa. Primeiro consulta esse catálogo; quando encontra uma cidade, usa o resultado localmente e não envia o termo de busca ao MapKit. Se não encontra, solicita resultados de lugares ao Apple MapKit. Quando o catálogo não tem o centro do país ou região escolhidos, o app pode enviar o nome à Apple pelo Core Location para posicionar o mapa. O Core Location também é usado para geocodificar ao contrário um ponto escolhido no mapa. Se a Apple não retornar um resultado, o app pode usar uma cidade próxima do catálogo como alternativa limitada. A Apple recebe o texto da busca, o nome do país ou região ou as coordenadas do ponto no mapa envolvido. Esses recursos não exigem permissão de localização.</p></li>
+<li><p><strong>Contatos, Câmera, Microfone e Rastreamento de Apps (ATT):</strong> Essas permissões não são solicitadas e não há código correspondente.</p></li>
 </ul>
 </section>
 <section class="legal-section">
 <h2>6. Terceiros</h2>
-<p>Nunca vendemos dados pessoais. As informações são compartilhadas estritamente com os provedores de infraestrutura necessários:</p>
-<div class="scroll-hint">↔ Role horizontalmente para ver a tabela completa</div>
-<div class="table-responsive"><table><thead><tr>
-<th>Terceiros</th>
-<th>Dados Processados ​​</th>
-<th>Finalidade</th>
-<th>Notas</th>
-</tr></thead><tbody>
+<p>Não vendemos informações pessoais. Os prestadores necessários às funções que você usa processam os dados correspondentes. Para o armazenamento e processamento do texto e das fotos das cartas nos servidores do serviço, esses prestadores recebem dados criptografados; não fornecemos a eles as chaves de descriptografia.</p>
+<div class="table-responsive">
+<table>
+<thead>
 <tr>
-<td>Maçã</td>
-<td>ID da conta, compras no StoreKit, envio push, geocodificação MapKit</td>
-<td>Autenticação, cobrança no aplicativo, notificações, exibição de mapas</td>
-<td>Sujeito à <a href="https://www.apple.com/legal/privacy/">Política de Privacidade da Apple</a></td>
+<th>Terceiro</th>
+<th>Dados processados</th>
+<th>Finalidade</th>
+<th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Apple</td>
+<td>Identificador de login e e-mail verificado, compras e assinaturas no app, token push e entrega de notificações, backups criptografados do cofre pessoal no iCloud e chaves de recuperação quando ativados, termos enviados nas buscas de lugares do MapKit, nomes de países ou regiões enviados para posicionar o mapa quando o catálogo não tem um centro e coordenadas de pontos do mapa enviadas para geocodificação inversa do Core Location</td>
+<td>Login, pagamentos, notificações, backup e recursos de mapa e busca</td>
+<td>Aplica-se a <a href="https://www.apple.com/legal/privacy/">Política de Privacidade da Apple</a></td>
 </tr>
 <tr>
 <td>Google</td>
-<td>ID da conta</td>
-<td>Autenticação opcional</td>
-<td>Sujeito à <a href="https://policies.google.com/privacy">Política de Privacidade do Google</a></td>
+<td>Identificador do provedor de login e e-mail verificado, quando fornecido</td>
+<td>Login opcional com Google</td>
+<td>Consulte a <a href="https://policies.google.com/privacy">Política de Privacidade do Google</a></td>
 </tr>
 <tr>
-<td>Serviço de notificação push da Apple (APNs)</td>
-<td>Token push, carga útil de alerta genérico</td>
-<td>Envio de notificação</td>
-<td>As cargas úteis não contêm texto de carta ou identidades de destinatários</td>
+<td>Serviço de notificações push da Apple (APNs)</td>
+<td>Token push, texto genérico do aviso, categoria da notificação e identificador de evento opaco</td>
+<td>Envio de notificações</td>
+<td>Os dados enviados não incluem texto de cartas, fotos ou localização precisa</td>
 </tr>
 <tr>
-<td>Provedores de infraestrutura em nuvem</td>
-<td>Blobs de cartas criptografadas, razão de contas</td>
-<td>Computação em nuvem e armazenamento seguro</td>
-<td>Processado estritamente sob nossas instruções</td>
+<td>Cloudflare</td>
+<td>Cartas criptografadas, dados de conta e login, cidade selecionada, compras e entregas, tokens push e registros do serviço</td>
+<td>Computação em nuvem, banco de dados e armazenamento de objetos</td>
+<td>Consulte a <a href="https://www.cloudflare.com/privacypolicy/">Política de Privacidade da Cloudflare</a></td>
 </tr>
-</tbody></table></div>
+</tbody>
+</table>
+</div>
 <p>O aplicativo iOS não contém SDKs de rastreamento, publicidade ou análise de terceiros.</p>
 </section>
 <section class="legal-section">
 <h2>7. Armazenamento de dados e transferências internacionais</h2>
 <ul>
-<li><strong>No seu dispositivo:</strong> Cartas, rascunhos e preferências locais.</li>
-<li><strong>Em seu iCloud pessoal:</strong> Backups de banco de dados criptografados em sua conta privada da Apple.</li>
-<li><strong>Em nossos servidores:</strong> IDs de contas, nomes de exibição, cargas úteis de cartas criptografadas e registros de transações armazenados em infraestrutura de nuvem segura no exterior. Os dados podem ser transferidos e processados ​​internacionalmente sob estritas salvaguardas contratuais.</li>
+<li><p><strong>No seu dispositivo:</strong> Cartas, rascunhos, notas privadas de contatos e preferências.</p></li>
+<li><p><strong>No seu iCloud pessoal:</strong> Se ativado, um backup criptografado de dados selecionados da bolsa postal, incluindo notas privadas de contatos, rascunhos, dados de convites pendentes e cartas salvas.</p></li>
+<li><p><strong>Nos nossos servidores:</strong> Identificadores de conta e login, e-mail verificado, nomes de exibição, dados salvos da cidade selecionada, relações e entregas, cartas criptografadas, compras, tokens push e registros do serviço. Nossa infraestrutura fica fora do país ou da região de alguns usuários, de modo que esses dados podem ser processados internacionalmente.</p></li>
 </ul>
 </section>
 <section class="legal-section">
 <h2>8. Períodos de retenção de dados</h2>
-<div class="scroll-hint">↔ Role horizontalmente para ver a tabela completa</div>
-<div class="table-responsive"><table><thead><tr>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
 <th>Informação</th>
-<th>Período de retenção</th>
-</tr></thead><tbody>
+<th>Prazo de retenção</th>
+</tr>
+</thead>
+<tbody>
 <tr>
-<td>Data de Nascimento</td>
-<td>Não armazenado. Avaliado uma vez no momento do registo e eliminado imediatamente</td>
+<td>Mês e ano de nascimento</td>
+<td>O mês e o ano de nascimento ficam nos dados do app associados à conta no seu dispositivo, onde podem ser consultados e alterados; o mês e o ano de nascimento não são enviados nem armazenados em nossos servidores</td>
 </tr>
 <tr>
-<td>ID da conta, nome de exibição, cidade, conexões</td>
-<td>Duração do ciclo de vida da conta; excluído ou irreversivelmente anonimizado após exclusão da conta</td>
+<td>Conta e identidade de login</td>
+<td>A exclusão da conta a desativa, revoga as sessões e remove dados do perfil e das notificações. O desenho atual do serviço mantém o registro da conta excluída e o ID do provedor de login; ainda não foi definido um prazo fixo para exclusão.</td>
 </tr>
 <tr>
-<td>Texto cifrado de letras</td>
-<td>Excluído imediatamente após confirmação de entrega pelo destinatário; cartas não reclamadas limpas após 90 dias</td>
+<td>Conteúdo criptografado das cartas</td>
+<td>A limpeza da cópia criptografada no servidor começa após a confirmação de que o dispositivo do destinatário salvou a carta completa. Sem essa confirmação, a carta fica indisponível 90 dias depois que a carta ficar disponível para o destinatário (para cartas programadas, a partir do horário marcado) e entra no processo de limpeza. O término desse prazo não restaura a conta excluída do remetente.</td>
 </tr>
 <tr>
-<td>Livro de compras</td>
-<td>Retido conforme exigido pelas leis financeiras, fiscais e de proteção ao consumidor</td>
+<td>Registros de compras e cumprimento</td>
+<td>Mantidos para administrar compras, reembolsos e entregas já iniciadas. Ainda não há um prazo fixo definido.</td>
 </tr>
 <tr>
-<td>Empurrar Tokens</td>
-<td>Removido dos servidores imediatamente após cancelamento de notificação ou exclusão de conta</td>
+<td>Tokens push</td>
+<td>As preferências no app determinam quais avisos são enviados; a permissão de notificações do iOS controla sua exibição no dispositivo. A exclusão da conta remove o token do dispositivo; tokens que o APNs informar como inválidos são desativados.</td>
 </tr>
 <tr>
-<td>Registros de serviço</td>
-<td>Retido por uma breve janela de diagnóstico e excluído automaticamente. Não contém segredos privados</td>
+<td>Denúncias de segurança</td>
+<td>Motivo selecionado, IDs da conta ou da carta relacionada, status e data de criação. Ainda não foram definidos prazo fixo nem critério de exclusão.</td>
 </tr>
-</tbody></table></div>
+<tr>
+<td>Registros do serviço</td>
+<td>Podem ser criados para segurança, confiabilidade e diagnóstico e incluir detalhes técnicos de solicitações ou erros. Ainda não há um prazo fixo definido.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Os prazos de retenção ou critérios de exclusão de registros de contas excluídas e IDs de provedores, compras e cumprimento, denúncias de segurança e registros do serviço ainda não foram definidos. Essas regras e a base legal de cada finalidade precisam ser avaliadas antes da publicação.</p>
 </section>
 <section class="legal-section">
 <h2>9. Seus direitos de privacidade</h2>
-<p>Você pode exercer os seguintes direitos em relação às suas informações pessoais:</p>
-<div class="scroll-hint">↔ Role horizontalmente para ver a tabela completa</div>
-<div class="table-responsive"><table><thead><tr>
-<th>Certo</th>
-<th>Como fazer exercícios</th>
-</tr></thead><tbody>
+<p>Dependendo de onde você mora, a legislação aplicável pode lhe dar direitos de acessar, corrigir, excluir ou obter uma cópia de informações pessoais, opor-se a certos tratamentos, restringi-los ou retirar seu consentimento. Esta Política não limita os direitos que a lei lhe assegura. Envie solicitações para <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>; podemos pedir informações necessárias para confirmar sua identidade.</p>
+<div class="table-responsive">
+<table>
+<thead>
 <tr>
-<td>Acesso e Portabilidade</td>
-<td>Visualize perfil, compras e ativos em “Meu Perfil”; solicitar exportação via detourpost@aivolo.studio</td>
+<th>Direito</th>
+<th>Como exercer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Acesso ou cópia</td>
+<td>Abra “Eu” para consultar dados da conta, compras e ativos; entre em contato para solicitações não disponíveis no app</td>
 </tr>
 <tr>
-<td>Retificação</td>
-<td>Edite o nome de exibição e a cidade nas configurações do perfil; contacte-nos para outros registos</td>
+<td>Correção</td>
+<td>Abra “Eu” → “Perfil” para alterar nome de exibição e cidade; entre em contato sobre outros dados</td>
 </tr>
 <tr>
 <td>Exclusão</td>
-<td>Use o recurso &quot;Excluir conta&quot; do aplicativo ou entre em contato conosco para solicitações de dados específicas</td>
+<td>Use o recurso "Excluir conta" do aplicativo ou entre em contato conosco para solicitações de dados específicas</td>
 </tr>
 <tr>
-<td>Retirar consentimento</td>
-<td>Desative as notificações nas configurações do aplicativo ou nas configurações do sistema iOS</td>
+<td>Retirada do consentimento</td>
+<td>Escreva para <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a> para retirar o consentimento de um tratamento que dependa dele; a legislação aplicável determina os efeitos sobre o tratamento anterior</td>
 </tr>
 <tr>
 <td>Exclusão de conta</td>
-<td>Navegue até &quot;Meu perfil&quot; → &quot;Exclusão e isolamento de conta&quot; → &quot;Excluir conta&quot;</td>
+<td>Abra “Eu” → “Excluir Conta” → “Excluir conta”</td>
 </tr>
 <tr>
 <td>Perguntas e dúvidas</td>
-<td>Contate detourpost@aivolo.studio</td>
+<td>Contate <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></td>
 </tr>
-</tbody></table></div>
-<p><strong>O que acontece na exclusão da conta:</strong> As cartas não enviadas são encerradas; as cartas que partiram continuam até seu destino; registros de perfil, relações de bloco e tokens de dispositivo são apagados imediata e permanentemente.</p>
-<p>Respondemos a todas as solicitações de privacidade em <strong>48 horas</strong>.</p>
+</tbody>
+</table>
+</div>
+<p><strong>Ao excluir a conta:</strong> A conta é desativada, as sessões são revogadas e os dados de perfil e notificações são removidos. Cartas que ainda não partiram são encerradas; as que já partiram seguem o plano de entrega existente. Excluir a conta no app não cancela uma assinatura cobrada pela Apple; gerencie ou cancele-a nos ajustes de assinaturas da sua conta Apple. O serviço mantém atualmente um registro da conta excluída e a identidade do provedor de login; veja a Seção 8.</p>
+<p>Trataremos as solicitações de acordo com a legislação aplicável. O prazo dependerá da natureza da solicitação; não prometemos um prazo geral.</p>
 </section>
 <section class="legal-section">
 <h2>10. Menores</h2>
-<p>O aplicativo é destinado a usuários com 13 anos ou mais (ou mais, dependendo dos requisitos da jurisdição local). Não coletamos intencionalmente dados pessoais de menores com idade inferior à idade de registro aplicável. Se você acredita que um menor se registrou sem autorização, entre em contato com detourpost@aivolo.studio e excluiremos imediatamente a conta.</p>
+<p>O app é destinado a pessoas que atendam à idade mínima aplicável, que é de pelo menos 13 anos e pode ser maior em algumas regiões. No cadastro, o app verifica no seu dispositivo, com base no mês e ano de nascimento informados e na região escolhida, se você atende ao requisito de idade aplicável. O mês e o ano ficam nos dados do app no seu dispositivo e não são enviados nem armazenados em nossos servidores.</p>
+<p>Se você acredita que alguém talvez não tenha a idade mínima aplicável, escreva para <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>. Se Yong Wang tomar conhecimento do caso, fará esforços razoáveis para analisá-lo e tomar as medidas exigidas pela legislação aplicável. Não há prazo fixo de análise ou resposta prometido. Responsáveis legais também podem escrever para esse endereço.</p>
 </section>
 <section class="legal-section">
 <h2>11. Medidas de segurança</h2>
 <ul>
-<li>Criptografia ponta a ponta para texto de cartas e fotos;</li>
-<li>Canais de transporte criptografados (TLS/HTTPS);</li>
-<li>Credenciais e chaves armazenadas em armazenamento seguro do sistema (iOS Keychain);</li>
-<li>Princípio do menor privilégio para infraestrutura de servidores;</li>
-<li>Verificação contínua de vulnerabilidades e auditorias de configuração.</li>
+<li><p>Criptografia ponta a ponta para texto de cartas e fotos;</p></li>
+<li><p>Canais de transporte criptografados (TLS/HTTPS);</p></li>
+<li><p>Credenciais e chaves armazenadas em armazenamento seguro do sistema (iOS Keychain);</p></li>
+<li><p>O app usa armazenamento protegido pelo dispositivo para credenciais e chaves de criptografia locais.</p></li>
 </ul>
+<p>Nenhuma medida pode garantir segurança absoluta. Se ocorrer um incidente de segurança de dados, forneceremos os avisos e tomaremos as medidas exigidas pela legislação aplicável.</p>
 </section>
 <section class="legal-section">
 <h2>12. Atualizações de políticas</h2>
-<p>Poderemos atualizar esta Política de Privacidade periodicamente. Mudanças significativas serão notificadas com destaque no aplicativo. Se você discordar dos termos modificados, poderá excluir sua conta.</p>
+<p>Podemos atualizar esta Política. O texto atual e a data da atualização estarão nesta página. Não usaremos informações pessoais para finalidades incompatíveis com as descritas aqui. Quando a legislação aplicável exigir aviso sobre uma mudança relevante ou um novo uso dos dados, daremos esse aviso por um meio apropriado.</p>
 </section>
 <section class="legal-section">
 <h2>13. Contate-nos e reclamações</h2>
 <ul>
-<li><strong>Operador:</strong> Yong Wang</li>
-<li><strong>E-mail:</strong> detourpost@aivolo.studio</li>
+<li><p><strong>Operador:</strong> Yong Wang</p></li>
+<li><p><strong>E-mail:</strong> <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></p></li>
 </ul>
-<p>Respondemos às perguntas dentro de <strong>48 horas</strong>. Você também tem o direito de apresentar uma reclamação à autoridade supervisora ​​local de proteção de dados.</p>
-<p>© 2026 Yong Wang. Todos os direitos reservados.</p>
+<p>Para perguntas ou reclamações, escreva para <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a>. Se Yong Wang tomar conhecimento da mensagem, fará esforços razoáveis para analisá-la e responder quando apropriado. Não há prazo específico prometido. Você também pode apresentar uma reclamação à autoridade de proteção de dados competente para o seu caso.</p>
 </section>
         </main>
 
         <footer class="site-footer">
-            <p>© 2026 Yong Wang. All rights reserved.</p>
+            <p>© 2026 Yong Wang. Todos os direitos reservados.</p>
             <p>Contato: <a href="mailto:detourpost@aivolo.studio">detourpost@aivolo.studio</a></p>
         </footer>
     </div>
