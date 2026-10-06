@@ -1,48 +1,50 @@
-# 
+# Conditions d’utilisation de Detour Post
+
+**Brouillon de révision interne · mis à jour le 6 octobre 2026 · non publié et sans effet · examens juridique et linguistique en cours.**
 
 ****
 
 ---
 
-## 1. Portée de ces conditions
+## 1. Portée des présentes Conditions
 
-Detour Post (ci-après dénommé « l'Application ») est exploité par Yong Wang (ci-après dénommé « nous », « notre » ou « notre »). En téléchargeant, en installant ou en utilisant l'application, vous reconnaissez que vous avez lu, compris et accepté d'être lié par les présentes conditions d'utilisation et notre [Politique de confidentialité] (privacy-policy.en.md).
+Detour Post est exploité par Yong Wang, à titre individuel. Dans les présentes Conditions, « nous » désigne Yong Wang. L’utilisation de l’Application est soumise aux présentes Conditions. La [Politique de confidentialité](privacy-fr.html) explique comment les données personnelles sont traitées.
 
-L'application est distribuée via l'Apple App Store. Le contrat de licence utilisateur final standard d'Apple (CLUF standard) s'applique également à vous en ce qui concerne les licences logicielles. Ces conditions régissent les services de livraison postale, les comptes, les objets virtuels et les adhésions que nous fournissons. En cas de conflit entre les deux, le CLUF standard Apple prévaudra en ce qui concerne les licences logicielles, et les présentes Conditions prévaudront en ce qui concerne les services de livraison postale.
+L’Application est distribuée par l’Apple App Store. Le contrat de licence utilisateur final standard d’Apple peut également s’appliquer à votre utilisation de l’Application ; son champ d’application est défini par ce contrat. Les présentes Conditions décrivent le service de correspondance et de livraison, les comptes, les articles virtuels et les abonnements proposés par Yong Wang. Chaque document produit les effets prévus par ses propres dispositions et par le droit applicable.
 
-Si vous n'acceptez aucune partie de ces conditions, veuillez ne pas utiliser l'application.
+Si vous n’acceptez pas une partie de ces Conditions, veuillez ne pas utiliser l’Application.
 
 ## 2. Ce que fait l'application
 
-L'application vous permet d'envoyer des lettres à des personnes que vous connaissez dans la vraie vie. Les lettres sont livrées par des coursiers virtuels en fonction de la distance de déplacement réelle, des coursiers et des véhicules de transport entre les villes, en prenant un temps réaliste pour arriver.
+L’application vous permet d’envoyer des lettres, à votre rythme, à des personnes que vous connaissez. Le délai de livraison estimé dépend de la distance entre les points de référence des villes choisies et des paramètres du messager virtuel et du moyen de transport sélectionnés. L’itinéraire affiché sur la carte illustre le voyage ; il ne s’agit ni d’un suivi GPS ni d’un itinéraire de navigation réel.
 
 L'application sert exclusivement aux communications entre connaissances établies :
 
-- Pas de correspondance étrangère, pas de communauté publique, pas de flux de découverte et pas de recommandations de contenu algorithmiques ;
+- Pas de mise en relation avec des inconnus, de communauté publique, de fil de découverte ni de recommandations algorithmiques de contenu ;
 
 - Les destinataires sont spécifiquement désignés par vous, et les destinataires doivent également utiliser l'Application pour recevoir des lettres ;
 
 - Pas de messagerie de masse, de chaînes de diffusion ou de diffusion publique.
 
-Ces limitations font partie intégrante de notre produit, et nous ne le transformerons pas en un réseau social étranger dans les prochaines versions.
+Ces limites font partie intégrante du produit ; les prochaines versions ne le transformeront pas en un réseau social mettant en relation des inconnus.
 
 ## 3. Comptes et éligibilité
 
-Vous devez vous connecter en utilisant un compte Apple ou Google. Veuillez utiliser un compte que vous êtes autorisé à utiliser et assumer la responsabilité de toutes les activités menées sous ce compte. Veuillez nous informer immédiatement si vous soupçonnez un accès non autorisé à votre compte.
+Vous devez vous connecter avec un compte Apple ou Google que vous êtes autorisé à utiliser. Vous êtes responsable de votre propre utilisation du compte et des actions que vous autorisez par son intermédiaire. Contactez-nous si vous soupçonnez un accès non autorisé.
 
-Vous devez avoir au moins 13 ans pour utiliser l'application. Certaines juridictions imposent des seuils d'âge minimum plus élevés pour le traitement des données personnelles ; l'âge minimum d'enregistrement pour ces juridictions est déterminé dynamiquement par les règles du serveur. Si vous ne remplissez pas les conditions d'âge requises pour votre juridiction, vous ne pourrez pas finaliser votre inscription.
+Vous devez avoir au moins 13 ans. À l’inscription, vous choisissez votre année et votre mois de naissance ainsi que votre région. L’Application vérifie sur votre appareil si vous remplissez les conditions d’âge applicables, à partir des règles fournies par le service. Si vous ne les remplissez pas, vous ne pouvez pas finaliser l’inscription.
 
-Veuillez fournir des informations véridiques concernant votre date de naissance et votre région lors de l’inscription. Les comptes tentant de contourner les restrictions d'âge avec de fausses informations peuvent être fermés.
+Votre année et votre mois de naissance réels restent dans les données de l’Application sur votre appareil et ne sont pas transmis à nos serveurs.
 
 Un compte est strictement destiné à l’usage personnel de la personne enregistrée. La vente, le prêt, le partage ou l'accès partagé à plusieurs personnes sont interdits.
 
-## 4. Votre contenu vous appartient
+## 4. Vos contenus et vos droits
 
-Vous conservez l'intégralité des droits d'auteur et de la propriété de tous les textes et photos que vous composez ou téléchargez dans l'application. Nous ne revendiquons aucun droit de propriété sur vos lettres et nous ne lisons pas votre contenu à quelque fin que ce soit.
+Les droits que vous détenez sur les textes et photos que vous créez ou téléversez dans l’Application restent les vôtres. Nous n’en revendiquons pas la propriété. Pour fournir les services que vous choisissez, vous autorisez Yong Wang à traiter votre contenu uniquement dans la mesure nécessaire au stockage chiffré, à la transmission et à la livraison, à la sauvegarde que vous choisissez d’activer et aux fonctions nécessaires du service. Cette autorisation ne couvre ni l’affichage public, ni la publicité ou la promotion, ni l’entraînement de modèles d’IA, ni toute autre utilisation sans lien avec le service.
 
-Le contenu des lettres et les photos jointes sont cryptées de bout en bout sur votre appareil avant la transmission. Seuls vous et votre destinataire désigné détenez les clés de décryptage. Nos serveurs stockent uniquement le texte chiffré. Les opérateurs, le personnel du support client et les algorithmes automatisés ne disposent d’aucun canal de décryptage, à aucune exception près. Pour les détails techniques, veuillez vous référer à notre [Politique de confidentialité] (privacy-policy.en.md).
+Le texte des lettres et les photos sont chiffrés de bout en bout sur votre appareil avant leur transmission. Les clés de déchiffrement sont détenues uniquement par vous et le destinataire que vous avez désigné. Nos serveurs ne conservent que du texte chiffré. Les opérateurs, le service client et les systèmes automatisés ne disposent d’aucun moyen de déchiffrement. Pour plus de détails, consultez la [Politique de confidentialité](privacy-fr.html).
 
-Vous êtes seul responsable du contenu que vous envoyez. Veuillez ne pas envoyer de texte ou de photos pour lesquels vous ne détenez pas de droits légitimes.
+Vous êtes responsable des contenus que vous choisissez d’envoyer. N’envoyez pas de texte ou de photos si vous ne détenez pas les droits ou autorisations nécessaires.
 
 ## 5. Conduite interdite
 
@@ -64,32 +66,32 @@ Lorsque vous utilisez l'Application, vous ne pouvez pas :
 
 8. Effectuer une ingénierie inverse ou altérer le cryptage des lettres ou tenter d'obtenir les clés de déchiffrement d'autrui.
 
-Pour les comptes violant ces règles, nous pouvons émettre des avertissements, restreindre les fonctionnalités ou suspendre/résilier les comptes. Tout contenu illégal présumé peut être signalé aux autorités compétentes comme l'exige la loi.
+Nous pouvons adresser un avertissement ou restreindre une fonction lorsque cela est nécessaire pour répondre à une violation. La suspension ou la fin de l’accès est limitée aux motifs prévus à la section 9. Nous pouvons agir à partir des signalements et d’autres informations disponibles, et communiquer des informations lorsque la loi l’exige. Le texte et les photos des lettres sont chiffrés de bout en bout ; nous ne pouvons pas en examiner le contenu.
 
-**Vous pouvez vous protéger.** Vous pouvez bloquer n'importe quelle connexion à tout moment. Le blocage est réciproque : aucune des parties ne peut envoyer de lettres à l’autre, évitant ainsi un harcèlement inversé. Le blocage met également fin de manière irréversible aux lettres en vol envoyées par l'autre partie et qui n'ont pas encore été livrées ; les lettres déjà livrées ne sont pas affectées et le déblocage ne ressuscite pas les lettres annulées. Vous pouvez également signaler une connexion ou une lettre spécifique. Les rapports nécessitent la sélection d'une catégorie de motif et n'incluent pas le contenu des lettres, car nous ne pouvons pas les afficher. La soumission d'un rapport bloque automatiquement la partie signalée simultanément et nous examinerons manuellement l'incident dans les 48 heures.
+**Vous pouvez vous protéger.** Vous pouvez bloquer un contact à tout moment. Le blocage empêche les deux personnes de s’envoyer des lettres et interrompt la livraison des lettres que la personne bloquée vous a envoyées et qui ne sont pas encore livrées ; les lettres déjà livrées ne sont pas affectées, et le déblocage ne relance pas les livraisons interrompues. Vous pouvez signaler un contact ou une lettre en choisissant un motif. Le signalement ne contient pas le texte de la lettre. Il bloque également la personne signalée et interrompt la livraison des lettres qu’elle vous a envoyées et qui ne sont pas encore livrées. Si Yong Wang prend connaissance d’un signalement, il fera des efforts raisonnables pour l’examiner et prendre les mesures appropriées si nécessaire. Aucun délai précis d’examen ou de réponse n’est promis.
 
 ## 6. Que se passe-t-il après l'envoi d'une lettre
 
-**Rappel.** Avant le départ d'une lettre, vous pouvez la rappeler gratuitement. Une fois partie, une lettre ne peut pas être rappelée et sera livrée comme prévu. Les crédits de livraison consommés ne sont pas remboursables lors d'un rappel.
+**Rappel d’une lettre.** Vous pouvez rappeler gratuitement une lettre tant que l’Application indique qu’elle remplit les conditions. Une lettre déjà partie ne peut être rappelée qu’avant sa livraison et s’il reste plus de 20 minutes avant l’heure de livraison prévue. Un rappel réussi met fin à cet envoi ; les timbres ou unités de programmation de livraison déjà utilisés ne sont pas remboursés.
 
-**Livraison.** À l'arrivée, la lettre devient visible pour le destinataire. Le destinataire peut conserver la lettre dans sa boîte aux lettres locale. Vous ne pouvez pas révoquer unilatéralement le contenu déjà livré.
+**Livraison.** L’arrivée dans la ville du destinataire ne signifie pas toujours que la lettre est livrée. Une lettre programmée arrivée en avance reste scellée jusqu’à l’heure choisie. Une fois disponible, le destinataire peut l’ouvrir et l’enregistrer. Vous ne pouvez plus rappeler une lettre après sa livraison.
 
-**Suppression du compte.** Lors de la suppression du compte, les lettres non parties sont terminées ; les lettres parties continuent vers leur destination comme prévu. La suppression du compte est définitive et irréversible.
+**Suppression du compte.** La suppression de votre compte met fin aux envois qui ne sont pas encore partis. Les lettres déjà parties, y compris celles arrivées dans la ville du destinataire mais en attente de l’heure prévue, continuent selon le plan de livraison établi. La suppression de votre compte dans l’app n’annule pas un abonnement facturé par Apple ; gérez-le ou résiliez-le dans les réglages des abonnements de votre compte Apple. Après la suppression, vous ne pouvez plus gérer ces lettres ni réutiliser le compte supprimé.
 
-**Suppression de connexion.** Si une connexion est coupée, les lettres déjà reçues restent conservées dans les boîtes aux lettres respectives, tandis que les lettres non parties suivent les règles de rappel.
 
-## 7. Pièces, objets permanents et adhésions
+## 7. Pièces, articles permanents et adhésion
 
-**Pièces.** Les pièces sont achetées via un achat intégré (StoreKit) et utilisées pour échanger des biens virtuels permanents et des services de chronométrage. Les pièces ne sont pas une monnaie et ne peuvent pas être transférées, encaissées ou déplacées entre des comptes.
+**Pièces.** Les pièces sont achetées via un achat intégré (StoreKit) et peuvent être échangées contre des timbres ordinaires, des services de programmation, ainsi que des articles précis de papeterie ou de décoration qui deviennent permanents. Elles ne constituent pas une monnaie, ne peuvent pas être transférées entre comptes ni converties en espèces.
 
-**Articles permanents.** Les articles de papeterie, les timbres décoratifs et les coursiers, une fois échangés, appartiennent de manière permanente à votre compte et peuvent être réutilisés pour de futures lettres.
+**Timbre mensuel offert.** Chaque compte peut réclamer manuellement un timbre ordinaire par mois civil parmi les modèles disponibles. Le mois du compte suit le fuseau horaire fixe choisi lors de la première réclamation. Un timbre mensuel réclamé mais non utilisé expire à la fin de ce mois et n’est pas reporté. Il couvre l’affranchissement de base d’une lettre ; le service de programmation et les autres options suivent leurs règles propres.
 
-**Adhésion mensuelle.** L'adhésion donne accès à tous les services de timbres, de papeterie, de décorations et de chronométrage pendant la période de facturation active. À l'expiration, les objets non achetés cessent d'être disponibles pour de nouvelles lettres ; les lettres de départ et les engagements en vol sont pleinement honorés.
+**Articles permanents et services de programmation.** Un article permanent correspond uniquement au modèle précis de papeterie ou de décoration acheté et reste associé à votre compte ; il peut être réutilisé. Hors adhésion active, chaque lettre utilise un timbre mensuel admissible ou un timbre payé. Pour les non-membres, une unité de programmation est utilisée uniquement au départ d’une lettre programmée ou lors de la première conversion réussie d’une lettre en cours de livraison en livraison programmée ; elle couvre les changements d’horaire ultérieurs autorisés pour cette lettre. Les coursiers et véhicules actuellement disponibles sont gratuits.
 
-**Remboursements et restaurations.** Les achats sont traités par Apple. Veuillez soumettre les demandes de remboursement directement à Apple. Une fois approuvés, les droits associés sont révoqués sans affecter les achats valides non liés.
+**Adhésion mensuelle.** Pendant sa période de validité, l’adhésion permet d’utiliser les articles actuels et futurs des mêmes catégories sans consommer les stocks payés. Les recharges de pièces et achats d’articles sont indisponibles pendant l’adhésion ; les pièces, timbres et unités de programmation déjà détenus sont conservés. À l’expiration, les droits d’utilisation accordés uniquement par l’adhésion prennent fin pour les nouvelles lettres. Les timbres payés et unités de programmation non utilisés restent disponibles ; les lettres déjà parties conservent leurs engagements de livraison et leurs avantages de programmation.
 
-**Prix.** Les prix affichés sur l'interface d'achat StoreKit locale régissent. Nous nous réservons le droit d'ajuster les prix, ce qui n'affectera pas les transactions précédemment effectuées.
+**Remboursements et restauration des achats.** Apple traite les achats ; adressez les demandes de remboursement à Apple. En règle générale, un échange de pièces déjà effectué n’est pas remboursé à la demande de l’utilisateur. Cela ne limite ni la correction d’une erreur du système, ni les droits prévus par le droit applicable, ni un remboursement accordé par Apple. Si Apple accorde un remboursement, nous ajustons uniquement les droits liés à cette transaction qui peuvent encore l’être, selon les données de transaction et d’utilisation et sous réserve du droit applicable. Si nous ne pouvons pas déterminer raisonnablement les pièces ou articles concernés par un remboursement partiel, nous ne retirons pas de pièces ou d’articles de cette transaction pour ce seul motif. Nous ne retirons pas non plus d’achats sans lien avec celle-ci. Les services déjà utilisés, les lettres enregistrées par leur destinataire et les trajets déjà partis ne sont pas annulés rétroactivement. La restauration des achats n’accorde pas deux fois le même droit.
 
+**Prix.** Les prix en argent des packs de pièces et de l’adhésion sont ceux affichés par Apple ; le coût en pièces des articles et services apparaît dans l’Application. Un changement de prix ne modifie pas les transactions terminées ni les articles permanents déjà acquis.
 ## 8. Abonnements à renouvellement automatique
 
 L'abonnement mensuel individuel est un abonnement à renouvellement automatique. Veuillez confirmer les détails suivants avant l'achat :
@@ -98,7 +100,7 @@ L'abonnement mensuel individuel est un abonnement à renouvellement automatique.
 
 - **Période d'abonnement :** 1 mois de renouvellement automatique.
 
-- **Avantages :** Accès complet à tous les services de papeterie, timbres, décorations et chronométrage.
+- **Avantages :** Utilisation des articles actuels et futurs des mêmes catégories — papier à lettres, timbres, décorations et services de programmation de livraison — pendant l’abonnement, sans consommer vos stocks payants existants.
 
 - **Prix :** Tel qu'indiqué sur la fiche d'achat de l'App Store local.
 
@@ -112,52 +114,37 @@ L'abonnement mensuel individuel est un abonnement à renouvellement automatique.
 
 - **Essai gratuit :** Toute partie inutilisée d'un essai gratuit, si elle est proposée, sera perdue lors de l'achat d'un abonnement.
 
-- **Conditions pertinentes :** [Politique de confidentialité](privacy-policy.en.md) ｜ [CLUF standard Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+- **Conditions pertinentes :** [Politique de confidentialité](privacy-fr.html) ｜ [CLUF standard Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## 9. Modifications et résiliation du service
 
-Nous améliorons continuellement l'application et pouvons modifier, ajouter ou supprimer des fonctionnalités. Nous ne diminuerons pas les droits spécifiques que vous avez déjà acquis.
+Nous pouvons suspendre tout ou partie du service pour des raisons de maintenance, de panne, de sécurité ou d’obligations légales. Nous pouvons améliorer l’Application et modifier, ajouter ou supprimer des fonctions, sans réduire les droits précis que vous avez déjà acquis. Vous pouvez cesser d’utiliser l’Application et supprimer votre compte à tout moment. Nous pouvons restreindre, suspendre ou résilier l’accès en cas de violation grave ou répétée des présentes Conditions, de fraude, d’attaque ou de perturbation du service, de menace pour la sécurité d’une personne, ou lorsque la loi ou une autorité compétente l’exige.
 
-Vous pouvez cesser d'utiliser l'Application à tout moment et supprimer votre compte directement dans l'Application. Nous pouvons suspendre ou résilier votre accès en cas de violations graves ou répétées des présentes Conditions, d'activité frauduleuse ou de contrainte légale.
+## 10. Disponibilité du service et responsabilité
 
-## 10. Avis de non-responsabilité et limitation de responsabilité
-
-L'application est fournie « EN L'ÉTAT » et « SELON LA DISPONIBILITÉ ». Bien que nous recherchions la stabilité, nous ne garantissons pas que les services seront ininterrompus ou sans erreurs, ni que chaque lettre arrivera exactement à l'heure estimée en raison des variations du réseau ou des appareils. Les rencontres avec des coursiers en transit et les détours du scénario sont des caractéristiques conçues du produit et ne constituent pas une violation du service.
-
-Dans la mesure permise par la loi applicable, nous ne serons pas responsables des dommages indirects, accessoires, spéciaux ou consécutifs. Notre responsabilité globale pour les services de livraison postale ne dépassera pas le montant total réellement payé par vous pour l'Application au cours des douze mois précédant la réclamation.
-
-Rien dans cette section n'exclut la responsabilité qui ne peut être exclue en vertu des lois applicables en matière de protection des consommateurs.
+Des problèmes de réseau, d’appareil, de stockage ou de système peuvent affecter la disponibilité du service et les délais de livraison estimés. Nous traiterons les problèmes de service et assumerons nos responsabilités conformément au droit applicable. Les présentes Conditions n’excluent ni ne limitent une responsabilité lorsque le droit applicable interdit une telle exclusion ou limitation, et ne portent pas atteinte aux droits des consommateurs auxquels vous ne pouvez renoncer.
 
 ## 11. Propriété intellectuelle
 
-Les logiciels, interfaces, éléments visuels, articles de papeterie, tampons, dessins de personnages, marques déposées et textes contenus dans l'application sont la propriété de nous ou de nos concédants de licence. Ces Conditions vous accordent une licence personnelle, non exclusive et non transférable pour utiliser l'Application.
+Les logiciels, interfaces, éléments visuels, papiers à lettres, timbres, décorations, personnages, véhicules, marques et textes et matériaux fournis dans l’Application (à l’exclusion du contenu des utilisateurs) appartiennent à Yong Wang ou aux licenciants concernés. Les présentes Conditions vous accordent une autorisation limitée, personnelle, non exclusive et non transférable d’utiliser l’Application, sous réserve du droit applicable ; elles ne transfèrent aucun droit de propriété intellectuelle.
 
-Vous pouvez conserver et partager le contenu des lettres reçues à des fins personnelles et non commerciales. L'exploitation commerciale, la copie non autorisée ou la redistribution sont strictement interdites.
+L’auteur d’une lettre ne cède pas ses droits sur son contenu en l’envoyant, et la réception ne change pas l’identité de son auteur. Vous pouvez utiliser le contenu reçu dans les limites des droits de son auteur et du droit applicable. Les présentes Conditions ne nous accordent pas de droits sur votre contenu au-delà de l’autorisation limitée décrite à la section 4.
 
-« Detour Post » et les logos associés sont nos marques déposées. Apple, App Store et MapKit sont des marques commerciales d'Apple Inc.
+« Detour Post » et ses logos sont des marques de Yong Wang. Apple, App Store et MapKit sont des marques d’Apple Inc. Le fond de carte et la recherche de lieux en ligne utilisent des services Apple ; l’Application utilise également un catalogue intégré pour les recherches et les libellés de villes sur la carte, avec des résultats de remplacement hors ligne limités. Consultez la Politique de confidentialité pour plus de détails.
 
-## 12. Loi applicable et règlement des litiges
+## 12. Droit applicable et règlement des litiges
 
-Les présentes Conditions seront régies par les lois applicables au lieu où se trouve le développeur, sans égard aux principes de conflit de lois.
+Les présentes Conditions ne désignent aucun droit ni tribunal à titre exclusif. Elles ne limitent pas les droits impératifs de protection des consommateurs qui s’appliquent à vous. Tout litige peut être porté devant un tribunal ou un autre organisme compétent conformément au droit applicable.
 
-Cela ne vous prive pas des droits obligatoires de protection des consommateurs en vertu des lois de votre résidence habituelle. Vous pouvez engager une procédure devant les tribunaux compétents de votre résidence habituelle.
-
-En cas de litige, veuillez d'abord nous contacter à detourpost@aivolo.studio. Nous ferons des efforts raisonnables pour répondre et rechercher une résolution à l’amiable dans les 48 heures.
+Vous pouvez contacter Yong Wang au sujet d’un litige à l’adresse detourpost@aivolo.studio. S’il prend connaissance de votre message, il fera des efforts raisonnables pour l’examiner et répondre le cas échéant. Aucun délai précis de réponse n’est promis.
 
 ## 13. Modifications de ces conditions
 
-Nous pouvons mettre à jour ces conditions de temps à autre. Les modifications importantes seront notifiées de manière bien visible dans l'application. L'utilisation continue de l'application signifie l'acceptation des conditions modifiées.
+Nous pouvons mettre à jour les présentes Conditions. Le texte et la date de mise à jour en vigueur figurent sur cette page. Nous vous informerons ou demanderons votre consentement lorsque le droit applicable l’exige. Les effets de la poursuite de l’utilisation de l’Application sont déterminés par le droit applicable.
 
 ## 14. Contactez-nous
 
-- **Opérateur :** Yong Wang
+- **Exploitant :** Yong Wang, personne physique
+- **Adresse e-mail :** detourpost@aivolo.studio
 
-- **E-mail de contact :** detourpost@aivolo.studio
-
-Le service client et les réclamations sont traités via l'e-mail ci-dessus. Pour les demandes de renseignements sur les données personnelles, veuillez consulter notre [Politique de confidentialité] (privacy-policy.en.md).
-
-© 2026 Yong Wang. Tous droits réservés.
-
----
-
-© 2026 Yong Wang. All rights reserved.
+Vous pouvez contacter Yong Wang pour toute question ou réclamation. Aucun délai précis de réponse n’est promis. Pour les questions relatives aux données personnelles, consultez la [Politique de confidentialité](privacy-fr.html). Pour les problèmes de sécurité, utilisez le signalement intégré à l’Application.

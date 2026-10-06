@@ -1,4 +1,6 @@
-# 
+# Nutzungsbedingungen für Detour Post
+
+**Interner Prüfentwurf · aktualisiert am 6. Oktober 2026 · nicht veröffentlicht und nicht wirksam · rechtliche und sprachliche Prüfung läuft.**
 
 ****
 
@@ -6,15 +8,15 @@
 
 ## 1. Geltungsbereich dieser Bedingungen
 
-Detour Post (im Folgenden als „die App“ bezeichnet) wird von Yong Wang (im Folgenden als „wir“, „uns“ oder „unser“ bezeichnet) betrieben. Durch das Herunterladen, Installieren oder Verwenden der App bestätigen Sie, dass Sie diese Nutzungsbedingungen und unsere [Datenschutzerklärung] (privacy-policy.en.md) gelesen und verstanden haben und damit einverstanden sind.
+Detour Post wird von Yong Wang als Einzelperson betrieben. In diesen Bedingungen bezeichnet „wir“ Yong Wang. Die Nutzung der App unterliegt diesen Bedingungen. Die [Datenschutzerklärung](privacy-de.html) erläutert, wie personenbezogene Daten verarbeitet werden.
 
-Die App wird über den Apple App Store vertrieben. Auch hinsichtlich der Softwarelizenzierung gilt für Sie die Standard-Endbenutzer-Lizenzvereinbarung (Standard-EULA) von Apple. Diese Bedingungen regeln die von uns bereitgestellten Postzustelldienste, Konten, virtuellen Artikel und Mitgliedschaften. Im Falle eines Konflikts zwischen den beiden gilt hinsichtlich der Softwarelizenzierung die Apple-Standard-EULA und hinsichtlich der Postzustelldienste gelten diese Bedingungen.
+Die App wird über den Apple App Store vertrieben. Apples Standard-Endbenutzer-Lizenzvertrag kann ebenfalls für Ihre Nutzung der App gelten; sein Anwendungsbereich ergibt sich aus dem Vertrag selbst. Diese Bedingungen beschreiben den von Yong Wang angebotenen Brief- und Zustelldienst, Konten, virtuelle Artikel und Mitgliedschaften. Die Wirkung der beiden Dokumente richtet sich nach ihren jeweiligen Bestimmungen und dem anwendbaren Recht.
 
-Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, nutzen Sie die App bitte nicht.
+Wenn Sie einem Teil dieser Bedingungen nicht zustimmen, nutzen Sie die App bitte nicht.
 
 ## 2. Was die App macht
 
-Mit der App können Sie Briefe an Personen senden, die Sie im wirklichen Leben kennen. Die Zustellung von Briefen erfolgt durch virtuelle Kuriere auf der Grundlage realer Reiseentfernungen, Kuriere und Transportfahrzeuge zwischen Städten, wobei die Ankunftszeit realistisch ist.
+Mit der App können Sie langsam Briefe an Menschen senden, die Sie persönlich kennen. Die voraussichtliche Zustellzeit richtet sich nach der Entfernung zwischen den Bezugspunkten der ausgewählten Städte sowie nach den Einstellungen des gewählten virtuellen Kuriers und Transportmittels. Die Kartenroute veranschaulicht die Reise; sie ist weder GPS-Tracking noch echte Navigation.
 
 Die App dient ausschließlich der Kommunikation zwischen etablierten Bekannten:
 
@@ -24,72 +26,72 @@ Die App dient ausschließlich der Kommunikation zwischen etablierten Bekannten:
 
 - Keine Massennachrichten, Rundfunkkanäle oder öffentliche Verbreitung.
 
-Diese Einschränkungen sind integraler Bestandteil unseres Produkts und wir werden es in zukünftigen Versionen nicht in ein fremdes soziales Netzwerk umwandeln.
+Diese Einschränkungen sind integraler Bestandteil unseres Produkts und wir werden es in zukünftigen Versionen nicht in ein soziales Netzwerk umwandeln, das einander unbekannte Personen verbindet.
 
 ## 3. Konten und Berechtigung
 
-Sie müssen sich mit einem Apple- oder Google-Konto anmelden. Bitte verwenden Sie ein Konto, zu dessen Nutzung Sie berechtigt sind, und übernehmen Sie die Verantwortung für alle Aktivitäten unter diesem Konto. Bitte benachrichtigen Sie uns umgehend, wenn Sie den Verdacht eines unbefugten Kontozugriffs haben.
+Sie müssen sich mit einem Apple- oder Google-Konto anmelden, zu dessen Nutzung Sie berechtigt sind. Sie sind für Ihre eigene Nutzung des Kontos und für Handlungen verantwortlich, die Sie darüber autorisieren. Bitte kontaktieren Sie uns, wenn Sie einen unbefugten Zugriff vermuten.
 
-Um die App nutzen zu können, müssen Sie mindestens 13 Jahre alt sein. Bestimmte Gerichtsbarkeiten legen höhere Mindestaltersgrenzen für die Verarbeitung personenbezogener Daten fest; Das Mindestregistrierungsalter für solche Gerichtsbarkeiten wird dynamisch durch Serverregeln bestimmt. Wenn Sie die Altersvoraussetzungen für Ihr Land nicht erfüllen, können Sie die Registrierung nicht abschließen.
+Sie müssen mindestens 13 Jahre alt sein. Bei der Registrierung wählen Sie Ihr Geburtsjahr, Ihren Geburtsmonat und Ihre Region. Die App prüft auf Ihrem Gerät anhand der vom Dienst bereitgestellten Altersregeln, ob Sie die geltenden Voraussetzungen erfüllen. Wenn dies nicht der Fall ist, können Sie die Registrierung nicht abschließen.
 
-Bitte machen Sie bei der Anmeldung wahrheitsgemäße Angaben zu Ihrem Geburtsdatum und Ihrer Region. Konten, die versuchen, Altersbeschränkungen mit falschen Angaben zu umgehen, können gelöscht werden.
+Ihr tatsächlicher Geburtsmonat und Ihr Geburtsjahr bleiben in den App-Daten auf Ihrem Gerät und werden nicht an unsere Server gesendet.
 
 Ein Konto ist ausschließlich für die persönliche Nutzung durch die registrierte Person bestimmt. Der Verkauf, das Verleihen, das Teilen von Konten oder der gemeinsame Zugriff durch mehrere Personen ist verboten.
 
-## 4. Ihr Inhalt gehört Ihnen
+## 4. Ihre Inhalte und Ihre Rechte
 
-Sie behalten das volle Urheberrecht und Eigentum an allen Texten und Fotos, die Sie in der App verfassen oder hochladen. Wir beanspruchen keinerlei Eigentumsrechte an Ihren Briefen und lesen Ihren Inhalt auch nicht zu irgendeinem Zweck.
+Die Rechte, die Sie an Texten und Fotos haben, die Sie in der App erstellen oder hochladen, verbleiben bei Ihnen. Wir beanspruchen kein Eigentum daran. Damit Yong Wang die von Ihnen gewählten Dienste bereitstellen kann, gestatten Sie ihm, Ihre Inhalte nur soweit zu verarbeiten, wie es für verschlüsselte Speicherung, Übertragung und Zustellung, eine von Ihnen aktivierte Sicherung und erforderliche Dienstfunktionen notwendig ist. Diese Erlaubnis umfasst weder eine öffentliche Anzeige noch Werbung, Promotion, KI-Training oder andere dienstfremde Nutzungen.
 
-Briefinhalte und angehängte Fotos werden vor der Übertragung auf Ihrem Gerät Ende-zu-Ende-verschlüsselt. Nur Sie und der von Ihnen benannte Empfänger verfügen über die Entschlüsselungsschlüssel. Unsere Server speichern nur Chiffretext. Betreiber, Kundendienstmitarbeiter und automatisierte Algorithmen verfügen ausnahmslos über keinen Entschlüsselungskanal. Technische Details entnehmen Sie bitte unserer [Datenschutzerklärung](privacy-policy.en.md).
+Brieftexte und Fotos werden vor der Übertragung auf Ihrem Gerät Ende-zu-Ende verschlüsselt. Nur Sie und der von Ihnen bestimmte Empfänger verfügen über die Entschlüsselungsschlüssel. Unsere Server speichern nur verschlüsselte Inhalte. Betreiber, Kundendienst und automatisierte Systeme können diese Inhalte nicht entschlüsseln. Weitere Einzelheiten finden Sie in der [Datenschutzerklärung](privacy-de.html).
 
-Sie tragen die alleinige Verantwortung für die von Ihnen gesendeten Inhalte. Bitte senden Sie keine Texte oder Fotos, für die Sie keine berechtigten Rechte besitzen.
+Sie sind für die Inhalte verantwortlich, die Sie versenden. Senden Sie keine Texte oder Fotos, wenn Ihnen die erforderlichen Rechte oder Genehmigungen fehlen.
 
 ## 5. Verbotenes Verhalten
 
 Bei der Nutzung der App dürfen Sie Folgendes nicht tun:
 
-1. Andere zu belästigen, zu bedrohen, zu beleidigen oder zu diskriminieren oder wiederholt Briefe an Personen zu senden, die diese nicht erhalten möchten;
+1. Andere belästigen, bedrohen, beleidigen oder diskriminieren oder wiederholt Briefe an Personen senden, die diese nicht erhalten möchten;
 
 2. Spam, unerwünschte Werbung, betrügerische Inhalte oder Werbelinks versenden;
 
-3. sich als eine natürliche oder juristische Person auszugeben, einschließlich uns;
+3. Sich als eine andere natürliche oder juristische Person ausgeben, auch als Yong Wang;
 
-4. Inhalte zu übermitteln, die nach geltendem Recht verboten sind, einschließlich Material über sexuellen Kindesmissbrauch, gewalttätige Inhalte oder Inhalte, die die Privatsphäre anderer verletzen;
+4. Inhalte übermitteln, die nach geltendem Recht verboten sind, etwa Darstellungen sexuellen Missbrauchs von Kindern, gewalttätige Inhalte oder Inhalte, die die Privatsphäre anderer verletzen;
 
 5. Persönliche Daten anderer ohne Genehmigung sammeln oder offenlegen;
 
-6. Verwenden Sie automatisierte Skripte, Bots, modifizierte Clients oder nicht autorisierte Tools, um auf die App zuzugreifen oder unsere Dienste zu beeinträchtigen.
+6. Automatisierte Skripte, Bots, modifizierte Clients oder nicht autorisierte Tools verwenden, um auf die App zuzugreifen oder unsere Dienste zu beeinträchtigen;
 
 7. Zahlungsmechanismen umgehen, um kostenpflichtige virtuelle Gegenstände oder Mitgliedschaftsberechtigungen zu erhalten;
 
-8. Reverse Engineering oder Manipulation der Buchstabenverschlüsselung oder Versuch, an die Entschlüsselungsschlüssel anderer zu gelangen.
+8. Die Verschlüsselung von Briefen durch Reverse Engineering untersuchen oder manipulieren oder versuchen, an die Entschlüsselungsschlüssel anderer zu gelangen.
 
-Bei Konten, die gegen diese Regeln verstoßen, können wir Warnungen aussprechen, Funktionen einschränken oder Konten sperren/kündigen. Verdächtige rechtswidrige Inhalte können gemäß den gesetzlichen Bestimmungen den zuständigen Behörden gemeldet werden.
+Wir können bei Bedarf eine Warnung aussprechen oder eine Funktion einschränken, um auf einen Verstoß zu reagieren. Eine Sperrung oder Beendigung des Zugangs ist auf die in Abschnitt 9 genannten Gründe beschränkt. Wir können aufgrund von Meldungen und anderen verfügbaren Informationen handeln und Informationen offenlegen, wenn das Gesetz dies verlangt. Da Brieftexte und Fotos Ende-zu-Ende verschlüsselt sind, können wir ihren Inhalt nicht prüfen.
 
-**Sie können sich schützen.** Sie können jede Verbindung jederzeit blockieren. Die Sperrung erfolgt auf Gegenseitigkeit – keine Partei kann der anderen Briefe schicken, wodurch eine umgekehrte Belästigung verhindert wird. Durch die Sperrung werden auch noch nicht zugestellte In-Flight-Briefe der anderen Partei unwiderruflich beendet; Bereits zugestellte Briefe bleiben davon unberührt und die Entsperrung führt nicht zu einer Wiederbelebung stornierter Briefe. Sie können auch einen Zusammenhang oder einen bestimmten Brief melden. Berichte erfordern die Auswahl einer Grundkategorie und enthalten keine Briefinhalte, da wir diese nicht anzeigen können. Durch die Übermittlung einer Meldung wird gleichzeitig automatisch die gemeldete Partei gesperrt und wir werden den Vorfall innerhalb von 48 Stunden manuell überprüfen.
+**So können Sie sich schützen.** Sie können einen Kontakt jederzeit blockieren. Danach können beide Personen einander keine Briefe mehr senden; die Zustellung der noch nicht zugestellten Briefe, die die blockierte Person an Sie gesendet hat, wird beendet. Bereits zugestellte Briefe bleiben unberührt; das Aufheben der Blockierung setzt diese beendeten Zustellungen nicht wieder in Gang. Sie können einen Kontakt oder einen bestimmten Brief über eine ausgewählte Kategorie melden. Eine Meldung enthält keinen Briefinhalt. Sie blockiert die gemeldete Person zugleich und beendet die Zustellung ihrer noch nicht zugestellten Briefe an Sie. Wenn Yong Wang von einer Meldung Kenntnis erhält, wird er sich angemessen bemühen, sie zu prüfen und gegebenenfalls geeignete Maßnahmen zu ergreifen. Eine bestimmte Prüfungs- oder Antwortfrist wird nicht zugesagt.
 
 ## 6. Was passiert, nachdem ein Brief gesendet wurde?
 
-**Rückruf.** Bevor ein Brief verschickt wird, können Sie ihn kostenlos zurückrufen. Nach der Abreise kann ein Brief nicht mehr zurückgerufen werden und wird wie geplant zugestellt. Verbrauchte Liefergutschriften sind bei Rückruf nicht erstattungsfähig.
+**Rückruf.** Sie können einen Brief kostenlos zurückrufen, solange die App ihn als rückrufbar anzeigt. Ein bereits gestarteter Brief kann nur vor der Zustellung und dann zurückgerufen werden, wenn bis zur erwarteten Zustellzeit noch mehr als 20 Minuten verbleiben. Ein erfolgreicher Rückruf beendet diese Zustellung; bereits verwendete Briefmarken oder Einheiten zur Planung der Zustellzeit werden nicht erstattet.
 
-**Zustellung.** Bei der Ankunft wird der Brief für den Empfänger sichtbar. Der Empfänger kann den Brief in seinem örtlichen Briefkasten aufbewahren. Sie können bereits gelieferte Inhalte nicht einseitig widerrufen.
+**Zustellung.** Die Ankunft in der Stadt des Empfängers bedeutet nicht immer, dass der Brief zugestellt ist. Ein terminierter Brief, der früh ankommt, bleibt bis zur gewählten Zustellzeit versiegelt. Sobald er verfügbar ist, kann der Empfänger ihn öffnen und speichern. Nach der Zustellung ist kein Rückruf mehr möglich.
 
-**Kontolöschung.** Mit der Kontolöschung werden nicht abgereiste Briefe gelöscht; Abgegangene Briefe gelangen wie geplant an ihren Bestimmungsort. Die Löschung des Kontos ist dauerhaft und unumkehrbar.
+**Kontolöschung.** Wenn Sie Ihr App-Konto löschen, werden Sendungen beendet, die noch nicht aufgebrochen sind. Briefe, die bereits aufgebrochen sind – einschließlich geplanter Briefe, die in der Stadt des Empfängers warten – werden nach dem festgelegten Zustellplan weiter zugestellt. Das Löschen Ihres App-Kontos beendet kein über Apple abgerechnetes Abonnement; verwalten oder kündigen Sie es in den Abo-Einstellungen Ihres Apple-Accounts. Danach können Sie diese Briefe nicht mehr verwalten und das gelöschte Konto nicht erneut verwenden.
 
-**Verbindungsentfernung.** Wenn eine Verbindung getrennt wird, bleiben bereits empfangene Briefe in den entsprechenden Postfächern erhalten, während nicht gesendete Briefe den Rückrufregeln folgen.
 
-## 7. Münzen, dauerhafte Gegenstände und Mitgliedschaften
+## 7. Coins, dauerhafte Artikel und Mitgliedschaft
 
-**Münzen.** Münzen werden per In-App-Kauf (StoreKit) erworben und zum Einlösen dauerhafter virtueller Güter und Zeitmessungsdienste verwendet. Münzen sind keine Währung und können nicht übertragen, ausgezahlt oder zwischen Konten verschoben werden.
+**Coins.** Coins werden per In-App-Kauf (StoreKit) erworben und können gegen gewöhnliche Briefmarken, Zeitdienst-Einheiten sowie bestimmte Briefpapier- oder Dekorationsartikel eingetauscht werden, die dauerhaft erworben werden. Coins sind keine Währung, können nicht ausgezahlt oder zwischen Konten übertragen werden.
 
-**Dauerhafte Artikel.** Briefpapier, dekorative Briefmarken und Kuriere gehören nach dem Einlösen dauerhaft zu Ihrem Konto und können für zukünftige Briefe wiederverwendet werden.
+**Monatliche Gratisbriefmarke.** Jedes Konto kann pro Kalendermonat manuell eine gewöhnliche Briefmarke aus den verfügbaren Motiven beanspruchen. Maßgeblich ist die feste Zeitzone, die beim ersten Beanspruchen festgelegt wird. Eine beanspruchte, aber nicht verwendete Monatsmarke verfällt am Ende dieses Monats und wird nicht übertragen. Sie deckt die grundlegende Zustellung eines Briefes ab; Zeitdienst und weitere Optionen richten sich nach ihren eigenen Regeln.
 
-**Monatliche Mitgliedschaft.** Die Mitgliedschaft gewährt Zugriff auf alle Briefmarken, Briefpapier, Dekorationen und Zeitmessungsdienste während des aktiven Abrechnungszeitraums. Nach Ablauf der Frist stehen nicht gekaufte Artikel nicht mehr für neue Briefe zur Verfügung; Abgesandte Briefe und Verpflichtungen während des Fluges werden vollumfänglich eingehalten.
+**Dauerhafte Artikel und Zeitdienst.** Ein dauerhafter Artikel ist auf das konkrete gekaufte Briefpapier- oder Dekorationsmotiv beschränkt, bleibt Ihrem Konto zugeordnet und kann wiederverwendet werden. Ohne aktive Mitgliedschaft wird für jeden Brief entweder eine gültige Monatsmarke oder eine bezahlte Marke verwendet. Bei Nichtmitgliedern wird eine Zeitdienst-Einheit nur beim Start eines terminierten Briefes oder bei der ersten erfolgreichen Umstellung eines bereits unterwegs befindlichen Briefes auf terminierte Zustellung verbraucht; sie deckt alle späteren zulässigen Änderungen dieses Briefes ab. Alle derzeit verfügbaren Kuriere und Fahrzeuge sind kostenlos.
 
-**Rückerstattungen und Wiederherstellungen.** Käufe werden von Apple abgewickelt. Bitte reichen Sie Rückerstattungsanträge direkt bei Apple ein. Nach der Genehmigung werden die damit verbundenen Berechtigungen widerrufen, ohne dass sich dies auf nicht damit verbundene gültige Käufe auswirkt.
+**Monatliche Mitgliedschaft.** Während der Laufzeit können Sie aktuelle und künftige Artikel derselben Kategorien nutzen, ohne bezahlte Bestände zu verbrauchen. Während der Mitgliedschaft sind neue Coin-Aufladungen und Artikelkäufe nicht verfügbar; vorhandene Coins, Briefmarken und Zeitdienst-Einheiten bleiben erhalten. Nach Ablauf enden für neue Briefe die Nutzungsrechte, die ausschließlich durch die Mitgliedschaft gewährt werden. Nicht verwendete bezahlte Briefmarken und Zeitdienst-Einheiten bleiben verfügbar; bereits gestartete Briefe behalten ihre Zustellzusagen und Zeitvorteile.
 
-**Preise.** Es gelten die auf der lokalen StoreKit-Kaufoberfläche angezeigten Preise. Wir behalten uns das Recht vor, die Preise anzupassen, was keine Auswirkungen auf zuvor abgeschlossene Transaktionen hat.
+**Rückerstattungen und Wiederherstellung von Käufen.** Käufe werden von Apple abgewickelt; beantragen Sie Rückerstattungen bei Apple. Ein abgeschlossener Tausch von Coins gegen Artikel oder Dienste wird auf Wunsch in der Regel nicht rückgängig gemacht. Korrekturen bei Systemfehlern, Rechte nach anwendbarem Recht und von Apple genehmigte Rückerstattungen bleiben davon unberührt. Genehmigt Apple eine Rückerstattung, passen wir anhand der Transaktions- und Nutzungsdaten und vorbehaltlich des anwendbaren Rechts nur die zu dieser Transaktion gehörenden Ansprüche an, die noch angepasst werden können. Können wir bei einer teilweisen Rückerstattung nicht zuverlässig bestimmen, welche Coins oder Artikel betroffen sind, entziehen wir allein deshalb keine Coins oder Artikel aus dieser Transaktion. Unbeteiligte Käufe bleiben unberührt. Bereits genutzte Leistungen, vom Empfänger gespeicherte Briefe und bereits gestartete Reisen werden nicht rückgängig gemacht. Die Wiederherstellung von Käufen gewährt denselben Anspruch nicht doppelt.
 
+**Preise.** Geldpreise für Coin-Pakete und Mitgliedschaft werden im Apple-Kaufdialog angezeigt; die Coin-Kosten für Artikel und Dienste zeigt die App an. Preisänderungen wirken sich nicht auf abgeschlossene Transaktionen oder bereits erworbene dauerhafte Artikel aus.
 ## 8. Abonnements mit automatischer Verlängerung
 
 Bei der individuellen Monatsmitgliedschaft handelt es sich um ein sich automatisch verlängerndes Abonnement. Bitte bestätigen Sie vor dem Kauf folgende Angaben:
@@ -98,66 +100,51 @@ Bei der individuellen Monatsmitgliedschaft handelt es sich um ein sich automatis
 
 - **Abonnementzeitraum:** 1 Monat, automatische Verlängerung.
 
-- **Vorteile:** Voller Zugriff auf alle Briefpapier-, Briefmarken-, Dekorations- und Zeitmessdienste.
+- **Leistungen:** Nutzung aktueller und künftiger Artikel derselben Kategorien – Briefpapier, Briefmarken, Dekorationen und Dienste zur Planung der Zustellzeit – während der Mitgliedschaft, ohne Ihre vorhandenen bezahlten Bestände zu verbrauchen.
 
-- **Preis:** Wie auf dem lokalen App Store-Kaufformular angezeigt.
+- **Preis:** Der in Landeswährung angezeigte Betrag auf dem Bestätigungsbildschirm des App Store.
 
 - **Zahlung:** Wird Ihrem Apple-ID-Konto bei Bestätigung des Kaufs belastet.
 
 - **Automatische Verlängerung:** Abonnements verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor dem Ende des aktuellen Abrechnungszeitraums gekündigt werden.
 
-- **Verlängerungsgebühr:** Die Verlängerung Ihres Kontos wird innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums in Rechnung gestellt.
+- **Verlängerungsgebühr:** Die Verlängerungsgebühr wird innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums berechnet.
 
 - **Abonnements verwalten:** Sie können Ihre Abonnements in Ihren Apple-ID-Kontoeinstellungen verwalten und kündigen.
 
 - **Kostenlose Testversion:** Jeder ungenutzte Teil einer kostenlosen Testversion, sofern angeboten, verfällt beim Kauf eines Abonnements.
 
-- **Relevante Bedingungen:** [Datenschutzerklärung](privacy-policy.en.md) ｜ [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+- **Relevante Bedingungen:** [Datenschutzerklärung](privacy-de.html) ｜ [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## 9. Serviceänderungen und Kündigung
 
-Wir verbessern die App kontinuierlich und können Funktionen ändern, hinzufügen oder entfernen. Wir werden bestimmte bereits erworbene Ansprüche nicht kürzen.
+Wir können den gesamten Dienst oder Teile davon wegen Wartungsarbeiten, Störungen, Sicherheitsgründen oder rechtlichen Anforderungen vorübergehend aussetzen. Wir entwickeln die App weiter und können Funktionen ändern, hinzufügen oder entfernen, ohne bereits erworbene konkrete Ansprüche zu mindern. Sie können die Nutzung jederzeit beenden und Ihr Konto löschen. Bei schwerwiegenden oder wiederholten Verstößen gegen diese Bedingungen, Betrug, Angriffen auf oder Störungen des Dienstes, Bedrohungen der Sicherheit einer Person oder auf gesetzliche bzw. behördliche Anordnung können wir den Zugang einschränken, aussetzen oder beenden.
 
-Sie können die Nutzung der App jederzeit beenden und Ihr Konto direkt in der App löschen. Bei schwerwiegenden oder wiederholten Verstößen gegen diese Bedingungen, betrügerischen Aktivitäten oder rechtlicher Nötigung können wir Ihren Zugang sperren oder sperren.
+## 10. Verfügbarkeit des Dienstes und Verantwortung
 
-## 10. Haftungsausschluss und Haftungsbeschränkung
-
-Die App wird „WIE BESEHEN“ und „WIE VERFÜGBAR“ bereitgestellt. Obwohl wir nach Stabilität streben, garantieren wir nicht, dass die Dienste ununterbrochen oder fehlerfrei sind, noch garantieren wir, dass jeder Brief aufgrund von Netzwerk- oder Geräteschwankungen genau zum geschätzten Zeitpunkt ankommt. Begegnungen mit Kurieren während des Transports und Umwege über die Handlung sind Produktmerkmale und stellen keine Dienstverletzung dar.
-
-Soweit gesetzlich zulässig, haften wir nicht für indirekte, zufällige, besondere oder Folgeschäden. Unsere Gesamthaftung für Postzustelldienste übersteigt nicht den Gesamtbetrag, den Sie in den zwölf Monaten vor dem Anspruch tatsächlich für die App gezahlt haben.
-
-Nichts in diesem Abschnitt schließt eine Haftung aus, die nach den geltenden Verbraucherschutzgesetzen nicht ausgeschlossen werden kann.
+Netzwerk-, Geräte-, Speicher- oder Systemprobleme können die Verfügbarkeit des Dienstes und die geschätzte Zustellzeit beeinflussen. Wir behandeln Dienstprobleme und erfüllen unsere Pflichten nach dem anwendbaren Recht. Diese Bedingungen schließen keine Haftung aus und beschränken sie nicht, soweit das anwendbare Recht dies verbietet; ebenso wenig beschränken sie nicht abdingbare Verbraucherrechte.
 
 ## 11. Geistiges Eigentum
 
-Software, Schnittstellen, visuelle Assets, Briefpapier, Stempel, Charakterdesigns, Marken und Texte innerhalb der App sind Eigentum von uns oder unseren Lizenzgebern. Diese Bedingungen gewähren Ihnen eine persönliche, nicht ausschließliche, nicht übertragbare Lizenz zur Nutzung der App.
+Software, Benutzeroberflächen, visuelle Inhalte, Briefpapier, Briefmarken, Dekorationen, Figuren, Fahrzeuge, Marken sowie von der App bereitgestellte Texte und Materialien (ausgenommen Nutzerinhalte) gehören Yong Wang oder den jeweiligen Lizenzgebern. Diese Bedingungen gewähren Ihnen vorbehaltlich des anwendbaren Rechts eine begrenzte, persönliche, nicht ausschließliche und nicht übertragbare Erlaubnis zur Nutzung der App. Rechte an geistigem Eigentum werden nicht übertragen.
 
-Sie dürfen die erhaltenen Briefinhalte für persönliche, nicht kommerzielle Zwecke aufbewahren und weitergeben. Die kommerzielle Nutzung, unerlaubte Vervielfältigung oder Weiterverbreitung ist strengstens untersagt.
+Durch das Versenden eines Briefes überträgt dessen Verfasser keine Rechte an seinem Inhalt; der Empfang ändert nichts an der Urheberschaft. Sie dürfen erhaltene Inhalte im Rahmen der Rechte ihres Verfassers und des anwendbaren Rechts nutzen. Diese Bedingungen räumen uns keine weitergehenden Rechte an Ihren Inhalten ein als die in Abschnitt 4 beschriebene begrenzte Erlaubnis.
 
-„Umleitungspost“ und zugehörige Logos sind unsere Markenzeichen. Apple, App Store und MapKit sind Marken von Apple Inc.
+„Detour Post“ und die zugehörigen Logos sind Marken von Yong Wang. Apple, App Store und MapKit sind Marken von Apple Inc. Die Kartenbasis und die Online-Ortssuche nutzen Apple-Dienste. Die App verwendet außerdem einen integrierten Stadtkatalog für die Suche, eine begrenzte Offline-Ersatzsuche und Kartenbeschriftungen. Einzelheiten stehen in der Datenschutzerklärung.
 
 ## 12. Anwendbares Recht und Streitbeilegung
 
-Diese Bedingungen unterliegen den am Standort des Entwicklers geltenden Gesetzen, ohne Rücksicht auf Kollisionsnormen.
+Diese Bedingungen bestimmen weder ein ausschließlich anwendbares Recht noch ein ausschließlich zuständiges Gericht. Sie beschränken keine zwingenden Verbraucherschutzrechte, die für Sie gelten. Streitigkeiten können nach dem anwendbaren Recht vor einem zuständigen Gericht oder einer anderen zuständigen Stelle geltend gemacht werden.
 
-Hierdurch werden Ihnen nicht die nach den Gesetzen Ihres gewöhnlichen Aufenthaltsorts zwingenden Verbraucherschutzrechte entzogen. Sie können Klage bei den zuständigen Gerichten an Ihrem gewöhnlichen Aufenthaltsort einreichen.
-
-Im Streitfall kontaktieren Sie uns bitte zunächst unter detourpost@aivolo.studio. Wir werden angemessene Anstrengungen unternehmen, um innerhalb von 48 Stunden zu antworten und eine gütliche Lösung anzustreben.
+Bei Streitigkeiten können Sie Yong Wang unter detourpost@aivolo.studio kontaktieren. Wenn er von Ihrer Nachricht Kenntnis erhält, wird er sich angemessen bemühen, sie zu prüfen und gegebenenfalls zu antworten. Eine bestimmte Antwortfrist wird nicht zugesagt.
 
 ## 13. Änderungen dieser Bedingungen
 
-Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Wesentliche Änderungen werden in der App deutlich sichtbar angezeigt. Durch die fortgesetzte Nutzung der App akzeptieren Sie die geänderten Bedingungen.
+Wir können diese Bedingungen aktualisieren. Der aktuelle Text und das Aktualisierungsdatum stehen auf dieser Seite. Soweit das anwendbare Recht es verlangt, informieren wir Sie oder holen Ihre Zustimmung ein. Ob die weitere Nutzung der App als Zustimmung gilt, bestimmt das anwendbare Recht.
 
 ## 14. Kontaktieren Sie uns
 
-- **Betreiber:** Yong Wang
+- **Betreiber:** Yong Wang, Privatperson
+- **E-Mail:** detourpost@aivolo.studio
 
-- **Kontakt-E-Mail:** detourpost@aivolo.studio
-
-Kundenservice und Reklamationen werden über die oben genannte E-Mail abgewickelt. Für Anfragen zu personenbezogenen Daten konsultieren Sie bitte unsere [Datenschutzerklärung](privacy-policy.en.md).
-
-© 2026 Yong Wang. Alle Rechte vorbehalten.
-
----
-
-© 2026 Yong Wang. All rights reserved.
+Bei Fragen oder Beschwerden können Sie Yong Wang kontaktieren. Eine bestimmte Antwortfrist wird nicht zugesagt. Fragen zu personenbezogenen Daten werden in der [Datenschutzerklärung](privacy-de.html) erläutert. Sicherheitsprobleme können Sie über die Meldefunktion in der App melden.
