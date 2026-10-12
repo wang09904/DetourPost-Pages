@@ -158,7 +158,7 @@ Kami akan menangani permintaan sesuai hukum yang berlaku. Waktu penanganan berga
 
 ## 10. Anak di bawah umur
 
-Aplikasi ditujukan bagi orang yang memenuhi usia minimum yang berlaku, sekurang-kurangnya 13 tahun dan dapat lebih tinggi di wilayah tertentu. Saat pendaftaran, aplikasi memeriksa pada perangkat Anda apakah bulan dan tahun lahir yang Anda masukkan serta wilayah yang dipilih memenuhi persyaratan usia. Bulan dan tahun lahir disimpan dalam data aplikasi di perangkat Anda dan tidak dikirim ke atau disimpan di server kami.
+Aplikasi ditujukan bagi orang yang memenuhi usia minimum yang berlaku, sekurang-kurangnya 16 tahun (15 tahun di Korea Selatan) dan dapat berbeda di wilayah tertentu. Saat pendaftaran, aplikasi memeriksa pada perangkat Anda apakah bulan dan tahun lahir yang Anda masukkan serta wilayah yang dipilih memenuhi persyaratan usia. Bulan dan tahun lahir disimpan dalam data aplikasi di perangkat Anda dan tidak dikirim ke atau disimpan di server kami.
 
 Jika Anda yakin seseorang mungkin belum mencapai usia minimum yang berlaku, hubungi detourpost@aivolo.studio. Jika Yong Wang mengetahui hal tersebut, ia akan berupaya secara wajar untuk meninjaunya dan mengambil langkah yang diwajibkan hukum. Tidak ada batas waktu peninjauan atau balasan tertentu yang dijanjikan. Wali juga dapat menghubungi alamat tersebut.
 

@@ -158,7 +158,7 @@ Nous traiterons les demandes conformément au droit applicable. Le délai dépen
 
 ## 10. Mineurs
 
-L’App s’adresse aux personnes ayant l’âge minimum applicable, qui est d’au moins 13 ans et peut être supérieur dans certaines régions. Lors de l’inscription, l’App vérifie sur votre appareil, à partir du mois et de l’année de naissance que vous indiquez et de la région choisie, si vous remplissez le critère d’âge applicable. Le mois et l’année de naissance restent dans les données de l’App sur votre appareil et ne sont ni transmis à nos serveurs ni enregistrés sur ceux-ci.
+L’App s’adresse aux personnes ayant l’âge minimum applicable, qui est d’au moins 16 ans (15 ans en Corée du Sud) et peut varier selon les régions. Lors de l’inscription, l’App vérifie sur votre appareil, à partir du mois et de l’année de naissance que vous indiquez et de la région choisie, si vous remplissez le critère d’âge applicable. Le mois et l’année de naissance restent dans les données de l’App sur votre appareil et ne sont ni transmis à nos serveurs ni enregistrés sur ceux-ci.
 
 Si vous pensez qu’une personne n’a peut-être pas l’âge minimum requis, écrivez à detourpost@aivolo.studio. Si Yong Wang prend connaissance de la situation, il fera des efforts raisonnables pour l’examiner et prendre les mesures exigées par le droit applicable. Aucun délai fixe d’examen ou de réponse n’est promis. Les parents ou tuteurs peuvent également écrire à cette adresse.
 

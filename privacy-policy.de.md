@@ -158,7 +158,7 @@ Wir bearbeiten Anfragen nach Maßgabe des anwendbaren Rechts. Die Bearbeitungsda
 
 ## 10. Minderjährige
 
-Die App richtet sich an Personen, die mindestens 13 Jahre alt sind; in manchen Regionen gilt ein höheres Mindestalter. Bei der Registrierung prüft die App auf Ihrem Gerät anhand Ihres Geburtsmonats und -jahrs sowie der ausgewählten Region, ob Sie die dort geltenden Altersvoraussetzungen erfüllen. Der Geburtsmonat und das Geburtsjahr bleiben in den App-Daten auf Ihrem Gerät und werden nicht an unsere Server gesendet oder dort gespeichert.
+Die App richtet sich an Personen, die mindestens 16 Jahre alt sind (in Korea mindestens 15 Jahre); in manchen Regionen kann ein anderes Mindestalter gelten. Bei der Registrierung prüft die App auf Ihrem Gerät anhand Ihres Geburtsmonats und -jahrs sowie der ausgewählten Region, ob Sie die dort geltenden Altersvoraussetzungen erfüllen. Der Geburtsmonat und das Geburtsjahr bleiben in den App-Daten auf Ihrem Gerät und werden nicht an unsere Server gesendet oder dort gespeichert.
 
 Wenn Sie vermuten, dass jemand das geltende Mindestalter nicht erreicht, schreiben Sie an detourpost@aivolo.studio. Wenn Yong Wang davon Kenntnis erhält, wird er sich in angemessenem Umfang bemühen, den Hinweis zu prüfen und die nach anwendbarem Recht erforderlichen Schritte zu ergreifen. Eine feste Prüf- oder Antwortfrist wird nicht zugesagt. Erziehungsberechtigte können sich ebenfalls an diese Adresse wenden.
 

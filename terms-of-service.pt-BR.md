@@ -32,7 +32,7 @@ Essas limitações fazem parte do produto. As próximas versões não o transfor
 
 Você deve entrar com uma conta Apple ou Google que tenha autorização para usar. Você é responsável pelo próprio uso da conta e pelas ações que autorizar por meio dela. Entre em contato se suspeitar de acesso não autorizado.
 
-Você deve ter pelo menos 13 anos. Ao se cadastrar, escolhe o ano e o mês de nascimento e sua região. O Aplicativo verifica no seu dispositivo se você atende aos requisitos de idade aplicáveis, usando as regras recebidas do serviço. Se não atender a esses requisitos, não poderá concluir o cadastro.
+Você deve ter pelo menos 16 anos (15 anos na Coreia do Sul). Ao se cadastrar, escolhe o ano e o mês de nascimento e sua região. O Aplicativo verifica no seu dispositivo se você atende aos requisitos de idade aplicáveis, usando as regras recebidas do serviço. Se não atender a esses requisitos, não poderá concluir o cadastro.
 
 Seu ano e mês de nascimento reais ficam nos dados do Aplicativo no seu dispositivo e não são enviados aos nossos servidores.
 

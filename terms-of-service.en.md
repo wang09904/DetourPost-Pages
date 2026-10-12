@@ -30,7 +30,7 @@ These limitations are integral to our product, and we will not transform this in
 
 You must sign in using an Apple or Google account that you are authorized to use. You are responsible for your own use of your account and actions you authorize through it. Please contact us if you suspect unauthorized access.
 
-You must be at least 13 years old to use the App. During registration, the App asks you to select your birth year and month and your region, then checks on your device whether you meet the applicable age requirements using the policy it receives from the service. Your actual birth year and month are stored on your device and are not sent to our servers. If you do not meet the applicable age requirement, you will not be able to complete registration.
+You must be at least 16 years old to use the App (at least 15 in Korea). During registration, the App asks you to select your birth year and month and your region, then checks on your device whether you meet the applicable age requirements using the policy it receives from the service. Your actual birth year and month are stored on your device and are not sent to our servers. If you do not meet the applicable age requirement, you will not be able to complete registration.
 
 An account is strictly for personal use by the registered individual. Account selling, lending, sharing, or multi-person shared access is prohibited.
 

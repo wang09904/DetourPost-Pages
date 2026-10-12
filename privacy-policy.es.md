@@ -158,7 +158,7 @@ Tramitaremos las solicitudes conforme a la legislación aplicable. El plazo depe
 
 ## 10. Menores
 
-La app está dirigida a personas que cumplen la edad mínima aplicable, que es de al menos 13 años y puede ser mayor en algunas regiones. Durante el registro, la app comprueba en tu dispositivo, según el mes y año de nacimiento que indicas y la región elegida, si cumples el requisito de edad correspondiente. El mes y año se guardan en los datos de la app de tu dispositivo y no se envían ni se almacenan en nuestros servidores.
+La app está dirigida a personas que cumplen la edad mínima aplicable, que es de al menos 16 años (15 años en Corea) y puede variar en algunas regiones. Durante el registro, la app comprueba en tu dispositivo, según el mes y año de nacimiento que indicas y la región elegida, si cumples el requisito de edad correspondiente. El mes y año se guardan en los datos de la app de tu dispositivo y no se envían ni se almacenan en nuestros servidores.
 
 Si crees que alguien podría no tener la edad mínima aplicable, escribe a detourpost@aivolo.studio. Si Yong Wang llega a tener conocimiento del caso, hará esfuerzos razonables por revisarlo y tomar las medidas que exija la legislación aplicable. No se promete un plazo fijo de revisión o respuesta. Las personas tutoras también pueden escribir a esa dirección.
 

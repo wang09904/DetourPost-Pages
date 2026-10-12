@@ -156,7 +156,7 @@ To submit a privacy request, email detourpost@aivolo.studio. Response timing dep
 
 ## 10. Minors
 
-The App is intended for users who meet the minimum age that applies to them, which is at least 13 and may be higher in some jurisdictions. If you believe someone may have registered below the applicable minimum age, contact detourpost@aivolo.studio. If Yong Wang becomes aware of the concern, he will make reasonable efforts to review it and take steps required by applicable law. No fixed review or response time is promised.
+The App is intended for users who meet the minimum age that applies to them, which is at least 16 (at least 15 in Korea) and may vary in some jurisdictions. If you believe someone may have registered below the applicable minimum age, contact detourpost@aivolo.studio. If Yong Wang becomes aware of the concern, he will make reasonable efforts to review it and take steps required by applicable law. No fixed review or response time is promised.
 
 ## 11. Security Measures
 

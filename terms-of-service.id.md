@@ -32,7 +32,7 @@ Keterbatasan ini merupakan bagian integral dari produk kami, dan kami tidak akan
 
 Anda harus masuk dengan akun Apple atau Google yang berhak Anda gunakan. Anda bertanggung jawab atas penggunaan akun oleh Anda sendiri dan tindakan yang Anda izinkan melalui akun tersebut. Hubungi kami jika Anda menduga ada akses tanpa izin.
 
-Anda harus berusia setidaknya 13 tahun. Saat mendaftar, Anda memilih tahun dan bulan lahir serta wilayah Anda. Aplikasi memeriksa kelayakan usia pada perangkat Anda berdasarkan aturan yang diterima dari layanan. Jika Anda tidak memenuhi persyaratan usia yang berlaku, pendaftaran tidak dapat diselesaikan.
+Anda harus berusia setidaknya 16 tahun (15 tahun di Korea Selatan). Saat mendaftar, Anda memilih tahun dan bulan lahir serta wilayah Anda. Aplikasi memeriksa kelayakan usia pada perangkat Anda berdasarkan aturan yang diterima dari layanan. Jika Anda tidak memenuhi persyaratan usia yang berlaku, pendaftaran tidak dapat diselesaikan.
 
 Tahun dan bulan lahir Anda yang sebenarnya disimpan dalam data aplikasi di perangkat Anda dan tidak dikirim ke server kami.
 

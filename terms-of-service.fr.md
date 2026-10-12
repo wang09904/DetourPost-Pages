@@ -32,7 +32,7 @@ Ces limites font partie intégrante du produit ; les prochaines versions ne le t
 
 Vous devez vous connecter avec un compte Apple ou Google que vous êtes autorisé à utiliser. Vous êtes responsable de votre propre utilisation du compte et des actions que vous autorisez par son intermédiaire. Contactez-nous si vous soupçonnez un accès non autorisé.
 
-Vous devez avoir au moins 13 ans. À l’inscription, vous choisissez votre année et votre mois de naissance ainsi que votre région. L’Application vérifie sur votre appareil si vous remplissez les conditions d’âge applicables, à partir des règles fournies par le service. Si vous ne les remplissez pas, vous ne pouvez pas finaliser l’inscription.
+Vous devez avoir au moins 16 ans (15 ans en Corée du Sud). À l’inscription, vous choisissez votre année et votre mois de naissance ainsi que votre région. L’Application vérifie sur votre appareil si vous remplissez les conditions d’âge applicables, à partir des règles fournies par le service. Si vous ne les remplissez pas, vous ne pouvez pas finaliser l’inscription.
 
 Votre année et votre mois de naissance réels restent dans les données de l’Application sur votre appareil et ne sont pas transmis à nos serveurs.
 

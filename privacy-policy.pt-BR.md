@@ -158,7 +158,7 @@ Trataremos as solicitações de acordo com a legislação aplicável. O prazo de
 
 ## 10. Menores
 
-O app é destinado a pessoas que atendam à idade mínima aplicável, que é de pelo menos 13 anos e pode ser maior em algumas regiões. No cadastro, o app verifica no seu dispositivo, com base no mês e ano de nascimento informados e na região escolhida, se você atende ao requisito de idade aplicável. O mês e o ano ficam nos dados do app no seu dispositivo e não são enviados nem armazenados em nossos servidores.
+O app é destinado a pessoas que atendam à idade mínima aplicável, que é de pelo menos 16 anos (15 anos na Coreia do Sul) e pode variar em algumas regiões. No cadastro, o app verifica no seu dispositivo, com base no mês e ano de nascimento informados e na região escolhida, se você atende ao requisito de idade aplicável. O mês e o ano ficam nos dados do app no seu dispositivo e não são enviados nem armazenados em nossos servidores.
 
 Se você acredita que alguém talvez não tenha a idade mínima aplicável, escreva para detourpost@aivolo.studio. Se Yong Wang tomar conhecimento do caso, fará esforços razoáveis para analisá-lo e tomar as medidas exigidas pela legislação aplicável. Não há prazo fixo de análise ou resposta prometido. Responsáveis legais também podem escrever para esse endereço.
 
